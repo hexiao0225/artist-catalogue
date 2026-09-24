@@ -1,0 +1,122 @@
+{
+  "name": "Peder Balke",
+  "nativeName": null,
+  "born": 1804,
+  "died": 1887,
+  "birthplace": "Helgøya, Nes, Hedmark, Norway",
+  "basedIn": "Christiania (Oslo), Norway",
+  "nationality": "Norwegian",
+  "mediums": [
+    "Painting",
+    "Oil sketch",
+    "Lithography"
+  ],
+  "tags": [
+    "Norwegian Romanticism",
+    "Seascape",
+    "Northern Norway",
+    "Sublime",
+    "Tonal painting",
+    "Oil sketch"
+  ],
+  "bio": "Peder Balke trained as a decorative painter before he became an artist, and he kept working in both fields throughout his career. In 1832 he made his first long journey to northern Norway. He was one of the first Norwegian artists to travel north of Trondheim, and he went all the way to Finnmark. The steep coast, North Cape and Stetind stayed his main subjects for the rest of his life. He studied with J.C. Dahl in Dresden in 1836 and again in 1843–44, and he sold a series of twenty-six sketches to the French king Louis Philippe, which are now in the Louvre. Late in life he painted small, spare, almost monochrome panels, and he built Balkeby, a housing area for workers on his estate in Christiania.",
+  "studyNotes": [
+    "Show how the paint went on. Nasjonalmuseet notes that his paintings clearly show whether he used brushes, palette knives or even his fingers. The Tempest (10.3 × 12.2 cm) is a good small panel to study. Its sky, waves and rocks are each made with one confident sweep of wet paint, with no detail added afterwards.",
+    "Use a limited palette. Most of the late works are almost grisaille: black, white and grey, sometimes with one warm note, such as the narrow red stripe where dark meets light in Lighthouse on the Norwegian Coast. The mood comes from contrasts of value rather than from colour.",
+    "Balance light against dark in planned proportions. The museum describes Lighthouse on the Norwegian Coast as held in balance by a light-to-dark ratio of roughly 1:3, with the long flat beach set against the vertical lighthouse. Try blocking in the big value masses before anything else.",
+    "Work the same motif many times at different sizes. He painted Stetind and North Cape again and again over several decades, from finished canvases about 60 × 70 cm down to oil sketches on cardboard about 10 × 12 cm, simplifying each time. It is a useful model for a series that pares a subject down step by step.",
+    "Use scale and a centred mass for the sublime. In Stetind in Fog the peak sits in the centre above a low horizon and a band of grey fog, with tiny boats and figures showing how small people are against it. His decorative-painting background shows in the flat, graphic shapes."
+  ],
+  "myNotes": [],
+  "recommendedBy": null,
+  "status": "to-study",
+  "addedOn": "2026-09-24",
+  "links": [
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Peder_Balke"
+    },
+    {
+      "label": "Nasjonalmuseet: Stetind in Fog",
+      "url": "https://www.nasjonalmuseet.no/en/collection/object/NG.M.03335"
+    },
+    {
+      "label": "The Met: The North Cape by Moonlight",
+      "url": "https://www.metmuseum.org/art/collection/search/441379"
+    },
+    {
+      "label": "National Gallery, London: The Tempest",
+      "url": "https://www.nationalgallery.org.uk/paintings/peder-balke-the-tempest"
+    },
+    {
+      "label": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Peder_Balke"
+    }
+  ],
+  "portrait": {
+    "file": "portrait.jpg",
+    "credit": "Ludwik Szaciński, carte de visite, before 1887. National Library of Norway, public domain, via Wikimedia Commons"
+  },
+  "works": [
+    {
+      "title": "Stetind in Fog (Stetind i tåke)",
+      "year": "1864",
+      "medium": "Oil on canvas",
+      "dimensions": "71.5 × 58.5 cm",
+      "collection": "Nasjonalmuseet, Oslo (NG.M.03335)",
+      "file": "01-stetind-in-fog.jpg",
+      "credit": "Nasjonalmuseet, public domain, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peder_Balke_-_Stetind_in_Fog_-_NG.M.03335_-_National_Museum_of_Art,_Architecture_and_Design.jpg"
+    },
+    {
+      "title": "Lighthouse on the Norwegian Coast (Fyr på den norske kyst)",
+      "year": "1850–60",
+      "medium": "Oil on canvas mounted on board",
+      "dimensions": "58.3 × 70.8 cm",
+      "collection": "Nasjonalmuseet, Oslo (NG.M.01320)",
+      "file": "02-lighthouse-on-the-norwegian-coast.jpg",
+      "credit": "Nasjonalmuseet, public domain, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peder_Balke_-_Lighthouse_on_the_Norwegian_Coast_-_NG.M.01320_-_National_Museum_of_Art,_Architecture_and_Design.jpg"
+    },
+    {
+      "title": "The North Cape by Moonlight",
+      "year": "1848",
+      "medium": "Oil on canvas",
+      "dimensions": "62 × 85 cm",
+      "collection": "The Metropolitan Museum of Art, New York (2019.167.4)",
+      "file": "03-north-cape-by-moonlight.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access (CC0)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peder_Balke_-_The_North_Cape_by_Moonlight_-_2019.167.4_-_Metropolitan_Museum_of_Art.jpg"
+    },
+    {
+      "title": "The Tempest",
+      "year": "c. 1862",
+      "medium": "Oil on wood",
+      "dimensions": "10.3 × 12.2 cm",
+      "collection": "The National Gallery, London (NG6614)",
+      "file": "04-the-tempest.jpg",
+      "credit": "The National Gallery, London, public domain, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peder_Balke_(1804-1887)_-_The_Tempest_-_NG6614_-_National_Gallery.jpg"
+    },
+    {
+      "title": "Vardøhus Fortress (Vardøhus festning)",
+      "year": "c. 1870",
+      "medium": "Oil on wood panel",
+      "dimensions": "18 × 23 cm",
+      "collection": "Nasjonalmuseet, Oslo (NG.M.01321)",
+      "file": "05-vardohus-fortress.jpg",
+      "credit": "Nasjonalmuseet / Google Art Project, public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peder_Balke_-_Vard%C3%B8hus_Fortress_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Northern Lights over Coastal Landscape (Nordlys over klippekyst)",
+      "year": "1870s",
+      "medium": "Oil on cardboard",
+      "dimensions": "10.5 × 12 cm",
+      "collection": "Nasjonalmuseet, Oslo (NG.M.01323)",
+      "file": "06-northern-lights-over-coastal-landscape.jpg",
+      "credit": "Nasjonalmuseet / Google Art Project, public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peder_Balke_-_Northern_Lights_over_Coastal_Landscape_-_Google_Art_Project.jpg"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "name": "Sosa Joseph",
+  "nativeName": null,
+  "born": 1971,
+  "died": null,
+  "birthplace": "Parumala, Kerala, India",
+  "basedIn": "London (previously Mattancherry, Kochi)",
+  "nationality": "Indian",
+  "mediums": [
+    "Painting"
+  ],
+  "tags": [
+    "Expressionist figuration",
+    "Narrative painting",
+    "Kerala",
+    "Women's lives",
+    "Indian Ocean slave trade"
+  ],
+  "bio": "Sosa Joseph (b. 1971, Parumala, Kerala) grew up by the Pamba River in the Kuttanad region. She studied painting at Raja Ravi Varma College of Fine Arts, Kerala (1990–95), and at the Faculty of Fine Arts, Maharaja Sayajirao University of Baroda (1996–98). She paints in oil, turning everyday and historical scenes from Kerala into crowded, dreamlike figurative compositions. These include the women of Mattancherry, village life along the Pamba, and, in The Hushed History of Oblivion (Stevenson, Cape Town, 2023), people enslaved through the Indian Ocean trade. Her work was shown at the first Kochi-Muziris Biennale (2012), Stedelijk Museum Bureau Amsterdam (2015), the Setouchi Triennale (2016), the Centre Pompidou (2017) and the 21st Biennale of Sydney (2018). It is held by the Metropolitan Museum of Art, New York, and the Kiran Nadar Museum of Art, New Delhi.",
+  "studyNotes": [
+    "She treats paint as a material you shape: she has described moulding the paint on the canvas 'like clay', and images come out of colour and form rather than from a fixed plan. Try letting the figures appear out of loose passages of colour instead of drawing them first.",
+    "She paints over earlier versions of a picture. Earlier states stay under the final one, so the surface looks worked and slightly tentative. Her marks are 'solid but provisional', which shows you can keep a painting open by repainting it rather than tidying it up.",
+    "Her colour is milky and high in value (lilac, turquoise, pink, pale ochre), cut through with thin, delicate drawn lines and loose brushwork. This holds unsettling subjects inside what she calls a 'harmony' on the canvas.",
+    "She composes like a scroll or a crowd. Many small scenes sit across a shallow, flattened space without one vanishing point, from the 1.5 × 3.7 m What are we? III to the 5.5 m triptych The Hushed History of Oblivion. This is a way to tell several stories at once in one picture.",
+    "Her subject matter is openly political (slavery archives, religion, mobs, women's domestic lives), but she says her decisions become 'entirely formal' once she starts painting. Study how she chooses sources (newspapers, books, local history) and then gives the picture over to its formal needs."
+  ],
+  "myNotes": [],
+  "recommendedBy": null,
+  "status": "to-study",
+  "addedOn": "2026-09-24",
+  "links": [
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sosa_Joseph"
+    },
+    {
+      "label": "Galerie Mirchandani + Steinruecke",
+      "url": "https://www.galeriems.com/artists/sosa-joseph/cv"
+    },
+    {
+      "label": "Viewing room (text by Grant Watson)",
+      "url": "https://galeriems-viewingroom.exhibit-e.art/viewing-room/sosa-joseph"
+    },
+    {
+      "label": "Stevenson: The Hushed History of Oblivion",
+      "url": "https://www.stevenson.info/exhibition/7988"
+    },
+    {
+      "label": "The Met: What are we? III (2012)",
+      "url": "https://www.metmuseum.org/art/collection/search/848290"
+    }
+  ],
+  "portrait": null,
+  "works": [
+    {
+      "title": "Other Colours",
+      "year": "2013",
+      "medium": "Oil on canvas (diptych)",
+      "dimensions": "152 × 182.8 cm",
+      "collection": null,
+      "file": "01-other-colours.jpg",
+      "credit": "Courtesy the artist and Galerie Mirchandani + Steinruecke, Mumbai",
+      "sourceUrl": "https://galeriems-viewingroom.exhibit-e.art/viewing-room/sosa-joseph"
+    },
+    {
+      "title": "Ferryman and his Jaundiced Child",
+      "year": "2019",
+      "medium": "Oil on canvas",
+      "dimensions": "272.5 × 147 cm",
+      "collection": "Exhibited: Where do we come from?, Galerie Mirchandani + Steinruecke, 2022",
+      "file": "02-ferryman-and-his-jaundiced-child.jpg",
+      "credit": "Courtesy the artist and Galerie Mirchandani + Steinruecke, Mumbai",
+      "sourceUrl": "https://galeriems-viewingroom.exhibit-e.art/viewing-room/sosa-joseph"
+    },
+    {
+      "title": "Pieta",
+      "year": "2020",
+      "medium": "Oil on canvas",
+      "dimensions": "172.7 × 213.3 cm",
+      "collection": null,
+      "file": "03-pieta.jpg",
+      "credit": "Courtesy the artist and Galerie Mirchandani + Steinruecke, Mumbai",
+      "sourceUrl": "https://galeriems-viewingroom.exhibit-e.art/viewing-room/sosa-joseph"
+    },
+    {
+      "title": "Abduction of Anima, Kuttanad, Kerala",
+      "year": "2022",
+      "medium": "Oil on canvas",
+      "dimensions": "122 × 183 cm",
+      "collection": "Exhibited: The Hushed History of Oblivion, Stevenson, Cape Town, 2023",
+      "file": "04-abduction-of-anima.jpg",
+      "credit": "Courtesy the artist and Stevenson, Cape Town/Amsterdam",
+      "sourceUrl": "https://www.stevenson.info/exhibition/7988/work/5"
+    },
+    {
+      "title": "April van Cochin and others detained in a defunct church, Cochin",
+      "year": "2022–23",
+      "medium": "Oil on canvas",
+      "dimensions": "183 × 152 cm",
+      "collection": "Exhibited: The Hushed History of Oblivion, Stevenson, Cape Town, 2023",
+      "file": "05-april-van-cochin.jpg",
+      "credit": "Courtesy the artist and Stevenson, Cape Town/Amsterdam",
+      "sourceUrl": "https://www.stevenson.info/exhibition/7988/work/2"
+    },
+    {
+      "title": "The Hushed History of Oblivion",
+      "year": "2022–23",
+      "medium": "Oil on canvas (triptych)",
+      "dimensions": "244 × 549 cm overall",
+      "collection": "Exhibited: The Hushed History of Oblivion, Stevenson, Cape Town, 2023",
+      "file": "06-the-hushed-history-of-oblivion.jpg",
+      "credit": "Courtesy the artist and Stevenson, Cape Town/Amsterdam",
+      "sourceUrl": "https://www.stevenson.info/exhibition/7988/work/1"
+    }
+  ]
+}

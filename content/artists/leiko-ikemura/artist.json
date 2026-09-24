@@ -1,0 +1,122 @@
+{
+  "name": "Leiko Ikemura",
+  "nativeName": "イケムラレイコ",
+  "born": 1951,
+  "died": null,
+  "birthplace": "Tsu, Mie Prefecture, Japan",
+  "basedIn": "Berlin and Cologne, Germany",
+  "nationality": "Japanese-Swiss",
+  "mediums": [
+    "Painting",
+    "Sculpture",
+    "Drawing",
+    "Photography",
+    "Glass",
+    "Ceramics"
+  ],
+  "tags": [
+    "Neo-Expressionism",
+    "Figuration",
+    "Hybrid figures",
+    "Girl figures",
+    "Landscape / horizon",
+    "East–West synthesis",
+    "Tempera on jute"
+  ],
+  "bio": "Leiko Ikemura was born in Tsu, Mie Prefecture, in 1951. She studied Spanish at Osaka University from 1970 to 1972, then trained as a painter in Granada and Seville between 1973 and 1978. She moved to Zurich in 1979, to Munich in 1984 and to Cologne in 1986. In the early 1980s she was linked with the expressive figurative painting of the time, and her later work covers painting, drawing, sculpture in terracotta, bronze and glass, and photography. Recurring subjects include girls, hybrid human-animal beings, horizons and the rabbit-headed Usagi Kannon, which she made after the 2011 Tōhoku earthquake. She has taught at the Universität der Künste Berlin since 1991, and her work is held by the Centre Pompidou, the Kunstmuseum Basel and the National Museum of Modern Art, Tokyo.",
+  "studyNotes": [
+    "The ground matters. Most of her mature paintings are on jute or nettle rather than primed canvas, and the coarse weave shows through thin paint. Try thin washes on raw jute and let the texture take part in the picture.",
+    "She layers tempera and oil. Captions from about 2012 onward almost always read 'tempera and oil' or 'tempera on jute'. Matte, fast-drying tempera builds up veils of colour, and oil adds depth in places. It is worth copying a small passage to learn how the two media sit together.",
+    "Figures dissolve into their setting. Reclining girls, clouds and horizons fade into soft fields of colour with little edge or contour. Practise figure–ground ambiguity by blurring the line where the body meets the space around it.",
+    "Many works carry two dates, for example 2001/04, 2014/17 and 2012/15. She comes back to a picture over years instead of finishing it in one campaign, which is a good argument for keeping several canvases going and letting them rest.",
+    "The same image moves between media. The girl, the horizon and the rabbit-headed Usagi figure appear in paint, terracotta, bronze and cast glass, so a single motif can be tested in different materials to find out what each one does to it."
+  ],
+  "myNotes": [],
+  "recommendedBy": null,
+  "status": "to-study",
+  "addedOn": "2026-09-24",
+  "links": [
+    {
+      "label": "Official site",
+      "url": "https://leiko.info/"
+    },
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Leiko_Ikemura"
+    },
+    {
+      "label": "AWARE Women Artists",
+      "url": "https://awarewomenartists.com/en/artiste/leiko-ikemura/"
+    },
+    {
+      "label": "Lisson Gallery",
+      "url": "https://www.lissongallery.com/artists/leiko-ikemura"
+    }
+  ],
+  "portrait": {
+    "file": "portrait.jpg",
+    "credit": "Barbara Niggl Radloff, Leiko Ikemura in the Villa Waldberta (1990s). Münchner Stadtmuseum. CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "works": [
+    {
+      "title": "Empress kills Emperor",
+      "year": "1983",
+      "medium": "Acrylic on canvas",
+      "dimensions": "196 × 222 cm",
+      "collection": "Private collection",
+      "file": "01-empress-kills-emperor.jpg",
+      "credit": "© Leiko Ikemura / VG Bild-Kunst. Image: leiko.info",
+      "sourceUrl": "https://leiko.info/works/painting/war/"
+    },
+    {
+      "title": "Lying in Black",
+      "year": "1999",
+      "medium": "Oil on canvas",
+      "dimensions": "100 × 140 cm",
+      "collection": "Toyota Municipal Museum of Art, Japan",
+      "file": "02-lying-in-black.jpg",
+      "credit": "© Leiko Ikemura / VG Bild-Kunst. Photo: Lothar Schnepf",
+      "sourceUrl": "https://leiko.info/works/painting/girls/"
+    },
+    {
+      "title": "Asa no umi (朝の海, Morning Sea)",
+      "year": "2005",
+      "medium": "Oil on canvas",
+      "dimensions": "120 × 160 cm",
+      "collection": "Vangi Sculpture Garden Museum, Shizuoka, Japan",
+      "file": "03-asa-no-umi.jpg",
+      "credit": "© Leiko Ikemura / VG Bild-Kunst. Photo: Kei Okano",
+      "sourceUrl": "https://leiko.info/works/painting/horizons/"
+    },
+    {
+      "title": "Hasentempel (Usagi Kannon)",
+      "year": "2012/15",
+      "medium": "Patinated bronze",
+      "dimensions": "ca. 340 × 159 × 138 cm",
+      "collection": "Public installation, Europaplatz, Recklinghausen, Germany",
+      "file": "04-hasentempel.jpg",
+      "credit": "Photo: Dat doris, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:RE-Hasentempel-Leiko_Ikemura_01.jpg"
+    },
+    {
+      "title": "Goyesca",
+      "year": "2014",
+      "medium": "Tempera and oil on jute",
+      "dimensions": "100 × 50 cm",
+      "collection": "Musée national d'art moderne, Centre Pompidou, Paris",
+      "file": "05-goyesca.jpg",
+      "credit": "© Leiko Ikemura / VG Bild-Kunst. Photo: Lea Gryze",
+      "sourceUrl": "https://leiko.info/works/painting/hybrids/"
+    },
+    {
+      "title": "Female Genesis",
+      "year": "2016",
+      "medium": "Tempera and oil on jute",
+      "dimensions": "190 × 290 cm",
+      "collection": null,
+      "file": "06-female-genesis.jpg",
+      "credit": "© Leiko Ikemura / VG Bild-Kunst. Photo: Jörg von Bruchhausen",
+      "sourceUrl": "https://leiko.info/works/painting/genesis/"
+    }
+  ]
+}

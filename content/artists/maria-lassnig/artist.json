@@ -1,0 +1,115 @@
+{
+  "name": "Maria Lassnig",
+  "nativeName": null,
+  "born": 1919,
+  "died": 2014,
+  "birthplace": "Kappel am Krappfeld, Carinthia, Austria",
+  "basedIn": "Vienna, Austria",
+  "nationality": "Austrian",
+  "mediums": [
+    "Painting",
+    "Drawing",
+    "Watercolour",
+    "Animated film"
+  ],
+  "tags": [
+    "Body awareness painting",
+    "Self-portraiture",
+    "Informel",
+    "Figuration",
+    "Feminist art",
+    "Animation"
+  ],
+  "bio": "Maria Lassnig was born in 1919 in Kappel am Krappfeld, Carinthia, and died in Vienna in 2014. In 1948 she began what she later called Körpergefühlsmalerei, or body awareness painting: she painted only the parts of her body she could actually feel while working, so her figures are often fragmentary and oddly coloured. She lived in New York from 1968 to 1980, where she studied animated film at the School of Visual Arts. She then returned to Vienna as professor of painting at the University of Applied Arts, the first woman to hold a professorship in painting in a German-speaking country. She received the Grand Austrian State Prize in 1988 and the Golden Lion for Lifetime Achievement at the 2013 Venice Biennale, and major retrospectives followed at MoMA PS1 (2014) and Tate Liverpool (2016).",
+  "studyNotes": [
+    "Paint from the inside out. Lassnig worked from felt sensation, not from a mirror or model: she left out the parts of the body she could not feel and exaggerated those she could, such as pressure points, the mouth and the hands. Try painting a self-portrait with your eyes closed, putting down only what you feel.",
+    "Colour carries sensation, not appearance. Flesh turns into mint greens, violets, pinks and cool blues (see Brettl vorm Kopf, 1967). Pick hues for how a body part feels, whether tight, hot or numb, rather than for how skin looks.",
+    "Keep the ground thin and open. Many of the canvases use thinned oil and loose, visible strokes over large areas of pale or bare ground, and some combine charcoal with oil (Self-Portrait with Stick, 1971). The underdrawing and the empty space stay part of the image.",
+    "Crop and isolate the figure. A single body is placed against a flat, almost empty field, often cut off at the edges or merged with objects such as a chair, a board or a stick. This makes the figure feel psychologically confined, which is a useful model for simple, high-tension compositions.",
+    "Return to the self-portrait over a whole life. From the 1945 expressive self-portrait to double self-portraits made in her eighties, the self is her constant subject, and irony, humour and physical frailty are all fair material."
+  ],
+  "myNotes": [],
+  "recommendedBy": null,
+  "status": "to-study",
+  "addedOn": "2026-09-24",
+  "links": [
+    {
+      "label": "Maria Lassnig Foundation",
+      "url": "https://www.marialassnig.org/"
+    },
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Maria_Lassnig"
+    },
+    {
+      "label": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Maria_Lassnig"
+    }
+  ],
+  "portrait": {
+    "file": "portrait.jpg",
+    "credit": "Maria Lassnig at Museum Ludwig, Cologne, 2009. Photo: Till Niermann, CC BY-SA 3.0, via Wikimedia Commons"
+  },
+  "works": [
+    {
+      "title": "Expressive Self-Portrait (Selbstporträt expressiv)",
+      "year": "1945",
+      "medium": "Oil and charcoal on fibreboard",
+      "dimensions": "60 × 48 cm",
+      "collection": null,
+      "file": "01-expressive-self-portrait.jpg",
+      "credit": "© Maria Lassnig Foundation, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maria_lassnig_selbstportraet_expressiv_1945.jpg"
+    },
+    {
+      "title": "Fat Green (Dicke Grüne)",
+      "year": "1961",
+      "medium": "Oil on canvas",
+      "dimensions": "194.1 × 129.1 cm",
+      "collection": null,
+      "file": "02-fat-green.jpg",
+      "credit": "© Maria Lassnig Foundation, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maria_lassnig_dicke_gruene_1961.jpg"
+    },
+    {
+      "title": "Brettl vorm Kopf",
+      "year": "1967",
+      "medium": "Oil on canvas",
+      "dimensions": "100.5 × 115.5 cm",
+      "collection": null,
+      "file": "03-brettl-vorm-kopf.jpg",
+      "credit": "Photo: Auktionshaus im Kinsky, CC BY-SA 4.0, via Wikimedia Commons. © Maria Lassnig Foundation",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maria_Lassnig_(1919_-_2014)_Brettl_vorm_Kopf,_1967.jpg"
+    },
+    {
+      "title": "Self-Portrait with Stick (Selbstporträt mit Stab)",
+      "year": "1971",
+      "medium": "Oil and charcoal on canvas",
+      "dimensions": "193 × 129 cm",
+      "collection": null,
+      "file": "04-self-portrait-with-stick.jpg",
+      "credit": "© Maria Lassnig Foundation, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maria_lassnig_selbstportraet_mit_stab_1971.jpg"
+    },
+    {
+      "title": "Untitled (Screaming Woman)",
+      "year": "1981",
+      "medium": "Pencil and watercolour on paper",
+      "dimensions": "62.7 × 43.8 cm",
+      "collection": null,
+      "file": "05-untitled-screaming-woman.jpg",
+      "credit": "© Maria Lassnig Foundation, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maria_lassnig_ohne_titel_1981.jpg"
+    },
+    {
+      "title": "Two Ways of Being (Double Self-Portrait)",
+      "year": "2000",
+      "medium": "Oil on canvas",
+      "dimensions": "100 × 125 cm",
+      "collection": null,
+      "file": "06-two-ways-of-being.jpg",
+      "credit": "© Maria Lassnig Foundation, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maria-lassnig-zwei-arten-zu-sein-doppelselbstportraet-2000.tif"
+    }
+  ]
+}
