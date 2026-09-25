@@ -1,8 +1,8 @@
 # Artist Catalogue
 
-A museum-style catalogue of artists to study, built with React + TypeScript and published to GitHub Pages.
+A museum-style catalogue of artists to study, built with React + TypeScript and deployed on Vercel.
 
-**Live:** https://hexiao0225.github.io/artist-catalogue/
+**Live:** https://artist-catalogue.vercel.app/
 
 ## Add an artist
 
@@ -20,7 +20,7 @@ content/artists/maria-lassnig/
    You can also create the file on github.com with *Add file → Create new file*.
 2. Put the images next to it, about 1600px on the long edge. The first work in `works` becomes the cover.
 3. Fill in the JSON. `status` is `to-study`, `studying` or `studied`. Your own observations go in `myNotes`.
-4. Commit to `main`. GitHub Actions validates the content, builds the site and deploys it.
+4. Commit to `main`. Vercel validates the content, builds the site and deploys it. A broken entry fails the build and the live site stays as it was.
 
 `npm run validate` checks every folder: required fields, date formats and that every referenced image exists.
 

@@ -58,8 +58,8 @@ export default function AboutPage() {
             <code>studied</code> as you go, and write your own observations in <code>myNotes</code>.
           </li>
           <li>
-            <strong>Commit to main.</strong> GitHub Actions checks the content, builds the site and
-            publishes it to GitHub Pages in about a minute. If an image is missing or a field is
+            <strong>Commit to main.</strong> Vercel checks the content, builds the site and
+            publishes it in about a minute. If an image is missing or a field is
             wrong, the build fails and tells you which file to fix.
           </li>
         </ol>
