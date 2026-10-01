@@ -14,7 +14,10 @@ export default function ArtistCard({ artist }: { artist: Artist }) {
         {artist.nationality}, {lifeDates(artist)}
       </p>
       <p className="card__foot">
-        <span>{artist.works.length} works</span>
+        <span>
+          {artist.works.length} works
+          {artist.videos.length > 0 && ` · ${artist.videos.length} ${artist.videos.length === 1 ? 'film' : 'films'}`}
+        </span>
         <span className={`status status--${artist.status}`}>{statusLabel[artist.status]}</span>
       </p>
     </Link>

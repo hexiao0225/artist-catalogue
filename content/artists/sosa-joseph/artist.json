@@ -54,6 +54,7 @@
   "works": [
     {
       "title": "Other Colours",
+      "kind": "painting",
       "year": "2013",
       "medium": "Oil on canvas (diptych)",
       "dimensions": "152 × 182.8 cm",
@@ -64,6 +65,7 @@
     },
     {
       "title": "Ferryman and his Jaundiced Child",
+      "kind": "painting",
       "year": "2019",
       "medium": "Oil on canvas",
       "dimensions": "272.5 × 147 cm",
@@ -74,6 +76,7 @@
     },
     {
       "title": "Pieta",
+      "kind": "painting",
       "year": "2020",
       "medium": "Oil on canvas",
       "dimensions": "172.7 × 213.3 cm",
@@ -84,6 +87,7 @@
     },
     {
       "title": "Abduction of Anima, Kuttanad, Kerala",
+      "kind": "painting",
       "year": "2022",
       "medium": "Oil on canvas",
       "dimensions": "122 × 183 cm",
@@ -94,6 +98,7 @@
     },
     {
       "title": "April van Cochin and others detained in a defunct church, Cochin",
+      "kind": "painting",
       "year": "2022–23",
       "medium": "Oil on canvas",
       "dimensions": "183 × 152 cm",
@@ -104,6 +109,7 @@
     },
     {
       "title": "The Hushed History of Oblivion",
+      "kind": "painting",
       "year": "2022–23",
       "medium": "Oil on canvas (triptych)",
       "dimensions": "244 × 549 cm overall",

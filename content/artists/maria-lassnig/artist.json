@@ -53,6 +53,7 @@
   "works": [
     {
       "title": "Expressive Self-Portrait (Selbstporträt expressiv)",
+      "kind": "painting",
       "year": "1945",
       "medium": "Oil and charcoal on fibreboard",
       "dimensions": "60 × 48 cm",
@@ -63,6 +64,7 @@
     },
     {
       "title": "Fat Green (Dicke Grüne)",
+      "kind": "painting",
       "year": "1961",
       "medium": "Oil on canvas",
       "dimensions": "194.1 × 129.1 cm",
@@ -73,6 +75,7 @@
     },
     {
       "title": "Brettl vorm Kopf",
+      "kind": "painting",
       "year": "1967",
       "medium": "Oil on canvas",
       "dimensions": "100.5 × 115.5 cm",
@@ -83,6 +86,7 @@
     },
     {
       "title": "Self-Portrait with Stick (Selbstporträt mit Stab)",
+      "kind": "painting",
       "year": "1971",
       "medium": "Oil and charcoal on canvas",
       "dimensions": "193 × 129 cm",
@@ -93,6 +97,7 @@
     },
     {
       "title": "Untitled (Screaming Woman)",
+      "kind": "drawing",
       "year": "1981",
       "medium": "Pencil and watercolour on paper",
       "dimensions": "62.7 × 43.8 cm",
@@ -103,6 +108,7 @@
     },
     {
       "title": "Two Ways of Being (Double Self-Portrait)",
+      "kind": "painting",
       "year": "2000",
       "medium": "Oil on canvas",
       "dimensions": "100 × 125 cm",

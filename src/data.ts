@@ -24,6 +24,7 @@ export const artists: Artist[] = Object.entries(files)
     return {
       ...data,
       slug,
+      videos: data.videos ?? [],
       works: data.works.map((work) => ({ ...work, src: imageUrl(slug, work.file) })),
       portrait: data.portrait
         ? { src: imageUrl(slug, data.portrait.file), credit: data.portrait.credit }
