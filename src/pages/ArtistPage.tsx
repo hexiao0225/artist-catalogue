@@ -1,4 +1,5 @@
 import { Link, useParams } from 'react-router-dom'
+import VideoPlayer from '../components/VideoPlayer'
 import WorkLabel from '../components/WorkLabel'
 import { artists, findArtist, lifeDates, statusLabel } from '../data'
 import NotFound from './NotFound'
@@ -79,6 +80,16 @@ export default function ArtistPage() {
                 )}
                 <dt>Media</dt>
                 <dd>{artist.mediums.join(', ')}</dd>
+                {artist.seenAt && (
+                  <>
+                    <dt>Seen at</dt>
+                    <dd>
+                      {artist.seenAt.url ? <a href={artist.seenAt.url}>{artist.seenAt.title}</a> : artist.seenAt.title}
+                      , {artist.seenAt.venue}
+                      {artist.seenAt.dates && `, ${artist.seenAt.dates}`}
+                    </dd>
+                  </>
+                )}
                 {artist.recommendedBy && (
                   <>
                     <dt>Recommended by</dt>
@@ -96,6 +107,28 @@ export default function ArtistPage() {
             </aside>
           </div>
         </section>
+
+        {artist.videos.length > 0 && (
+          <section className="section">
+            <h2 className="section__title">
+              Films &amp; performance <span className="count">{artist.videos.length}</span>
+            </h2>
+            <div className="films">
+              {artist.videos.map((video) => (
+                <figure key={video.url} className="film">
+                  <VideoPlayer video={video} />
+                  <figcaption className="label">
+                    <p className="label__title">
+                      <cite>{video.title}</cite>
+                      {video.year && `, ${video.year}`}
+                    </p>
+                    <p className="label__credit">{video.source}</p>
+                  </figcaption>
+                </figure>
+              ))}
+            </div>
+          </section>
+        )}
 
         {artist.studyNotes.length > 0 && (
           <section className="section">

@@ -34,13 +34,16 @@ const template = {
   studyNotes: [],
   myNotes: [],
   recommendedBy: null,
+  seenAt: null,
   status: 'to-study',
   addedOn: new Date().toISOString().slice(0, 10),
   links: [{ label: 'Wikipedia', url: '' }],
   portrait: null,
+  videos: [],
   works: [
     {
       title: '',
+      kind: 'painting',
       year: '',
       medium: 'Oil on canvas',
       dimensions: null,

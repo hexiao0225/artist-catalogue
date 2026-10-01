@@ -5,6 +5,7 @@ import { join } from 'node:path'
 
 const root = new URL('../content/artists/', import.meta.url).pathname
 const STATUSES = ['to-study', 'studying', 'studied']
+const KINDS = ['painting', 'sculpture', 'drawing', 'photograph', 'performance', 'film', 'installation']
 const errors = []
 
 for (const slug of readdirSync(root)) {
@@ -40,7 +41,17 @@ for (const slug of readdirSync(root)) {
     for (const key of ['title', 'year', 'medium', 'file', 'credit']) {
       need(typeof w[key] === 'string' && w[key], `works[${i}] needs "${key}"`)
     }
+    need(w.kind == null || KINDS.includes(w.kind), `works[${i}].kind must be one of ${KINDS.join(', ')}`)
   })
+  need(a.videos == null || Array.isArray(a.videos), '"videos" must be a list')
+  ;(a.videos ?? []).forEach((v, i) => {
+    need(typeof v.title === 'string' && v.title, `videos[${i}] needs "title"`)
+    need(typeof v.source === 'string' && v.source, `videos[${i}] needs "source"`)
+    need(/^https?:\/\//.test(v.url ?? ''), `videos[${i}].url must be a web address`)
+  })
+  if (a.seenAt != null) {
+    need(typeof a.seenAt.title === 'string' && typeof a.seenAt.venue === 'string', '"seenAt" needs "title" and "venue"')
+  }
 }
 
 if (errors.length) {

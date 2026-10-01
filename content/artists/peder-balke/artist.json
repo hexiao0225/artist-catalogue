@@ -60,6 +60,7 @@
   "works": [
     {
       "title": "Stetind in Fog (Stetind i tåke)",
+      "kind": "painting",
       "year": "1864",
       "medium": "Oil on canvas",
       "dimensions": "71.5 × 58.5 cm",
@@ -70,6 +71,7 @@
     },
     {
       "title": "Lighthouse on the Norwegian Coast (Fyr på den norske kyst)",
+      "kind": "painting",
       "year": "1850–60",
       "medium": "Oil on canvas mounted on board",
       "dimensions": "58.3 × 70.8 cm",
@@ -80,6 +82,7 @@
     },
     {
       "title": "The North Cape by Moonlight",
+      "kind": "painting",
       "year": "1848",
       "medium": "Oil on canvas",
       "dimensions": "62 × 85 cm",
@@ -90,6 +93,7 @@
     },
     {
       "title": "The Tempest",
+      "kind": "painting",
       "year": "c. 1862",
       "medium": "Oil on wood",
       "dimensions": "10.3 × 12.2 cm",
@@ -100,6 +104,7 @@
     },
     {
       "title": "Vardøhus Fortress (Vardøhus festning)",
+      "kind": "painting",
       "year": "c. 1870",
       "medium": "Oil on wood panel",
       "dimensions": "18 × 23 cm",
@@ -110,6 +115,7 @@
     },
     {
       "title": "Northern Lights over Coastal Landscape (Nordlys over klippekyst)",
+      "kind": "painting",
       "year": "1870s",
       "medium": "Oil on cardboard",
       "dimensions": "10.5 × 12 cm",

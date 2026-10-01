@@ -1,17 +1,20 @@
 import { useCallback, useEffect, useMemo, useRef } from 'react'
 import { Link, useNavigate, useParams, useSearchParams } from 'react-router-dom'
+import VideoPlayer from '../components/VideoPlayer'
 import WorkLabel from '../components/WorkLabel'
 import { artists, findArtist, lifeDates } from '../data'
-import type { Artist, ResolvedWork } from '../types'
+import type { Artist, ResolvedWork, Video } from '../types'
 
 type Slide =
   | { kind: 'title'; artist: Artist }
   | { kind: 'work'; artist: Artist; work: ResolvedWork; n: number }
+  | { kind: 'video'; artist: Artist; video: Video; n: number }
 
 function buildSlides(list: Artist[]): Slide[] {
   return list.flatMap((artist) => [
     { kind: 'title' as const, artist },
     ...artist.works.map((work, n) => ({ kind: 'work' as const, artist, work, n })),
+    ...artist.videos.map((video, n) => ({ kind: 'video' as const, artist, video, n })),
   ])
 }
 
@@ -112,7 +115,30 @@ export default function SlidesPage() {
           <h1 className="deck__name">{slide.artist.name}</h1>
           {slide.artist.nativeName && <p className="deck__native">{slide.artist.nativeName}</p>}
           <p className="deck__summary">{summary(slide.artist.bio)}</p>
-          <p className="deck__eyebrow">{slide.artist.works.length} works</p>
+          <p className="deck__eyebrow">
+            {slide.artist.works.length} works
+            {slide.artist.videos.length > 0 && ` · ${slide.artist.videos.length} films`}
+          </p>
+        </section>
+      ) : slide.kind === 'video' ? (
+        <section className="deck__work" key={`v-${slide.artist.slug}-${slide.n}`}>
+          <div className="deck__image deck__video">
+            <VideoPlayer video={slide.video} />
+          </div>
+          <div className="deck__label">
+            <div className="label">
+              <p className="kind">Film</p>
+              <p className="label__artist">{slide.artist.name}</p>
+              <p className="label__title">
+                <cite>{slide.video.title}</cite>
+                {slide.video.year && `, ${slide.video.year}`}
+              </p>
+              <p className="label__credit">{slide.video.source}</p>
+            </div>
+            <p className="deck__index">
+              Film {slide.n + 1} of {slide.artist.videos.length}
+            </p>
+          </div>
         </section>
       ) : (
         <section className="deck__work" key={`w-${slide.artist.slug}-${slide.n}`}>

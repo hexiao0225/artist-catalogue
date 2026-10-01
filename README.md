@@ -20,6 +20,8 @@ content/artists/maria-lassnig/
    You can also create the file on github.com with *Add file → Create new file*.
 2. Put the images next to it, about 1600px on the long edge. The first work in `works` becomes the cover.
 3. Fill in the JSON. `status` is `to-study`, `studying` or `studied`. Your own observations go in `myNotes`.
+   Films go in `videos` (YouTube and Vimeo play inline and appear in the slides). `kind: "film"` or `"performance"` tags a work.
+   `seenAt` records the show where you saw the work in person.
 4. Commit to `main`. Vercel validates the content, builds the site and deploys it. A broken entry fails the build and the live site stays as it was.
 
 `npm run validate` checks every folder: required fields, date formats and that every referenced image exists.

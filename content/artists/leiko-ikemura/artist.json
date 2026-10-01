@@ -60,6 +60,7 @@
   "works": [
     {
       "title": "Empress kills Emperor",
+      "kind": "painting",
       "year": "1983",
       "medium": "Acrylic on canvas",
       "dimensions": "196 × 222 cm",
@@ -70,6 +71,7 @@
     },
     {
       "title": "Lying in Black",
+      "kind": "painting",
       "year": "1999",
       "medium": "Oil on canvas",
       "dimensions": "100 × 140 cm",
@@ -80,6 +82,7 @@
     },
     {
       "title": "Asa no umi (朝の海, Morning Sea)",
+      "kind": "painting",
       "year": "2005",
       "medium": "Oil on canvas",
       "dimensions": "120 × 160 cm",
@@ -90,6 +93,7 @@
     },
     {
       "title": "Hasentempel (Usagi Kannon)",
+      "kind": "sculpture",
       "year": "2012/15",
       "medium": "Patinated bronze",
       "dimensions": "ca. 340 × 159 × 138 cm",
@@ -100,6 +104,7 @@
     },
     {
       "title": "Goyesca",
+      "kind": "painting",
       "year": "2014",
       "medium": "Tempera and oil on jute",
       "dimensions": "100 × 50 cm",
@@ -110,6 +115,7 @@
     },
     {
       "title": "Female Genesis",
+      "kind": "painting",
       "year": "2016",
       "medium": "Tempera and oil on jute",
       "dimensions": "190 × 290 cm",

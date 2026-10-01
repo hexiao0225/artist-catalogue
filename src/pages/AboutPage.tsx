@@ -11,13 +11,18 @@ const EXAMPLE = `{
   "studyNotes": ["What to look at when studying her work."],
   "myNotes": [],
   "recommendedBy": "Who suggested her",
+  "seenAt": { "title": "Paula Rego", "venue": "Tate Britain", "dates": "2021", "url": null },
   "status": "to-study",
   "addedOn": "2026-09-24",
   "links": [{ "label": "Tate", "url": "https://www.tate.org.uk/" }],
   "portrait": null,
+  "videos": [
+    { "title": "Paula Rego: Secrets & Stories", "year": "2017", "source": "BBC", "url": "https://www.youtube.com/watch?v=..." }
+  ],
   "works": [
     {
       "title": "The Dance",
+      "kind": "painting",
       "year": "1988",
       "medium": "Acrylic on paper on canvas",
       "dimensions": "213.4 × 274 cm",
@@ -56,6 +61,9 @@ export default function AboutPage() {
             <strong>Fill in the details.</strong> The fields are shown below. Set{' '}
             <code>status</code> to <code>to-study</code>, <code>studying</code> or{' '}
             <code>studied</code> as you go, and write your own observations in <code>myNotes</code>.
+            Films go in <code>videos</code>: YouTube and Vimeo links play on the page, other links open
+            in a new tab. Set a work's <code>kind</code> to <code>film</code> or <code>performance</code>{' '}
+            to tag it.
           </li>
           <li>
             <strong>Commit to main.</strong> Vercel checks the content, builds the site and
