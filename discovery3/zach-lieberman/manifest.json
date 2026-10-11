@@ -1,0 +1,93 @@
+[
+  {
+    "file": "p01.jpg",
+    "src": "http://eyewriter.org/images/data/P1060726.JPG",
+    "alt": "",
+    "page": "https://eyewriter.org/",
+    "bytes": 3439981
+  },
+  {
+    "file": "p02.jpg",
+    "src": "https://eyewriter.org/siteImg/p1060131.JPG",
+    "alt": "",
+    "page": "https://eyewriter.org/",
+    "bytes": 59111
+  },
+  {
+    "file": "p03.jpg",
+    "src": "https://eyewriter.org/siteImg/img_8367.JPG",
+    "alt": "IMG_8367",
+    "page": "https://eyewriter.org/",
+    "bytes": 41805
+  },
+  {
+    "file": "p04.jpg",
+    "src": "https://eyewriter.org/siteImg/img_8362.JPG",
+    "alt": "IMG_8362",
+    "page": "https://eyewriter.org/",
+    "bytes": 42116
+  },
+  {
+    "file": "p05.jpg",
+    "src": "https://eyewriter.org/siteImg/img_6634.JPG",
+    "alt": "IMG_6634",
+    "page": "https://eyewriter.org/",
+    "bytes": 43785
+  },
+  {
+    "file": "p06.jpg",
+    "src": "https://eyewriter.org/siteImg/img_8326.JPG",
+    "alt": "IMG_8326",
+    "page": "https://eyewriter.org/",
+    "bytes": 82520
+  },
+  {
+    "file": "p07.jpg",
+    "src": "https://eyewriter.org/siteImg/img_8321.JPG",
+    "alt": "IMG_8321",
+    "page": "https://eyewriter.org/",
+    "bytes": 82767
+  },
+  {
+    "file": "p08.jpg",
+    "src": "https://eyewriter.org/siteImg/taleoftwotags.jpg",
+    "alt": "",
+    "page": "https://eyewriter.org/",
+    "bytes": 41441
+  },
+  {
+    "file": "p09.jpg",
+    "src": "https://eyewriter.org/siteImg/ps3hackeyewriter.jpg",
+    "alt": "",
+    "page": "https://eyewriter.org/",
+    "bytes": 34965
+  },
+  {
+    "file": "p10.png",
+    "src": "https://eyewriter.org/siteImg/tempttag-2009_10_11_21_4_41.png",
+    "alt": "temptTag-2009_10_11_21_4_41",
+    "page": "https://eyewriter.org/",
+    "bytes": 153369
+  },
+  {
+    "file": "p11.jpg",
+    "src": "https://sfpc.study/images/sessions/meta.jpg",
+    "alt": "og:image",
+    "page": "https://sfpc.study/",
+    "bytes": 197121
+  },
+  {
+    "file": "p12.webp",
+    "src": "https://images.squarespace-cdn.com/content/v1/52f8f4a0e4b0c2f2c1efab46/1392409571360-UOF4CBW8TU3OAB7TGHXL/video-reel.jpg",
+    "alt": "",
+    "page": "https://www.yesyesno.com/",
+    "bytes": 47660
+  },
+  {
+    "file": "p13.png",
+    "src": "https://dam-prod.media.mit.edu/thumb/2019/11/15/zachL-2.png.1400x1400.png",
+    "alt": "og:image",
+    "page": "https://www.media.mit.edu/groups/future-sketches/overview/",
+    "bytes": 935737
+  }
+]
