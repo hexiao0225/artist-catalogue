@@ -1,0 +1,21 @@
+name: Fetch study images
+on:
+  push:
+    branches: [chuqian-image-fetch]
+    paths: [scripts/fetch-images.mjs, scripts/sources.json, .github/workflows/fetch-images.yml]
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: node scripts/fetch-images.mjs
+      - run: |
+          git config user.name "image-fetch-bot"
+          git config user.email "actions@github.com"
+          git add discovery
+          git commit -m "Fetched images [skip ci]" || echo nothing
+          git push
