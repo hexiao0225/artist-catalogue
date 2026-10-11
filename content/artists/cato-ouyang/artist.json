@@ -72,6 +72,18 @@
   ],
   "works": [
     {
+      "title": "font VII",
+      "kind": "sculpture",
+      "year": "2021",
+      "medium": "Soapstone, raw egg, white vinegar, stop loss trap, horse hair, binder, plaster, pigment, beeswax, epoxy clay, gauze, kombucha mothers, paper",
+      "note": null,
+      "dimensions": "15.2 x 38.1 x 22.9 cm",
+      "collection": null,
+      "file": "05-font-vii.jpg",
+      "credit": "© Cato Ouyang. Courtesy Make Room, Los Angeles",
+      "sourceUrl": "https://www.makeroom.la/artists/catalina-ouyang"
+    },
+    {
       "title": "Terrarium III",
       "kind": "sculpture",
       "year": "2017",
@@ -118,18 +130,6 @@
       "file": "04-reliquary-corpus.jpg",
       "credit": "© Cato Ouyang. Courtesy Night Gallery",
       "sourceUrl": "https://nightgallery.ca/artists/cato-ouyang/featured-works"
-    },
-    {
-      "title": "font VII",
-      "kind": "sculpture",
-      "year": "2021",
-      "medium": "Soapstone, raw egg, white vinegar, stop loss trap, horse hair, binder, plaster, pigment, beeswax, epoxy clay, gauze, kombucha mothers, paper",
-      "note": null,
-      "dimensions": "15.2 x 38.1 x 22.9 cm",
-      "collection": null,
-      "file": "05-font-vii.jpg",
-      "credit": "© Cato Ouyang. Courtesy Make Room, Los Angeles",
-      "sourceUrl": "https://www.makeroom.la/artists/catalina-ouyang"
     },
     {
       "title": "Lucretia's Apostrophe",
