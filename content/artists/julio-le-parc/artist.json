@@ -1,0 +1,157 @@
+{
+  "name": "Julio Le Parc",
+  "nativeName": null,
+  "born": 1928,
+  "died": null,
+  "birthplace": "Mendoza, Argentina",
+  "basedIn": "Paris",
+  "nationality": "Argentine",
+  "categories": [
+    "light"
+  ],
+  "mediums": [
+    "Kinetic sculpture",
+    "Light installation",
+    "Painting",
+    "Interactive installation",
+    "Works on paper"
+  ],
+  "tags": [
+    "Kinetic art",
+    "Op art",
+    "GRAV",
+    "Viewer participation",
+    "Mirrors",
+    "Instability",
+    "Colour sequences"
+  ],
+  "bio": "Julio Le Parc (born 1928) grew up in Argentina, studied at the Escuela de Bellas Artes in Buenos Aires and moved to Paris in 1958. In 1960 he co-founded the Groupe de Recherche d'Art Visuel (GRAV), which wanted to replace the passive contemplation of a single masterpiece with works that viewers activate with their bodies and eyes. His experiments ran in several directions at once: black-and-white and fourteen-colour paintings built from strict systems; 'continual light' boxes and mobiles of hanging reflective plates that scatter moving light across walls; mirrored blades, distorting surfaces and games that make the viewer unstable on their feet. He won the Grand Prize for Painting at the 1966 Venice Biennale and was briefly expelled from France for his part in the protests of May 1968. Recent installations are huge spheres of hanging coloured plates. Tate Modern's retrospective Julio Le Parc: Light. Colour. Action. runs from June 2026 to May 2027.",
+  "studyNotes": [
+    "The viewer completes the work. Light, mirrors and movement only come alive when someone walks past, looks, plays or loses their balance.",
+    "Systems behind the colour. His paintings use a fixed set of fourteen colours arranged by rules; compare how the same rule produces many compositions.",
+    "Simple means, big effects. Hanging plates, a lamp and a motor produce rooms full of moving light; the mechanism is never hidden.",
+    "Art as a democratic act. GRAV rejected the cult of the artist and the precious object; look for how the works invite anyone to take part."
+  ],
+  "myNotes": [],
+  "recommendedBy": null,
+  "seenAt": null,
+  "status": "to-study",
+  "addedOn": "2026-10-11",
+  "links": [
+    {
+      "label": "Tate Modern: Julio Le Parc: Light. Colour. Action. (8 June 2026 – 3 May 2027)",
+      "url": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc"
+    },
+    {
+      "label": "Artist website",
+      "url": "https://julioleparc.org"
+    },
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Julio_Le_Parc"
+    }
+  ],
+  "portrait": {
+    "file": "portrait.jpg",
+    "credit": "Photo: Ministerio de Cultura de la Nación, CC BY-SA 2.0, via Wikimedia Commons"
+  },
+  "videos": [],
+  "works": [
+    {
+      "title": "Blue Sphere (installation view, Tate Modern)",
+      "kind": "installation",
+      "year": "Photo 2026",
+      "medium": "Hanging acrylic plates and light",
+      "note": "A sphere of hundreds of suspended blue plates that catch and throw light as air moves through the room.",
+      "dimensions": null,
+      "collection": null,
+      "file": "01-blue-sphere-installation-view-tate-modern.jpg",
+      "credit": "© Julio Le Parc / ADAGP, Paris and DACS, London 2026. Photo: Owen Harvey, Tate",
+      "sourceUrl": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc"
+    },
+    {
+      "title": "Screen with Reflective Blades",
+      "kind": "installation",
+      "year": "2021",
+      "medium": "Reflective blades and coloured light, Hermès, Tokyo",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "02-screen-with-reflective-blades.jpg",
+      "credit": "© Julio Le Parc / ADAGP, Paris and DACS, London 2026. Courtesy Tate",
+      "sourceUrl": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc"
+    },
+    {
+      "title": "Screen with Refracted Blades (installation view, Tate Modern)",
+      "kind": "installation",
+      "year": "Photo 2026",
+      "medium": "Refracting blades and light",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "03-screen-with-refracted-blades-installation-view-t.jpg",
+      "credit": "© Julio Le Parc / ADAGP, Paris and DACS, London 2026. Photo: Owen Harvey, Tate",
+      "sourceUrl": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc"
+    },
+    {
+      "title": "Instability",
+      "kind": "painting",
+      "year": "1959–1991",
+      "medium": "Paint on canvas",
+      "note": "Black marks repeated across a grid, slightly changed from one to the next, so the surface seems to tremble.",
+      "dimensions": null,
+      "collection": "Lent by the Atelier Le Parc",
+      "file": "04-instability.jpg",
+      "credit": "© Julio Le Parc / ADAGP, Paris and DACS, London 2026. Courtesy Tate",
+      "sourceUrl": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc"
+    },
+    {
+      "title": "Continual Light Box",
+      "kind": "installation",
+      "year": "1963–2013",
+      "medium": "Light box with moving elements",
+      "note": null,
+      "dimensions": null,
+      "collection": "Lent by the Atelier Le Parc",
+      "file": "05-continual-light-box.jpg",
+      "credit": "© Julio Le Parc / ADAGP, Paris and DACS, London 2026. Courtesy Tate",
+      "sourceUrl": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc"
+    },
+    {
+      "title": "Paintings and sculpture (installation view, Tate Modern)",
+      "kind": "installation",
+      "year": "Photo 2026",
+      "medium": "Acrylic paintings and kinetic sculpture",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "06-paintings-and-sculpture-installation-view-tate-m.jpg",
+      "credit": "© Julio Le Parc / ADAGP, Paris and DACS, London 2026. Photo: Owen Harvey, Tate",
+      "sourceUrl": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc"
+    },
+    {
+      "title": "Sphère rouge",
+      "kind": "installation",
+      "year": "Photo 2013",
+      "medium": "Hanging red acrylic plates",
+      "note": "Shown in his 2013 exhibition at the Palais de Tokyo, Paris.",
+      "dimensions": null,
+      "collection": null,
+      "file": "07-sphere-rouge.jpg",
+      "credit": "© Julio Le Parc. Photo: Florent Darrault, CC BY-SA 2.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22Sphere_rouge%22_by_Julio_Le_Parc.jpg"
+    },
+    {
+      "title": "Trame altérée",
+      "kind": "painting",
+      "year": "1965",
+      "medium": "Paint on board",
+      "note": null,
+      "dimensions": null,
+      "collection": "Centre Pompidou, Paris",
+      "file": "08-trame-alteree.jpg",
+      "credit": "© Julio Le Parc. Photo: Rob Oo, CC BY 2.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hypno_(45609977785).jpg"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "name": "Zolo Palugyay",
+  "nativeName": null,
+  "born": 1898,
+  "died": 1935,
+  "birthplace": "Bodice (now Liptovský Mikuláš), Slovakia",
+  "basedIn": "Liptov region, Slovakia",
+  "nationality": "Slovak",
+  "categories": [
+    "painting"
+  ],
+  "mediums": [
+    "Painting",
+    "Pastel",
+    "Drawing",
+    "Watercolour"
+  ],
+  "tags": [
+    "Slovak modernism",
+    "Expressionism",
+    "Liptov",
+    "Mountains",
+    "Rural life",
+    "Symbolism",
+    "Colour"
+  ],
+  "bio": "Zolo (Zoltán) Palugyay (1898–1935) was born in Bodice, now part of Liptovský Mikuláš, into a poor gentry family. After fighting on the Italian front in the First World War he studied at the academies in Budapest (1919–20, under Eduard Balló) and Kraków (1920–21), visited the Gödöllő artists' colony, and from 1924 to 1926 attended Hans Hofmann's private school in Munich. He then settled back in Bodice. Early on he tried out impressionism, art nouveau, symbolism, fauvism and expressionism; from the mid-1920s he developed his own symbolic, expressive language, with unusual colour and strong shifts of mood. His subjects were the Liptov landscape and mountains, village cottages, rural work and folk figures, often turned into ballad-like visions. In the early 1930s he painted and exhibited with Miloš Alexander Bazovský and Janko Alexy. He died in 1935, aged 36, in unexplained circumstances below Ďumbier in the Low Tatras. He is now seen as one of the key figures of Slovak modernism.",
+  "studyNotes": [
+    "Colour carries the feeling. Skies, mountains and faces take on unexpected colours; compare Girl in White with Factory Chimneys with the darker cottages.",
+    "One place, many moods. He painted the same Liptov cottages, fields and peaks again and again, changing light and season to change the meaning.",
+    "Simplify into flat, rhythmic shapes. Hills, clouds and flowers become bold curves and bands, a lesson from Hofmann's teaching in Munich.",
+    "Tradition and modern life side by side. Folk dress, factory chimneys and potato harvests share the canvas; ask how he balances the rural and the modern."
+  ],
+  "myNotes": [],
+  "recommendedBy": null,
+  "seenAt": null,
+  "status": "to-study",
+  "addedOn": "2026-10-11",
+  "links": [
+    {
+      "label": "Web umenia (Slovak National Gallery): Zolo Palugyay",
+      "url": "https://www.webumenia.sk/autor/7592"
+    },
+    {
+      "label": "Nitra Gallery: Mountain Still Life",
+      "url": "https://nitrianskagaleria.sk/en/zolo-palugyay-horske-zatisie"
+    }
+  ],
+  "portrait": null,
+  "videos": [],
+  "works": [
+    {
+      "title": "Girl in White with Factory Chimneys and Flowers",
+      "kind": "painting",
+      "year": "1932",
+      "medium": "Oil on canvas",
+      "note": null,
+      "dimensions": null,
+      "collection": "Slovak National Gallery, Bratislava (O 645)",
+      "file": "01-girl-in-white-with-factory-chimneys-and-flowers.jpg",
+      "credit": "Slovak National Gallery (SNG), public domain (CC0), via Web umenia",
+      "sourceUrl": "https://www.webumenia.sk/dielo/SVK:SNG.O_645"
+    },
+    {
+      "title": "Landscape with Flowers (Nirvana)",
+      "kind": "painting",
+      "year": "1930",
+      "medium": "Oil on canvas",
+      "note": null,
+      "dimensions": null,
+      "collection": "Slovak National Gallery, Bratislava (O 3205)",
+      "file": "02-landscape-with-flowers-nirvana.jpg",
+      "credit": "Slovak National Gallery (SNG), public domain (CC0), via Web umenia",
+      "sourceUrl": "https://www.webumenia.sk/dielo/SVK:SNG.O_3205"
+    },
+    {
+      "title": "Cottages",
+      "kind": "painting",
+      "year": "1931",
+      "medium": "Oil on canvas",
+      "note": null,
+      "dimensions": null,
+      "collection": "Slovak National Gallery, Bratislava (O 133)",
+      "file": "03-cottages.jpg",
+      "credit": "Slovak National Gallery (SNG), public domain (CC0), via Web umenia",
+      "sourceUrl": "https://www.webumenia.sk/dielo/SVK:SNG.O_133"
+    },
+    {
+      "title": "Autumn Work (Potato Digging)",
+      "kind": "painting",
+      "year": "1934",
+      "medium": "Oil on canvas",
+      "note": null,
+      "dimensions": null,
+      "collection": "Slovak National Gallery, Bratislava (O 497)",
+      "file": "04-autumn-work-potato-digging.jpg",
+      "credit": "Slovak National Gallery (SNG), public domain (CC0), via Web umenia",
+      "sourceUrl": "https://www.webumenia.sk/dielo/SVK:SNG.O_497"
+    },
+    {
+      "title": "Potato Digger",
+      "kind": "painting",
+      "year": "c. 1932",
+      "medium": "Oil on canvas",
+      "note": null,
+      "dimensions": null,
+      "collection": "Slovak National Gallery, Bratislava (O 644)",
+      "file": "05-potato-digger.jpg",
+      "credit": "Slovak National Gallery (SNG), public domain (CC0), via Web umenia",
+      "sourceUrl": "https://www.webumenia.sk/dielo/SVK:SNG.O_644"
+    },
+    {
+      "title": "Still Life with Potatoes and a Jug",
+      "kind": "painting",
+      "year": "Undated",
+      "medium": "Oil on canvas",
+      "note": null,
+      "dimensions": null,
+      "collection": "Slovak National Gallery, Bratislava (O 1625)",
+      "file": "06-still-life-with-potatoes-and-a-jug.jpg",
+      "credit": "Slovak National Gallery (SNG), public domain (CC0), via Web umenia",
+      "sourceUrl": "https://www.webumenia.sk/dielo/SVK:SNG.O_1625"
+    },
+    {
+      "title": "Girl in a Red Bonnet",
+      "kind": "painting",
+      "year": "Undated",
+      "medium": "Painting",
+      "note": null,
+      "dimensions": null,
+      "collection": "Slovak National Gallery, Bratislava (O 2859)",
+      "file": "07-girl-in-a-red-bonnet.jpg",
+      "credit": "Slovak National Gallery (SNG), public domain (CC0), via Web umenia",
+      "sourceUrl": "https://www.webumenia.sk/dielo/SVK:SNG.O_2859"
+    },
+    {
+      "title": "Cottage at Dusk",
+      "kind": "painting",
+      "year": "Undated",
+      "medium": "Painting",
+      "note": null,
+      "dimensions": null,
+      "collection": "Slovak National Gallery, Bratislava (O 2858)",
+      "file": "08-cottage-at-dusk.jpg",
+      "credit": "Slovak National Gallery (SNG), public domain (CC0), via Web umenia",
+      "sourceUrl": "https://www.webumenia.sk/dielo/SVK:SNG.O_2858"
+    }
+  ]
+}
