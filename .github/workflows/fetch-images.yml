@@ -2,7 +2,7 @@ name: Fetch study images
 on:
   push:
     branches: [image-fetch]
-    paths: [scripts/scrape-pages.mjs, scripts/pages.json]
+    paths: [scripts/pages.json, scripts/sources.json]
 permissions:
   contents: write
 jobs:
@@ -13,9 +13,10 @@ jobs:
       - uses: actions/setup-node@v4
         with: { node-version: 22 }
       - run: node scripts/scrape-pages.mjs
+      - run: rm -rf discovery && node scripts/fetch-images.mjs
       - run: |
           git config user.name "image-fetch-bot"
           git config user.email "actions@github.com"
-          git add discovery3
+          git add -A discovery discovery3
           git commit -m "Fetched images [skip ci]" || echo nothing
           git push
