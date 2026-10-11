@@ -1,99 +1,13 @@
 {
- "julio-le-parc": {
-  "direct": [
-   {
-    "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Julio_Le_Parc_Instability_19591991.width-1200.format-jpeg.jpg",
-    "title": "Instability, 1959\u20131991 [width-1200.format-jpeg]",
-    "page": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc"
-   },
-   {
-    "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Julio_Le_Parc_Instability_19591991.width-840.format-jpeg.jpg",
-    "title": "Instability, 1959\u20131991 [width-840.format-jpeg]",
-    "page": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc"
-   },
-   {
-    "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Julio_Le_Parc_Instability_19591991.width-420.format-jpeg.jpg",
-    "title": "Instability, 1959\u20131991 [width-420.format-jpeg]",
-    "page": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc"
-   },
-   {
-    "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate_JulioLeParc_8thJune26_8295.width-1200.format-jpeg.jpg",
-    "title": "Blue Sphere, installation view [width-1200.format-jpeg]",
-    "page": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc"
-   },
-   {
-    "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate_JulioLeParc_8thJune26_8295.width-840.format-jpeg.jpg",
-    "title": "Blue Sphere, installation view [width-840.format-jpeg]",
-    "page": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc"
-   },
-   {
-    "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate_JulioLeParc_8thJune26_8295.width-420.format-jpeg.jpg",
-    "title": "Blue Sphere, installation view [width-420.format-jpeg]",
-    "page": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc"
-   },
-   {
-    "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Julio_Le_Parc_Screen_with_Reflecti.width-1200.format-jpeg.jpg",
-    "title": "Screen with Reflective Blades, Herm\u00e8s Tokyo 2021 [width-1200.format-jpeg]",
-    "page": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc"
-   },
-   {
-    "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Julio_Le_Parc_Screen_with_Reflecti.width-840.format-jpeg.jpg",
-    "title": "Screen with Reflective Blades, Herm\u00e8s Tokyo 2021 [width-840.format-jpeg]",
-    "page": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc"
-   },
-   {
-    "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Julio_Le_Parc_Screen_with_Reflecti.width-420.format-jpeg.jpg",
-    "title": "Screen with Reflective Blades, Herm\u00e8s Tokyo 2021 [width-420.format-jpeg]",
-    "page": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc"
-   },
-   {
-    "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate_JulioLeParc_8thJune26_7586_30.width-1200.format-jpeg.jpg",
-    "title": "Screen with Refracted Blades, installation view [width-1200.format-jpeg]",
-    "page": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc"
-   },
-   {
-    "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate_JulioLeParc_8thJune26_7586_30.width-840.format-jpeg.jpg",
-    "title": "Screen with Refracted Blades, installation view [width-840.format-jpeg]",
-    "page": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc"
-   },
-   {
-    "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate_JulioLeParc_8thJune26_7586_30.width-420.format-jpeg.jpg",
-    "title": "Screen with Refracted Blades, installation view [width-420.format-jpeg]",
-    "page": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc"
-   },
-   {
-    "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate_JulioLeParc_8thJune26_8179_30.width-1200.format-jpeg.jpg",
-    "title": "Installation view [width-1200.format-jpeg]",
-    "page": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc"
-   },
-   {
-    "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate_JulioLeParc_8thJune26_8179_30.width-840.format-jpeg.jpg",
-    "title": "Installation view [width-840.format-jpeg]",
-    "page": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc"
-   },
-   {
-    "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Tate_JulioLeParc_8thJune26_8179_30.width-420.format-jpeg.jpg",
-    "title": "Installation view [width-420.format-jpeg]",
-    "page": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc"
-   },
-   {
-    "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Julio_Le_Parc_Continual_Light_Box_.width-1200.format-jpeg.jpg",
-    "title": "Continual Light Box, 1963\u20132013 [width-1200.format-jpeg]",
-    "page": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc"
-   },
-   {
-    "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Julio_Le_Parc_Continual_Light_Box_.width-840.format-jpeg.jpg",
-    "title": "Continual Light Box, 1963\u20132013 [width-840.format-jpeg]",
-    "page": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc"
-   },
-   {
-    "url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Julio_Le_Parc_Continual_Light_Box_.width-420.format-jpeg.jpg",
-    "title": "Continual Light Box, 1963\u20132013 [width-420.format-jpeg]",
-    "page": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc"
-   }
-  ],
+ "zolo-palugyay": {
   "pages": [
-   "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc"
+   "https://www.webumenia.sk/en/dielo/SVK:SNG.O_645",
+   "https://www.webumenia.sk/en/dielo/SVK:SNG.O_133",
+   "https://www.webumenia.sk/en/dielo/SVK:SNG.O_497",
+   "https://www.webumenia.sk/en/dielo/SVK:SNG.O_644",
+   "https://www.webumenia.sk/en/dielo/SVK:SNG.O_643",
+   "https://www.webumenia.sk/en/katalog?author=Palugyay%2C%20Zolo&sort_by=view_count",
+   "https://www.webumenia.sk/en/katalog?author=Palugyay%2C%20Zolo&work_type=maliarstvo"
   ],
   "max": 40
  }

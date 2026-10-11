@@ -267,3 +267,39 @@ ARTISTS['zach-lieberman'] = dict(
         ('discovery3/zach-lieberman/p10.png', 'EyeWriter: tag drawn by TEMPT1', 'drawing', '2009', 'Digital drawing made with eye-tracking software', None, None, 'EyeWriter project (eyewriter.org)', 'https://eyewriter.org'),
     ],
 )
+
+TATE_LP = 'https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc'
+ARTISTS['julio-le-parc'] = dict(
+    name='Julio Le Parc', born=1928, died=None, birthplace='Mendoza, Argentina', basedIn='Paris',
+    nationality='Argentine', categories=['light'],
+    mediums=['Kinetic sculpture', 'Light installation', 'Painting', 'Interactive installation', 'Works on paper'],
+    tags=['Kinetic art', 'Op art', 'GRAV', 'Viewer participation', 'Mirrors', 'Instability', 'Colour sequences'],
+    bio=("Julio Le Parc (born 1928) grew up in Argentina, studied at the Escuela de Bellas Artes in Buenos Aires and moved to Paris in 1958. "
+         "In 1960 he co-founded the Groupe de Recherche d'Art Visuel (GRAV), which wanted to replace the passive contemplation of a single "
+         "masterpiece with works that viewers activate with their bodies and eyes. His experiments ran in several directions at once: black-and-"
+         "white and fourteen-colour paintings built from strict systems; 'continual light' boxes and mobiles of hanging reflective plates that "
+         "scatter moving light across walls; mirrored blades, distorting surfaces and games that make the viewer unstable on their feet. He won the "
+         "Grand Prize for Painting at the 1966 Venice Biennale and was briefly expelled from France for his part in the protests of May 1968. "
+         "Recent installations are huge spheres of hanging coloured plates. Tate Modern's retrospective Julio Le Parc: Light. Colour. Action. "
+         "runs from June 2026 to May 2027."),
+    studyNotes=[
+        "The viewer completes the work. Light, mirrors and movement only come alive when someone walks past, looks, plays or loses their balance.",
+        "Systems behind the colour. His paintings use a fixed set of fourteen colours arranged by rules; compare how the same rule produces many compositions.",
+        "Simple means, big effects. Hanging plates, a lamp and a motor produce rooms full of moving light; the mechanism is never hidden.",
+        "Art as a democratic act. GRAV rejected the cult of the artist and the precious object; look for how the works invite anyone to take part.",
+    ],
+    links=[('Tate Modern: Julio Le Parc: Light. Colour. Action. (8 June 2026 – 3 May 2027)', TATE_LP),
+           ('Artist website', 'https://julioleparc.org'),
+           ('Wikipedia', 'https://en.wikipedia.org/wiki/Julio_Le_Parc')],
+    portrait='discovery/julio-le-parc/c36.jpg',
+    works=[
+        ('discovery3/julio-le-parc/p03.jpg', 'Blue Sphere (installation view, Tate Modern)', 'installation', 'Photo 2026', 'Hanging acrylic plates and light', 'A sphere of hundreds of suspended blue plates that catch and throw light as air moves through the room.', None, '© Julio Le Parc / ADAGP, Paris and DACS, London 2026. Photo: Owen Harvey, Tate', TATE_LP),
+        ('discovery3/julio-le-parc/p05.jpg', 'Screen with Reflective Blades', 'installation', '2021', 'Reflective blades and coloured light, Hermès, Tokyo', None, None, '© Julio Le Parc / ADAGP, Paris and DACS, London 2026. Courtesy Tate', TATE_LP),
+        ('discovery3/julio-le-parc/p07.jpg', 'Screen with Refracted Blades (installation view, Tate Modern)', 'installation', 'Photo 2026', 'Refracting blades and light', None, None, '© Julio Le Parc / ADAGP, Paris and DACS, London 2026. Photo: Owen Harvey, Tate', TATE_LP),
+        ('discovery3/julio-le-parc/p01.jpg', 'Instability', 'painting', '1959–1991', 'Paint on canvas', 'Black marks repeated across a grid, slightly changed from one to the next, so the surface seems to tremble.', 'Lent by the Atelier Le Parc', '© Julio Le Parc / ADAGP, Paris and DACS, London 2026. Courtesy Tate', TATE_LP),
+        ('discovery3/julio-le-parc/p09.jpg', 'Continual Light Box', 'installation', '1963–2013', 'Light box with moving elements', None, 'Lent by the Atelier Le Parc', '© Julio Le Parc / ADAGP, Paris and DACS, London 2026. Courtesy Tate', TATE_LP),
+        ('discovery3/julio-le-parc/p08.jpg', 'Paintings and sculpture (installation view, Tate Modern)', 'installation', 'Photo 2026', 'Acrylic paintings and kinetic sculpture', None, None, '© Julio Le Parc / ADAGP, Paris and DACS, London 2026. Photo: Owen Harvey, Tate', TATE_LP),
+        ('discovery/julio-le-parc/c25.jpg', 'Sphère rouge', 'installation', 'Photo 2013', 'Hanging red acrylic plates', 'Shown in his 2013 exhibition at the Palais de Tokyo, Paris.', None),
+        ('discovery/julio-le-parc/c26.jpg', 'Trame altérée', 'painting', '1965', 'Paint on board', None, 'Centre Pompidou, Paris'),
+    ],
+)

@@ -18,6 +18,7 @@ for (const [slug, entry] of Object.entries(cfg)) {
   for (const page of entry.pages ?? []) {
     let html = ''
     try { html = await get(page) } catch (e) { log[page] = 'ERR ' + e.message; continue }
+    const ptitle = dec((html.match(/<title>([^<]*)<\/title>/i) ?? [])[1] ?? '').trim()
     const found = []
     for (const m of html.matchAll(/<img\b[^>]*>/gi)) {
       const tag = m[0]
@@ -35,7 +36,7 @@ for (const [slug, entry] of Object.entries(cfg)) {
       try { src = new URL(src, page).href } catch { continue }
       src = src.replace(/freight\.cargo\.site\/(t|w)\/[^/]+\/(?:[^/]+\/)?i\//, 'freight.cargo.site/w/1600/i/')
       if (skip.test(src)) continue
-      cands.push({ src, alt: f.alt, page })
+      cands.push({ src, alt: f.alt, page, ptitle })
     }
     log[page] = `ok ${found.length}`
     await sleep(800)
