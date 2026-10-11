@@ -1,0 +1,142 @@
+{
+  "name": "Refik Anadol",
+  "nativeName": null,
+  "born": 1985,
+  "died": null,
+  "birthplace": "Istanbul, Turkey",
+  "basedIn": "Los Angeles",
+  "nationality": "Turkish",
+  "categories": [
+    "code",
+    "light"
+  ],
+  "mediums": [
+    "Data sculpture",
+    "Projection",
+    "Machine learning",
+    "Immersive installation",
+    "Architecture"
+  ],
+  "tags": [
+    "AI art",
+    "Data painting",
+    "Machine Hallucinations",
+    "Archives",
+    "Projection mapping",
+    "Latent space"
+  ],
+  "bio": "Refik Anadol (born 1985) is a media artist who works with large datasets and machine learning, turning archives of images, sound and sensor readings into moving 'data paintings' and 'data sculptures' at architectural scale. He studied in Istanbul and at UCLA's Design Media Arts programme and runs a studio in Los Angeles. WDCH Dreams (2018) projected the LA Philharmonic's digital archive onto the outside of the Walt Disney Concert Hall. The Machine Hallucinations series (from 2019) trains models on millions of photographs of cities, nature or space and then 'dreams' through what the model has learned. Unsupervised (2022–23) did this with MoMA's own collection in the museum's lobby. Other works use EEG recordings (Melting Memories, 2018) or wind data.",
+  "studyNotes": [
+    "The dataset is the subject. Every work starts from a specific archive or sensor stream; ask what was collected, by whom, and what was left out.",
+    "Moving between images. The flowing forms are walks through the model's 'latent space', where one image morphs into another.",
+    "Architecture as a screen. Walls, buildings and rooms become displays; the site is part of the composition.",
+    "Scale and immersion. The work is designed for bodies standing in front of something huge; compare the experience with watching the same video on a laptop."
+  ],
+  "myNotes": [],
+  "recommendedBy": null,
+  "seenAt": null,
+  "status": "to-study",
+  "addedOn": "2026-10-11",
+  "links": [
+    {
+      "label": "Studio website",
+      "url": "https://refikanadol.com"
+    },
+    {
+      "label": "MoMA: Refik Anadol: Unsupervised",
+      "url": "https://www.moma.org/calendar/exhibitions/5535"
+    },
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Refik_Anadol"
+    }
+  ],
+  "portrait": null,
+  "videos": [],
+  "works": [
+    {
+      "title": "Unsupervised",
+      "kind": "installation",
+      "year": "2022",
+      "medium": "Machine-learning model trained on MoMA's collection data, displayed on a large LED screen",
+      "note": "Shown in the lobby of the Museum of Modern Art, New York.",
+      "dimensions": null,
+      "collection": null,
+      "file": "01-unsupervised.jpg",
+      "credit": "© Refik Anadol, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Unsupervised_by_Refik_Anadol.jpg"
+    },
+    {
+      "title": "WDCH Dreams",
+      "kind": "installation",
+      "year": "2018",
+      "medium": "Projection onto the facade of the Walt Disney Concert Hall, Los Angeles",
+      "note": "The LA Philharmonic's digital archives, processed by machine learning and mapped onto the building.",
+      "dimensions": null,
+      "collection": null,
+      "file": "02-wdch-dreams.jpg",
+      "credit": "© Refik Anadol, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:WDCH_Dreams_by_Refik_Anadol.jpg"
+    },
+    {
+      "title": "Machine Hallucinations (NYC)",
+      "kind": "installation",
+      "year": "2019",
+      "medium": "Immersive projection, ARTECHOUSE New York",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "03-machine-hallucinations-nyc.jpg",
+      "credit": "© Refik Anadol, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Machine_Hallucinations-Artechouse_NYC_by_Refik_Anadol.jpg"
+    },
+    {
+      "title": "Latent Being",
+      "kind": "installation",
+      "year": "2019",
+      "medium": "Data installation, Kraftwerk Berlin",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "04-latent-being.jpg",
+      "credit": "© Refik Anadol. Photo: MW20171, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:LAS_Art_Foundation_-_Refik_Anadol-_Latent_Being_-_2.jpg"
+    },
+    {
+      "title": "Archive Dreaming",
+      "kind": "installation",
+      "year": "2017",
+      "medium": "Immersive installation built from the SALT Research archive, Istanbul",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "05-archive-dreaming.jpg",
+      "credit": "© Refik Anadol, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Archive_Dreaming_by_Refik_Anadol.jpg"
+    },
+    {
+      "title": "Infinity Room",
+      "kind": "installation",
+      "year": "2015",
+      "medium": "Mirrored room with projection and sound",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "06-infinity-room.jpg",
+      "credit": "© Refik Anadol, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Infinity_Room_by_Refik_Anadol.jpg"
+    },
+    {
+      "title": "Winds of Yawanawa",
+      "kind": "installation",
+      "year": "2024",
+      "medium": "AI data painting",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "07-winds-of-yawanawa.jpg",
+      "credit": "© Refik Anadol, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Winds_of_Yawanawa.png"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "name": "Carlos Cruz-Diez",
+  "nativeName": null,
+  "born": 1923,
+  "died": 2019,
+  "birthplace": "Caracas, Venezuela",
+  "basedIn": "Paris",
+  "nationality": "Venezuelan",
+  "categories": [
+    "light"
+  ],
+  "mediums": [
+    "Painting",
+    "Sculpture",
+    "Public art",
+    "Installation",
+    "Print"
+  ],
+  "tags": [
+    "Op art",
+    "Kinetic art",
+    "Physichromie",
+    "Colour theory",
+    "Chromosaturation",
+    "Public space"
+  ],
+  "bio": "Carlos Cruz-Diez (1923–2019) was a Venezuelan artist who spent his career showing that colour is not fixed to an object but is an event that happens in space and time, in front of the viewer. Working in Caracas and, from 1960, in Paris, he developed a set of research series that he pursued for six decades: Physichromies, panels of thin vertical blades that produce colours not present in the paint as the viewer moves; Induction Chromatique; Chromointerférences; Transchromies made with overlapping coloured transparent plastics; and Chromosaturation rooms flooded with red, green and blue light. He also worked at the scale of cities, from the floors and walls of Simón Bolívar International Airport at Maiquetía to pedestrian crossings and public sculpture.",
+  "studyNotes": [
+    "Colour happens in the eye. Many colours you see in a Physichromie are not painted anywhere; they are produced by adjacent blades and your movement.",
+    "Move to see it. Walk past the works: the colour shifts with your position and the daylight, so time and the viewer are built in.",
+    "Systematic research. He named and numbered his series like experiments and pursued them for decades, so each work is a variation on a rule.",
+    "From the studio to the city. The same principles scale from a panel to an airport floor; look at how a public work holds up in sunlight and crowds."
+  ],
+  "myNotes": [],
+  "recommendedBy": null,
+  "seenAt": null,
+  "status": "to-study",
+  "addedOn": "2026-10-11",
+  "links": [
+    {
+      "label": "Cruz-Diez Foundation",
+      "url": "https://cruz-diez.com"
+    },
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Carlos_Cruz-Diez"
+    }
+  ],
+  "portrait": {
+    "file": "portrait.jpg",
+    "credit": "Photo: Activcom, CC BY-SA 4.0, via Wikimedia Commons"
+  },
+  "videos": [],
+  "works": [
+    {
+      "title": "Ambientación de Color Aditivo (floor at Maiquetía airport)",
+      "kind": "installation",
+      "year": "1974–78",
+      "medium": "Floor of coloured stripes",
+      "note": "Walking over the stripes, travellers see colours mix and change.",
+      "dimensions": null,
+      "collection": "Simón Bolívar International Airport, Maiquetía, Venezuela",
+      "file": "01-ambientaci-n-de-color-aditivo-floor-at-maiquet-a.jpg",
+      "credit": "© Estate of Carlos Cruz-Diez. Photo: David Hernandez Aponte, CC BY-SA 3.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aeropuerto_Internacional_Simon_Bolivar.jpeg"
+    },
+    {
+      "title": "Labyrinthe de Transchromie A",
+      "kind": "installation",
+      "year": "1965/2017",
+      "medium": "Coloured transparent panels",
+      "note": "Overlapping coloured planes that recombine as visitors walk between them.",
+      "dimensions": null,
+      "collection": null,
+      "file": "02-labyrinthe-de-transchromie-a.jpg",
+      "credit": "© Estate of Carlos Cruz-Diez. Photo: RAWdz Ivan, CC BY 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carlos_Cruz-Diez%27s_Labyrinthe_de_Transchromie_A,_Paris_1965_2017_at_Art_Basel_2025_in_Basel.jpg"
+    },
+    {
+      "title": "Physichromie, homage to Andrés Bello (double concave-convex)",
+      "kind": "sculpture",
+      "year": "1982",
+      "medium": "Painted metal blades on a curved double-sided structure",
+      "note": null,
+      "dimensions": null,
+      "collection": "Plaza Venezuela, Caracas",
+      "file": "03-physichromie-homage-to-andr-s-bello-double-conca.jpg",
+      "credit": "© Estate of Carlos Cruz-Diez. Photo: Carlos E. Perez S.L, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fisicrom%C3%ADa_C%C3%B3ncavo-convexa.jpg"
+    },
+    {
+      "title": "Arcos de Inducción Cromática para Margarita",
+      "kind": "sculpture",
+      "year": "1997",
+      "medium": "Painted metal arches",
+      "note": null,
+      "dimensions": null,
+      "collection": "Porlamar, Margarita Island, Venezuela",
+      "file": "04-arcos-de-inducci-n-crom-tica-para-margarita.jpg",
+      "credit": "© Estate of Carlos Cruz-Diez. Photo: Wilfredor, public domain, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arcos_Crom%C3%A1ticos_by_Carlos_Cruz_Diez.jpg"
+    },
+    {
+      "title": "Fisicromía para Madrid",
+      "kind": "sculpture",
+      "year": "1991",
+      "medium": "Double-sided physichromie",
+      "note": null,
+      "dimensions": null,
+      "collection": "Parque Juan Carlos I, Madrid",
+      "file": "05-fisicrom-a-para-madrid.jpg",
+      "credit": "© Estate of Carlos Cruz-Diez. Photo: Zarateman, public domain, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madrid_-_Parque_Juan_Carlos_I,_%27Fisiocrom%C3%ADa_para_Madrid%27,_de_Carlos_Cruz-D%C3%ADez_2.jpg"
+    },
+    {
+      "title": "Physichromie at the Universidad de Los Andes",
+      "kind": "sculpture",
+      "year": "Photo 2010s",
+      "medium": "Painted metal blades",
+      "note": null,
+      "dimensions": null,
+      "collection": "Universidad de Los Andes, Mérida, Venezuela",
+      "file": "06-physichromie-at-the-universidad-de-los-andes.jpg",
+      "credit": "© Estate of Carlos Cruz-Diez. Photo: Encel Sanchez, CC BY-SA 2.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Obra_de_Cruz-D%C3%ADez_en_La_Hechicera_ULA.jpg"
+    }
+  ]
+}

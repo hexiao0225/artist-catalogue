@@ -1,0 +1,157 @@
+{
+  "name": "Pipilotti Rist",
+  "nativeName": null,
+  "born": 1962,
+  "died": null,
+  "birthplace": "Grabs, Switzerland",
+  "basedIn": "Zurich",
+  "nationality": "Swiss",
+  "categories": [
+    "concept",
+    "light"
+  ],
+  "mediums": [
+    "Video installation",
+    "Film",
+    "Public art",
+    "Design",
+    "Music"
+  ],
+  "tags": [
+    "Immersive video",
+    "Colour",
+    "Body",
+    "Pleasure",
+    "Projection",
+    "Pop music"
+  ],
+  "bio": "Pipilotti Rist (born 1962) studied commercial art, illustration and photography in Vienna and video in Basel, and played in the band Les Reines Prochaines. Her early single-channel videos, such as I'm Not The Girl Who Misses Much (1986), distort pop songs and her own body; Ever Is Over All (1997), in which a woman smashes car windows with a flower while a police officer salutes, won a prize at the Venice Biennale. She went on to fill whole rooms with projected colour: Pour Your Body Out (7354 Cubic Meters) took over MoMA's atrium in 2008, and Pixel Forest (2016) hangs thousands of LEDs like rain. She also works in public space: a bright pink tram for Geneva, a red rubber 'city lounge' in St. Gallen (with Carlos Martinez), illuminated lamp sculptures. Her one feature film, Pepperminta, was released in 2009.",
+  "studyNotes": [
+    "Same sensibility, any medium. Song, single-channel video, room-sized projection, furniture, a tram, a public square: the colour, humour and bodily closeness stay the same.",
+    "Design the viewer's body. She adds sofas, carpets, cushions and beds so people lie down and look up; posture changes how video is watched.",
+    "Projection meets architecture. Images are thrown onto ceilings, corners, objects and floors instead of a screen; look for how the edges of the image are handled.",
+    "Joy as a critical tool. Pleasure and playfulness are used to question how women's bodies are shown, not just to entertain."
+  ],
+  "myNotes": [],
+  "recommendedBy": null,
+  "seenAt": null,
+  "status": "to-study",
+  "addedOn": "2026-10-11",
+  "links": [
+    {
+      "label": "Hauser & Wirth",
+      "url": "https://www.hauserwirth.com/artists/2808-pipilotti-rist/"
+    },
+    {
+      "label": "MoMA: Pour Your Body Out (2008)",
+      "url": "https://www.moma.org/calendar/exhibitions/84"
+    },
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pipilotti_Rist"
+    }
+  ],
+  "portrait": {
+    "file": "portrait.jpg",
+    "credit": "Photo: Pipilotti Rist, CC BY-SA 4.0, via Wikimedia Commons"
+  },
+  "videos": [],
+  "works": [
+    {
+      "title": "Pepperminta (film still)",
+      "kind": "film",
+      "year": "2009",
+      "medium": "Feature film, colour",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "01-pepperminta-film-still.jpg",
+      "credit": "© Pipilotti Rist, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pepperminta_still.jpg"
+    },
+    {
+      "title": "The Room (Das Zimmer)",
+      "kind": "installation",
+      "year": "1994/2000",
+      "medium": "Audio-video installation with oversized furniture",
+      "note": "Visitors sit on an outsized armchair and sofa and watch a small TV, made to feel like children.",
+      "dimensions": null,
+      "collection": null,
+      "file": "02-the-room-das-zimmer.jpg",
+      "credit": "© Pipilotti Rist, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Room.jpg"
+    },
+    {
+      "title": "Projection installation at Mudam, Luxembourg",
+      "kind": "installation",
+      "year": "Photo 2006",
+      "medium": "Video projection",
+      "note": "From the museum's opening exhibition.",
+      "dimensions": null,
+      "collection": null,
+      "file": "03-projection-installation-at-mudam-luxembourg.jpg",
+      "credit": "© Pipilotti Rist. Photo: Jean-noël Lafargue, CC BY 2.5, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mudam_opening_24_rist.jpg"
+    },
+    {
+      "title": "Monochrome Rose (interior)",
+      "kind": "installation",
+      "year": "2016",
+      "medium": "Tram painted and fitted out in pink, Geneva",
+      "note": "A working tram in which everything, inside and out, is pink.",
+      "dimensions": null,
+      "collection": null,
+      "file": "04-monochrome-rose-interior.jpg",
+      "credit": "© Pipilotti Rist. Photo: MHM55, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Art%26tram-MonochromeRose-4.jpg"
+    },
+    {
+      "title": "Monochrome Rose",
+      "kind": "installation",
+      "year": "2016",
+      "medium": "Tram, Geneva",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "05-monochrome-rose.jpg",
+      "credit": "© Pipilotti Rist. Photo: Mapomge, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tramway_rose_de_Pipilotti_Rist.jpg"
+    },
+    {
+      "title": "Stadtlounge (with Carlos Martinez)",
+      "kind": "installation",
+      "year": "2005",
+      "medium": "Red rubber granulate covering a city square, furniture and lighting",
+      "note": "A public square in St. Gallen treated as an outdoor living room.",
+      "dimensions": null,
+      "collection": null,
+      "file": "06-stadtlounge-with-carlos-martinez.jpg",
+      "credit": "© Pipilotti Rist. Photo: 1rhb, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stadtlounge_-_Roter_Platz,_St._Gallen_-_Pipilotti_Rist.jpg"
+    },
+    {
+      "title": "Tastende Lichter",
+      "kind": "installation",
+      "year": "2020",
+      "medium": "Projection onto architecture, Zurich",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "07-tastende-lichter.jpg",
+      "credit": "© Pipilotti Rist. Photo: Rudolf H. Boettcher, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tastende_Lichter_-_Pipilotti_Rist_2020,_Z%C3%BCrich.jpg"
+    },
+    {
+      "title": "Wasting Life on You",
+      "kind": "installation",
+      "year": "2025",
+      "medium": "Light installation",
+      "note": null,
+      "dimensions": null,
+      "collection": "Depot Boijmans Van Beuningen, Rotterdam",
+      "file": "08-wasting-life-on-you.jpg",
+      "credit": "© Pipilotti Rist. Photo: Renate Hano, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wasting_Life_on_You_(2025).jpg"
+    }
+  ]
+}

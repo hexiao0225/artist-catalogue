@@ -1,10 +1,11 @@
-import { REPO_URL } from '../config'
+import { CATEGORIES, REPO_URL } from '../config'
 
 const EXAMPLE = `{
   "name": "Paula Rego",
   "born": 1935,
   "died": 2022,
   "nationality": "Portuguese-British",
+  "categories": ["painting"],
   "mediums": ["Painting", "Pastel", "Printmaking"],
   "tags": ["Figuration", "Storytelling"],
   "bio": "A short, museum-label style biography.",
@@ -61,7 +62,15 @@ export default function AboutPage() {
             <strong>Fill in the details.</strong> The fields are shown below. Set{' '}
             <code>status</code> to <code>to-study</code>, <code>studying</code> or{' '}
             <code>studied</code> as you go, and write your own observations in <code>myNotes</code>.
-            Films go in <code>videos</code>: YouTube and Vimeo links play on the page, other links open
+            List one or more <code>categories</code>; the first is where the artist appears on the
+            Artists page. The ids are{' '}
+            {CATEGORIES.map((c, i) => (
+              <span key={c.id}>
+                {i > 0 && ', '}
+                <code>{c.id}</code> ({c.title})
+              </span>
+            ))}
+            . Films go in <code>videos</code>: YouTube and Vimeo links play on the page, other links open
             in a new tab. Set a work's <code>kind</code> to <code>film</code> or <code>performance</code>{' '}
             to tag it.
           </li>

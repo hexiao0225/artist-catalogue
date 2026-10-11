@@ -1,0 +1,125 @@
+{
+  "name": "Suzanne Anker",
+  "nativeName": null,
+  "born": 1946,
+  "died": null,
+  "birthplace": "Brooklyn, New York",
+  "basedIn": "New York",
+  "nationality": "American",
+  "categories": [
+    "bio-science"
+  ],
+  "mediums": [
+    "Sculpture",
+    "Installation",
+    "Photography",
+    "Digital fabrication",
+    "Living plants"
+  ],
+  "tags": [
+    "Bio art",
+    "Petri dish",
+    "Genetics",
+    "Chromosomes",
+    "Plants and LEDs",
+    "Art and science"
+  ],
+  "bio": "Suzanne Anker (born 1946) is a visual artist and theorist who has worked at the meeting point of art and biology since the 1980s. She co-wrote The Molecular Gaze: Art in the Genetic Age (2004) with the sociologist Dorothy Nelkin, chaired the Fine Arts department at the School of Visual Arts in New York for many years, and founded its Bio Art Lab, one of the first labs of its kind in an art school. Her work draws on the images and tools of genetics, neuroscience and botany: chromosome forms cast as sculpture, Rorschach-like inkblots, petri dishes filled with organic and inorganic matter and photographed like small worlds (Vanitas in a Petri Dish), 3D-printed sculptures made from those photographs (Remote Sensing), and plants grown under coloured LEDs in sealed growth chambers (Astroculture).",
+  "studyNotes": [
+    "Borrow the lab's tools and images. Petri dishes, chromosome charts and growth chambers become the frames and materials of the work.",
+    "Translate between media. A photograph of a petri dish becomes a 3D scan and then a printed sculpture; each step changes what we see.",
+    "Hold beauty and critique together. The works are seductive objects that also ask questions about how biology is represented and controlled.",
+    "Teach and build structures. Founding a bio art lab inside an art school is part of her practice; consider what infrastructure your work needs."
+  ],
+  "myNotes": [],
+  "recommendedBy": null,
+  "seenAt": null,
+  "status": "to-study",
+  "addedOn": "2026-10-11",
+  "links": [
+    {
+      "label": "Artist website",
+      "url": "https://www.suzanneanker.com"
+    },
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Suzanne_Anker"
+    }
+  ],
+  "portrait": null,
+  "videos": [],
+  "works": [
+    {
+      "title": "Vanitas in a Petri Dish (installation view)",
+      "kind": "installation",
+      "year": "2010s",
+      "medium": "Petri dishes with organic and inorganic material, photographs and light",
+      "note": "Rows of petri dishes become small still lifes, an update of the vanitas painting tradition.",
+      "dimensions": null,
+      "collection": null,
+      "file": "01-vanitas-in-a-petri-dish-installation-view.jpg",
+      "credit": "© Suzanne Anker",
+      "sourceUrl": "https://www.suzanneanker.com"
+    },
+    {
+      "title": "Remote Sensing",
+      "kind": "sculpture",
+      "year": "2011",
+      "medium": "3D-printed sculptures made from photographs of petri dishes",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "02-remote-sensing.jpg",
+      "credit": "© Suzanne Anker, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Remote_Sensing_by_Suzanne_Anker.jpg"
+    },
+    {
+      "title": "Biota",
+      "kind": "sculpture",
+      "year": "2011",
+      "medium": "Mixed media",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "03-biota.jpg",
+      "credit": "© Suzanne Anker, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Biota_by_Suzanne_Anker.jpg"
+    },
+    {
+      "title": "Astroculture (Eternal Return)",
+      "kind": "installation",
+      "year": "2015",
+      "medium": "Plants grown under LED lights in growth chambers",
+      "note": "Shown in a cathedral setting, the magenta growing light fills the nave.",
+      "dimensions": null,
+      "collection": null,
+      "file": "04-astroculture-eternal-return.jpg",
+      "credit": "© Suzanne Anker, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Astroculture_(Eternal_Return)_by_Suzanne_Anker.jpg"
+    },
+    {
+      "title": "When Crystals Spawn Flowers",
+      "kind": "installation",
+      "year": "2024",
+      "medium": "Mixed media",
+      "note": "Shown in the touring exhibition Bloom, about flowers and their relationship to humans.",
+      "dimensions": null,
+      "collection": null,
+      "file": "05-when-crystals-spawn-flowers.jpg",
+      "credit": "© Suzanne Anker",
+      "sourceUrl": "https://www.suzanneanker.com"
+    },
+    {
+      "title": "Origins and Futures IV",
+      "kind": "sculpture",
+      "year": "2005",
+      "medium": "Sculpture on a glass base",
+      "note": "Refers to A. G. Cairns-Smith's theory that life may have begun on clay crystals.",
+      "dimensions": null,
+      "collection": "MACAM, Lisbon",
+      "file": "06-origins-and-futures-iv.jpg",
+      "credit": "© Suzanne Anker",
+      "sourceUrl": "https://www.suzanneanker.com"
+    }
+  ]
+}

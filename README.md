@@ -19,16 +19,16 @@ content/artists/maria-lassnig/
 1. `npm run new -- "Paula Rego"` creates `content/artists/paula-rego/artist.json` from a template.
    You can also create the file on github.com with *Add file → Create new file*.
 2. Put the images next to it, about 1600px on the long edge. The first work in `works` becomes the cover.
-3. Fill in the JSON. `status` is `to-study`, `studying` or `studied`. Your own observations go in `myNotes`.
+3. Fill in the JSON. `categories` lists one or more of `painting`, `bio-science`, `code`, `fibre`, `light` and `concept`; the first one decides the section the artist appears in. `status` is `to-study`, `studying` or `studied`. Your own observations go in `myNotes`.
    Films go in `videos` (YouTube and Vimeo play inline and appear in the slides). `kind: "film"` or `"performance"` tags a work.
    `seenAt` records the show where you saw the work in person.
 4. Commit to `main`. Vercel validates the content, builds the site and deploys it. A broken entry fails the build and the live site stays as it was.
 
-`npm run validate` checks every folder: required fields, date formats and that every referenced image exists.
+`npm run validate` checks every folder: required fields, categories, date formats and that every referenced image exists.
 
 ## Views
 
-- **Artists**: a grid or A–Z index, searchable by name, work, medium or theme, and filterable by study status.
+- **Artists**: a grid grouped by category, or an A–Z index. Searchable by name, work, medium or theme, and filterable by category and study status.
 - **Artist page**: a hero work, bio, facts, "What to look at" study notes, works with wall labels, and links.
 - **Slides**: a full-screen deck with a title slide per artist followed by their works.
   Navigate with ← → or by swiping; Esc closes. `#/slides/<slug>` shows one artist.

@@ -1,0 +1,153 @@
+{
+  "name": "Do Ho Suh",
+  "nativeName": null,
+  "born": 1962,
+  "died": null,
+  "birthplace": "Seoul, South Korea",
+  "basedIn": "London",
+  "nationality": "Korean",
+  "categories": [
+    "fibre"
+  ],
+  "mediums": [
+    "Sculpture",
+    "Installation",
+    "Fabric",
+    "Drawing",
+    "Printmaking"
+  ],
+  "tags": [
+    "Home",
+    "Memory",
+    "Translucent fabric",
+    "Architecture",
+    "Displacement",
+    "Scale"
+  ],
+  "bio": "Do Ho Suh (born 1962) studied oriental painting in Seoul before moving to the United States, where he studied at the Rhode Island School of Design and Yale. His best-known works are full-scale replicas of the places he has lived, sewn from translucent polyester fabric: his childhood home in Seoul, his apartment and corridor at 348 West 22nd Street in New York, stairs, doorways and light switches, all rendered in luminous colour and hung so that visitors can walk through them. The fabric makes architecture portable and weightless, like a memory carried from place to place. He also makes works about the individual and the collective, such as fields of tiny figures holding up a floor or a wall, and 'rubbing' works that trace the surfaces of a building in pencil. Fallen Star (2012) at UC San Diego sets a small house tilted on the corner of a campus building.",
+  "studyNotes": [
+    "Memory as a measured copy. He measures his homes precisely, then remakes them in a material that cannot keep them solid.",
+    "Translucency changes architecture. Walls you can see through make every room a view of the next one; colour codes each space.",
+    "The detail carries the weight. Light switches, door handles and radiators are sewn at full scale, and they are what make the spaces feel lived in.",
+    "One and many. The figure works ask how individuals add up to a crowd or a structure; look at how the scale shifts as you move closer."
+  ],
+  "myNotes": [],
+  "recommendedBy": null,
+  "seenAt": null,
+  "status": "to-study",
+  "addedOn": "2026-10-11",
+  "links": [
+    {
+      "label": "Tate: Staircase-III",
+      "url": "https://www.tate.org.uk/art/artworks/suh-staircase-iii-t13368"
+    },
+    {
+      "label": "Lehmann Maupin",
+      "url": "https://www.lehmannmaupin.com/artists/do-ho-suh"
+    },
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Do_Ho_Suh"
+    }
+  ],
+  "portrait": null,
+  "videos": [],
+  "works": [
+    {
+      "title": "Staircase-III",
+      "kind": "installation",
+      "year": "2010",
+      "medium": "Polyester and stainless steel",
+      "note": "A full-size staircase from his New York building, sewn in red fabric and suspended at ceiling height.",
+      "dimensions": null,
+      "collection": "Tate",
+      "file": "01-staircase-iii.jpg",
+      "credit": "© Do Ho Suh. Photo: Egghead06, public domain, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Staircase-III.JPG"
+    },
+    {
+      "title": "New York apartment, in fabric",
+      "kind": "installation",
+      "year": "Photo c. 2018",
+      "medium": "Polyester fabric and stainless steel",
+      "note": "A walk-through fabric replica of rooms from his New York home, shown at Bristol Museum & Art Gallery.",
+      "dimensions": null,
+      "collection": null,
+      "file": "02-new-york-apartment-in-fabric.jpg",
+      "credit": "© Do Ho Suh. Photo: BristolIcarus, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Do-Ho_Suh%27s_%27New_York_Apartment%27.JPG"
+    },
+    {
+      "title": "New York apartment, in fabric (detail)",
+      "kind": "installation",
+      "year": "Photo c. 2018",
+      "medium": "Polyester fabric and stainless steel",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "03-new-york-apartment-in-fabric-detail.jpg",
+      "credit": "© Do Ho Suh. Photo: BristolIcarus, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Do-Ho_Suh%27s_%27New_York_Apartment%27_(detail).JPG"
+    },
+    {
+      "title": "Bridging Home",
+      "kind": "installation",
+      "year": "2010",
+      "medium": "Mixed media",
+      "note": "A traditional Korean house wedged between two buildings in Liverpool, made for the Liverpool Biennial.",
+      "dimensions": null,
+      "collection": null,
+      "file": "04-bridging-home.jpg",
+      "credit": "© Do Ho Suh. Photo: Julian Stallabrass, CC BY 2.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Do_Ho_Suh-_5756-sm_(5133449116).jpg"
+    },
+    {
+      "title": "Bridging Home (street view)",
+      "kind": "installation",
+      "year": "2010",
+      "medium": "Mixed media",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "05-bridging-home-street-view.jpg",
+      "credit": "© Do Ho Suh. Photo: Julian Stallabrass, CC BY 2.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Do_Ho_Suh-_5759-sm_(5133451420).jpg"
+    },
+    {
+      "title": "Fallen Star",
+      "kind": "installation",
+      "year": "2012",
+      "medium": "Cottage on the roof edge of Jacobs Hall",
+      "note": "A small blue house set at a tilt on the edge of a seventh-storey building.",
+      "dimensions": null,
+      "collection": "Stuart Collection, University of California San Diego",
+      "file": "06-fallen-star.jpg",
+      "credit": "© Do Ho Suh. Photo: sarahmirk, CC BY 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fallen_Star_by_Do_Ho_Suh.jpg"
+    },
+    {
+      "title": "Wall of cast figures, U.S. Food and Drug Administration",
+      "kind": "installation",
+      "year": "Photo c. 2014",
+      "medium": "Cast resin figures",
+      "note": "Thousands of small figures in shifting colours, interlocked into a wall.",
+      "dimensions": null,
+      "collection": "U.S. Food and Drug Administration, White Oak campus, Maryland",
+      "file": "07-wall-of-cast-figures-us-food-and-drug-administra.jpg",
+      "credit": "© Do Ho Suh. Photo: Carol M. Highsmith, public domain, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Artwork_by_Do-Ho_Suh_at_the_Food_and_Drug_Administration_building,_Silver_Spring,_Maryland_LCCN2013634557.tif"
+    },
+    {
+      "title": "Wall of cast figures (detail)",
+      "kind": "installation",
+      "year": "Photo c. 2014",
+      "medium": "Cast resin figures",
+      "note": null,
+      "dimensions": null,
+      "collection": "U.S. Food and Drug Administration, White Oak campus, Maryland",
+      "file": "08-wall-of-cast-figures-detail.jpg",
+      "credit": "© Do Ho Suh. Photo: Carol M. Highsmith, public domain, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Artwork_by_Do-Ho_Suh_at_the_Food_and_Drug_Administration_building,_Silver_Spring,_Maryland_LCCN2013634562.tif"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "name": "Felix Gonzalez-Torres",
+  "nativeName": null,
+  "born": 1957,
+  "died": 1996,
+  "birthplace": "Guáimaro, Cuba",
+  "basedIn": "New York",
+  "nationality": "Cuban-American",
+  "categories": [
+    "concept"
+  ],
+  "mediums": [
+    "Installation",
+    "Sculpture",
+    "Photography",
+    "Billboards",
+    "Paper stacks",
+    "Light strings"
+  ],
+  "tags": [
+    "Candy spills",
+    "Paper stacks",
+    "Participation",
+    "Loss",
+    "AIDS crisis",
+    "Minimalism",
+    "Love"
+  ],
+  "bio": "Felix Gonzalez-Torres (1957–1996) was born in Cuba and lived in New York from 1979. He was a member of the collective Group Material and made a body of work that uses the forms of Minimalism and Conceptual art to speak about love, loss and public life during the AIDS crisis. His works are often defined by instructions rather than objects: piles of wrapped sweets that visitors may take from and that are replenished; stacks of printed paper sheets to be carried away; strings of light bulbs; pairs of synchronised clocks; billboards of an empty, unmade bed. 'Untitled' (Portrait of Ross in L.A.) (1991) begins with 175 pounds of candy, the ideal body weight of his partner Ross Laycock, who died of AIDS-related illness in 1991. Gonzalez-Torres died in 1996; he represented the United States at the Venice Biennale posthumously in 2007.",
+  "studyNotes": [
+    "One concept, many forms. Candy, paper, clocks, light bulbs, billboards and text all carry the same idea of a body that is present and diminishing.",
+    "The work is a set of instructions. Owners receive a certificate and guidelines; each installation can be different in size and shape, so the idea, not the object, is the artwork.",
+    "Participation completes it. Visitors take a sweet or a sheet; the work only means something when it is shared and slowly disappears.",
+    "Restraint carries emotion. The forms look cool and minimal, but titles and materials load them with love and grief. Look at what is left unsaid."
+  ],
+  "myNotes": [],
+  "recommendedBy": null,
+  "seenAt": null,
+  "status": "to-study",
+  "addedOn": "2026-10-11",
+  "links": [
+    {
+      "label": "Felix Gonzalez-Torres Foundation",
+      "url": "https://www.felixgonzalez-torresfoundation.org"
+    },
+    {
+      "label": "Art Institute of Chicago: \"Untitled\" (Portrait of Ross in L.A.)",
+      "url": "https://www.artic.edu/artworks/152961/untitled-portrait-of-ross-in-l-a"
+    },
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Felix_Gonzalez-Torres"
+    }
+  ],
+  "portrait": null,
+  "videos": [],
+  "works": [
+    {
+      "title": "\"Untitled\" (Portrait of Ross in L.A.)",
+      "kind": "installation",
+      "year": "1991",
+      "medium": "Candies individually wrapped in multicoloured cellophane, endless supply; ideal weight 175 lb",
+      "note": "Visitors may take a sweet; the pile is replenished, so it shrinks and is restored again and again.",
+      "dimensions": null,
+      "collection": "Art Institute of Chicago",
+      "file": "01-untitled-portrait-of-ross-in-la.jpg",
+      "credit": "© Estate of Felix Gonzalez-Torres. Photo: Ken Lund, public domain, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22Untitled%22_(Portrait_of_Ross_in_L.A.),_Felix_Gonzalez-Torres,_Art_Institute.jpg"
+    },
+    {
+      "title": "\"Untitled\" (Portrait of Ross in L.A.), a visitor taking a sweet",
+      "kind": "installation",
+      "year": "1991",
+      "medium": "Candies in cellophane, endless supply",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "02-untitled-portrait-of-ross-in-la-a-visitor-taking.jpg",
+      "credit": "© Estate of Felix Gonzalez-Torres. Photo: Mark Mauno, public domain, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22Untitled%22_(Portrait_of_Ross_in_L.A.)_by_Felix_Gonzalez-Torres.jpg"
+    },
+    {
+      "title": "\"Untitled\" (Perfect Lovers)",
+      "kind": "sculpture",
+      "year": "1987–1990",
+      "medium": "Two clocks, side by side, initially set to the same time",
+      "note": "Two identical wall clocks start in sync and will drift apart; when one stops, it is reset.",
+      "dimensions": null,
+      "collection": "Glenstone",
+      "file": "03-untitled-perfect-lovers.jpg",
+      "credit": "© Estate of Felix Gonzalez-Torres. Photo: 19h00s, public domain, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22Untitled%22_(Perfect_Lovers),_Felix_Gonzalez-Torres,_Glenstone_(cropped).jpg"
+    },
+    {
+      "title": "\"Untitled\"",
+      "kind": "installation",
+      "year": "1989",
+      "medium": "Billboard",
+      "note": "A billboard over Sheridan Square, near the Stonewall Inn, listing dates from gay history and the AIDS crisis.",
+      "dimensions": null,
+      "collection": null,
+      "file": "04-untitled.jpg",
+      "credit": "© Estate of Felix Gonzalez-Torres. Photo: Elvert Barnes, public domain, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22Untitled%22,_GF1989-013,_Felix_Gonzalez-Torres,_Stonewall_1.jpg"
+    },
+    {
+      "title": "\"Untitled\" (Republican Years)",
+      "kind": "installation",
+      "year": "1992",
+      "medium": "Print on paper, endless copies",
+      "note": "A stack of sheets visitors can take away.",
+      "dimensions": null,
+      "collection": null,
+      "file": "05-untitled-republican-years.jpg",
+      "credit": "© Estate of Felix Gonzalez-Torres. Photo: Mirko Tobias Schäfer on Flickr, public domain, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22Untitled%22_(Republican_Years),_Felix_Gonzalez-Torres,_Sprengel.jpg"
+    },
+    {
+      "title": "\"Untitled\" (Lovers – Paris)",
+      "kind": "installation",
+      "year": "1993",
+      "medium": "Light bulbs, porcelain light sockets, extension cords",
+      "note": null,
+      "dimensions": null,
+      "collection": "National Gallery of Art, Washington",
+      "file": "06-untitled-lovers-paris.jpg",
+      "credit": "© Estate of Felix Gonzalez-Torres. Photo: 19h00s, public domain, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22Untitled%22_(Lovers_-_Paris),_Felix_Gonzalez-Torres,_NGA.jpg"
+    },
+    {
+      "title": "\"Untitled\" (Water)",
+      "kind": "installation",
+      "year": "1995",
+      "medium": "Strands of beads and hanging device",
+      "note": "A curtain of blue beads that visitors pass through.",
+      "dimensions": null,
+      "collection": "Baltimore Museum of Art",
+      "file": "07-untitled-water.jpg",
+      "credit": "© Estate of Felix Gonzalez-Torres. Photo: 19h00s, public domain, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22Untitled%22_(Water),_Felix_Gonzalez-Torres,_BMA_1.jpg"
+    },
+    {
+      "title": "\"Untitled\" (Passport)",
+      "kind": "installation",
+      "year": "1991",
+      "medium": "Paper, endless copies",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "08-untitled-passport.jpg",
+      "credit": "© Estate of Felix Gonzalez-Torres. Photo: 19h00s, public domain, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22Untitled%22_(Passport),_Felix_Gonzalez-Torres,_MCASD.jpg"
+    },
+    {
+      "title": "\"Untitled\" (text portrait)",
+      "kind": "installation",
+      "year": "1989",
+      "medium": "Paint on wall",
+      "note": "A frieze of events and dates that together form a portrait.",
+      "dimensions": null,
+      "collection": null,
+      "file": "09-untitled-text-portrait.jpg",
+      "credit": "© Estate of Felix Gonzalez-Torres. Photo: 19h00s, public domain, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22Untitled%22,_GF1989-020,_Felix_Gonzalez-Torres,_NPG_1.jpg"
+    }
+  ]
+}

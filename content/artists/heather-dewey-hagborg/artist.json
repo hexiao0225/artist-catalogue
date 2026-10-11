@@ -1,0 +1,134 @@
+{
+  "name": "Heather Dewey-Hagborg",
+  "nativeName": null,
+  "born": 1982,
+  "died": null,
+  "birthplace": null,
+  "basedIn": "New York",
+  "nationality": "American",
+  "categories": [
+    "bio-science",
+    "code"
+  ],
+  "mediums": [
+    "Sculpture",
+    "Installation",
+    "Software",
+    "Biotechnology",
+    "Video"
+  ],
+  "tags": [
+    "DNA phenotyping",
+    "Biohacking",
+    "Genetic surveillance",
+    "Stranger Visions",
+    "Forensics",
+    "Privacy",
+    "Portraiture"
+  ],
+  "bio": "Heather Dewey-Hagborg (born 1982) is an information artist and biohacker whose work asks what can be read about a person from the biological traces they leave behind. For Stranger Visions (2012–13) she collected hairs, chewing gum and cigarette ends from the streets of New York, extracted and analysed the DNA in a community biology lab, and used software to generate 3D-printed portraits of what the anonymous strangers might look like. Invisible (2014) answered with a pair of sprays to erase and obscure the DNA one leaves in public. With Chelsea Manning she made Probably Chelsea (2017), thirty possible faces generated from Manning's DNA, showing how much the same genome can be read in different ways. She has a PhD in Electronic Arts from Rensselaer Polytechnic Institute, and her early work used software, AI and sound before she turned to genetics.",
+  "studyNotes": [
+    "Start with a found sample. The work begins on the street, with gum and hair; the collecting walk is as much a part of the method as the lab.",
+    "Code and biology in one pipeline. Sequencing, a statistical model and a 3D printer each make decisions; the portrait is only as 'true' as the assumptions inside the software.",
+    "The portrait as a critique. The faces look convincing, which is the point: they show how forensic phenotyping can produce confident images from uncertain data.",
+    "Make the counter-tool too. Invisible turns the critique into a product with packaging and a launch video, so the work operates in the world rather than only describing it."
+  ],
+  "myNotes": [],
+  "recommendedBy": null,
+  "seenAt": null,
+  "status": "to-study",
+  "addedOn": "2026-10-11",
+  "links": [
+    {
+      "label": "Artist website",
+      "url": "https://deweyhagborg.com"
+    },
+    {
+      "label": "Stranger Visions",
+      "url": "https://deweyhagborg.com/projects/stranger-visions"
+    },
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Heather_Dewey-Hagborg"
+    }
+  ],
+  "portrait": {
+    "file": "portrait.jpg",
+    "credit": "Photo: Dan Phiffer, CC BY-SA 4.0, via Wikimedia Commons"
+  },
+  "videos": [],
+  "works": [
+    {
+      "title": "Stranger Visions",
+      "kind": "installation",
+      "year": "2012–13",
+      "medium": "3D-printed portraits generated from DNA, with samples and documentation",
+      "note": "Each face is a computational guess at the person who left a hair or a cigarette end on a New York street.",
+      "dimensions": null,
+      "collection": null,
+      "file": "01-stranger-visions.jpg",
+      "credit": "© Heather Dewey-Hagborg, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stranger_Visions-1.jpg"
+    },
+    {
+      "title": "Stranger Visions: Sample 3",
+      "kind": "sculpture",
+      "year": "2012",
+      "medium": "Full-colour 3D print generated from DNA analysis",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "02-stranger-visions-sample-3.jpg",
+      "credit": "© Heather Dewey-Hagborg, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stranger_Visions-5.jpeg"
+    },
+    {
+      "title": "Stranger Visions: collected sample (chewing gum)",
+      "kind": "photograph",
+      "year": "2012",
+      "medium": "Documentation photograph",
+      "note": "Discarded chewing gum, one of the samples collected for the project.",
+      "dimensions": null,
+      "collection": null,
+      "file": "03-stranger-visions-collected-sample-chewing-gum.jpg",
+      "credit": "© Heather Dewey-Hagborg, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stranger_Visions-2.jpg"
+    },
+    {
+      "title": "Stranger Visions: collected sample (cigarette end, Myrtle Avenue, Brooklyn)",
+      "kind": "photograph",
+      "year": "2012",
+      "medium": "Documentation photograph",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "04-stranger-visions-collected-sample-cigarette-end.jpg",
+      "credit": "© Heather Dewey-Hagborg, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stranger_Visions-3.jpg"
+    },
+    {
+      "title": "Invisible",
+      "kind": "sculpture",
+      "year": "2014",
+      "medium": "Two sprays (Erase and Replace) with packaging",
+      "note": "One spray removes DNA traces; the other masks what remains with noise.",
+      "dimensions": null,
+      "collection": null,
+      "file": "05-invisible.jpg",
+      "credit": "© Heather Dewey-Hagborg, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Invisible-1.jpg"
+    },
+    {
+      "title": "Invisible (video still)",
+      "kind": "film",
+      "year": "2014",
+      "medium": "Video",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "06-invisible-video-still.jpg",
+      "credit": "© Heather Dewey-Hagborg, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Invisible-4.jpg"
+    }
+  ]
+}

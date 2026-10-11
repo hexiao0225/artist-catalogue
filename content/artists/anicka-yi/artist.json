@@ -1,0 +1,171 @@
+{
+  "name": "Anicka Yi",
+  "nativeName": null,
+  "born": 1971,
+  "died": null,
+  "birthplace": "Seoul, South Korea",
+  "basedIn": "New York",
+  "nationality": "Korean-American",
+  "categories": [
+    "bio-science",
+    "concept"
+  ],
+  "mediums": [
+    "Sculpture",
+    "Installation",
+    "Scent",
+    "Video",
+    "Biomaterials",
+    "Machines"
+  ],
+  "tags": [
+    "Bacteria",
+    "Smell",
+    "Machine ecologies",
+    "Kelp",
+    "Tempura-fried flowers",
+    "Art and science",
+    "Aerobes"
+  ],
+  "bio": "Anicka Yi (born 1971) was born in Seoul, grew up in California and lives in New York. She came to art without formal training, and since the 2010s has built a practice around the senses that art usually ignores, especially smell, and around materials that are alive, perishable or unstable: bacteria, kelp, tempura-fried flowers, soap, ants, sweat and scent. She works with scientists and engineers; for You Can Call Me F (The Kitchen, 2015) she grew bacteria sampled from a hundred women. Her Hugo Boss Prize exhibition Life Is Cheap (Guggenheim, 2017) included a wall of bacteria and the scent of Asian American women and ants. For In Love With the World (2021), the Hyundai Commission at Tate Modern, she filled the Turbine Hall with floating machines, 'aerobes', that drifted like jellyfish and seeds through changing scents. Recent sculptures are lantern-like forms of dried kelp lit from within, some housing animatronic insects, and fibre-optic works that move like living things.",
+  "studyNotes": [
+    "Work with what is alive or decaying. Bacteria grow, kelp dries, fried flowers darken; the piece keeps changing after it is installed.",
+    "Smell is a medium. She commissions scents as carefully as forms; ask what a room would smell like and why.",
+    "Machines as organisms. The aerobes and the motorised fibre-optic sculptures behave like creatures; she imagines how machines might live alongside us.",
+    "Collaborate with the lab. Much of the work depends on scientists, perfumers and engineers; the collaboration itself is part of the method."
+  ],
+  "myNotes": [],
+  "recommendedBy": null,
+  "seenAt": null,
+  "status": "to-study",
+  "addedOn": "2026-10-11",
+  "links": [
+    {
+      "label": "Tate Modern: Hyundai Commission, Anicka Yi (2021)",
+      "url": "https://www.tate.org.uk/whats-on/tate-modern/hyundai-commission-anicka-yi"
+    },
+    {
+      "label": "Gladstone Gallery",
+      "url": "https://www.gladstonegallery.com/artist/anicka-yi/"
+    },
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Anicka_Yi"
+    }
+  ],
+  "portrait": {
+    "file": "portrait.jpg",
+    "credit": "Photo: Sun Shi, courtesy UCCA Center for Contemporary Art"
+  },
+  "videos": [],
+  "works": [
+    {
+      "title": "In Love With the World",
+      "kind": "installation",
+      "year": "2021",
+      "medium": "Floating machines (aerobes) and scent, Hyundai Commission, Turbine Hall, Tate Modern",
+      "note": "Jellyfish- and seed-like flying machines moved through the hall on their own, while the air was scented differently over the months.",
+      "dimensions": null,
+      "collection": null,
+      "file": "01-in-love-with-the-world.jpg",
+      "credit": "© Anicka Yi. Photo: Tate",
+      "sourceUrl": "https://www.tate.org.uk/whats-on/tate-modern/hyundai-commission-anicka-yi"
+    },
+    {
+      "title": "Half Water, Half Mud, Half Sun II",
+      "kind": "sculpture",
+      "year": "2023",
+      "medium": "Kelp, aquazol, glycerin, crepeline, acrylic, LED and animatronic insect",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "02-half-water-half-mud-half-sun-ii.jpg",
+      "credit": "© Anicka Yi. Courtesy Gladstone Gallery",
+      "sourceUrl": "https://www.gladstonegallery.com/artist/anicka-yi/"
+    },
+    {
+      "title": "Half Water, Half Mud, Half Sun IV",
+      "kind": "sculpture",
+      "year": "2023",
+      "medium": "Kelp, aquazol, glycerin, crepeline, acrylic, LED and animatronic insect",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "03-half-water-half-mud-half-sun-iv.jpg",
+      "credit": "© Anicka Yi. Courtesy Gladstone Gallery",
+      "sourceUrl": "https://www.gladstonegallery.com/artist/anicka-yi/"
+    },
+    {
+      "title": "The Department of Autumn Grief",
+      "kind": "sculpture",
+      "year": "2026",
+      "medium": "Kelp, aquazol, glycerin, dye, crepeline, acrylic, LED, animatronic insect",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "04-the-department-of-autumn-grief.jpg",
+      "credit": "© Anicka Yi. Courtesy Gladstone Gallery",
+      "sourceUrl": "https://www.gladstonegallery.com/artist/anicka-yi/"
+    },
+    {
+      "title": "Night Writing",
+      "kind": "sculpture",
+      "year": "2025",
+      "medium": "PMMA optical fibre, LEDs, silicone, acrylic, epoxy, aluminium, steel, brass, motors and microcontrollers",
+      "note": "A lit, motorised fibre-optic form that moves slowly, like a breathing creature.",
+      "dimensions": null,
+      "collection": null,
+      "file": "05-night-writing.jpg",
+      "credit": "© Anicka Yi. Courtesy Gladstone Gallery. Photo: Andrea Rossetti",
+      "sourceUrl": "https://www.gladstonegallery.com/artist/anicka-yi/"
+    },
+    {
+      "title": "Amputation",
+      "kind": "sculpture",
+      "year": "2024",
+      "medium": "Foam, plaster, paint, tempura-fried flowers, glass, tubing",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "06-amputation.jpg",
+      "credit": "© Anicka Yi. Courtesy Gladstone Gallery. Photo: Andrea Rossetti",
+      "sourceUrl": "https://www.gladstonegallery.com/artist/anicka-yi/"
+    },
+    {
+      "title": "Late Classical XIX",
+      "kind": "sculpture",
+      "year": "2022",
+      "medium": "Tempura-fried flowers, resin, plexiglas, stainless steel shelves, chrome-plated dumbbells",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "07-late-classical-xix.jpg",
+      "credit": "© Anicka Yi. Courtesy Gladstone Gallery",
+      "sourceUrl": "https://www.gladstonegallery.com/artist/anicka-yi/"
+    },
+    {
+      "title": "Reverse Osmosis",
+      "kind": "painting",
+      "year": "2022",
+      "medium": "UV print on silk screen mesh in cherry frame",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "08-reverse-osmosis.jpg",
+      "credit": "© Anicka Yi. Courtesy Gladstone Gallery",
+      "sourceUrl": "https://www.gladstonegallery.com/artist/anicka-yi/"
+    },
+    {
+      "title": "Each Branch Of Coral Holds Up The Light Of The Moon (video still)",
+      "kind": "film",
+      "year": "2024",
+      "medium": "Animated colour video with sound, 16 min 8 s",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "09-each-branch-of-coral-holds-up-the-light-of-the-m.jpg",
+      "credit": "© Anicka Yi. Courtesy Gladstone Gallery",
+      "sourceUrl": "https://www.gladstonegallery.com/artist/anicka-yi/"
+    }
+  ]
+}

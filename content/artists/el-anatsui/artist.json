@@ -1,0 +1,148 @@
+{
+  "name": "El Anatsui",
+  "nativeName": null,
+  "born": 1944,
+  "died": null,
+  "birthplace": "Anyako, Ghana",
+  "basedIn": "Nsukka, Nigeria",
+  "nationality": "Ghanaian",
+  "categories": [
+    "fibre"
+  ],
+  "mediums": [
+    "Sculpture",
+    "Installation",
+    "Wood",
+    "Metal"
+  ],
+  "tags": [
+    "Bottle caps",
+    "Found materials",
+    "Cloth",
+    "Kente",
+    "Nsukka School",
+    "Large-scale"
+  ],
+  "bio": "El Anatsui (born 1944) trained at Kwame Nkrumah University of Science and Technology in Kumasi and taught for decades at the University of Nigeria, Nsukka. His early work was carved and burned wood, often cut with a chainsaw and marked with signs drawn from West African writing systems. From the late 1990s he began joining thousands of aluminium caps and seals from liquor bottles with copper wire into huge, flexible sheets. They hang like cloth, recalling kente and other textiles, while carrying histories of trade, consumption and colonial exchange in their material. The sheets have no fixed shape: each installation folds and drapes them anew. He received the Golden Lion for Lifetime Achievement at the 2015 Venice Biennale and made Behind the Red Moon for Tate Modern's Turbine Hall in 2023.",
+  "studyNotes": [
+    "A material with a past. Each bottle cap carries a brand, a drink and a trade route; the work is built from that history, not just from metal.",
+    "Metal that behaves like cloth. Stitching small rigid units with wire turns them into a fabric that can fold, drape and hang.",
+    "No fixed form. He lets installers decide how a sheet is folded, so the same work changes from venue to venue.",
+    "Labour and community. The sheets are made by teams of assistants in his studio; repetition and collective making are part of the meaning."
+  ],
+  "myNotes": [],
+  "recommendedBy": null,
+  "seenAt": null,
+  "status": "to-study",
+  "addedOn": "2026-10-11",
+  "links": [
+    {
+      "label": "Tate Modern: El Anatsui, Behind the Red Moon (2023)",
+      "url": "https://www.tate.org.uk/whats-on/tate-modern/hyundai-commission-el-anatsui"
+    },
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/El_Anatsui"
+    }
+  ],
+  "portrait": null,
+  "videos": [],
+  "works": [
+    {
+      "title": "Energy Spill",
+      "kind": "sculpture",
+      "year": "2010",
+      "medium": "Aluminium bottle caps and copper wire",
+      "note": null,
+      "dimensions": null,
+      "collection": "Private collection",
+      "file": "01-energy-spill.jpg",
+      "credit": "© El Anatsui. Photo: Francesco Bini, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:El_anatsui,_energy_spill,_2010_(coll._priv.)_01.jpg"
+    },
+    {
+      "title": "Energy Spill (detail)",
+      "kind": "sculpture",
+      "year": "2010",
+      "medium": "Aluminium bottle caps and copper wire",
+      "note": null,
+      "dimensions": null,
+      "collection": "Private collection",
+      "file": "02-energy-spill-detail.jpg",
+      "credit": "© El Anatsui. Photo: Francesco Bini, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:El_anatsui,_energy_spill,_2010_(coll._priv.)_02.jpg"
+    },
+    {
+      "title": "Nukae-1",
+      "kind": "sculpture",
+      "year": "2006",
+      "medium": "Aluminium and copper wire",
+      "note": "Part of the Gawu series of metal \"cloths\".",
+      "dimensions": null,
+      "collection": null,
+      "file": "03-nukae-1.jpg",
+      "credit": "© El Anatsui. Photo: Cliff, CC BY 2.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:El_Anatsui,_Nukae-1,_2006,_Aluminum_and_copper_wire_(2923616754).jpg"
+    },
+    {
+      "title": "Nukae-1 (detail)",
+      "kind": "sculpture",
+      "year": "2006",
+      "medium": "Aluminium and copper wire",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "04-nukae-1-detail.jpg",
+      "credit": "© El Anatsui. Photo: Cliff, CC BY 2.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:El_Anatsui,_Nukae-1_(close-up)_(2922765989).jpg"
+    },
+    {
+      "title": "Man's Cloth",
+      "kind": "sculpture",
+      "year": "1998–2001",
+      "medium": "Aluminium bottle tops and copper wire",
+      "note": null,
+      "dimensions": null,
+      "collection": "British Museum, London",
+      "file": "05-mans-cloth.jpg",
+      "credit": "© El Anatsui. Photo: hahnchen, CC BY-SA 3.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:El_Anatsui_-_Man%27s_Cloth.jpg"
+    },
+    {
+      "title": "Man's Cloth (detail)",
+      "kind": "sculpture",
+      "year": "1998–2001",
+      "medium": "Aluminium bottle tops and copper wire",
+      "note": null,
+      "dimensions": null,
+      "collection": "British Museum, London",
+      "file": "06-mans-cloth-detail.jpg",
+      "credit": "© El Anatsui. Photo: hahnchen, CC BY-SA 3.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:El_Anatsui_-_Man%27s_Cloth_(close_up).jpg"
+    },
+    {
+      "title": "Broken Bridge II",
+      "kind": "installation",
+      "year": "2012",
+      "medium": "Pressed tin and mirrors",
+      "note": "A wall installation along the High Line in New York.",
+      "dimensions": null,
+      "collection": null,
+      "file": "07-broken-bridge-ii.jpg",
+      "credit": "© El Anatsui. Photo: Paul Trafford, CC BY 2.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Broken_Bridge_II_in_unbroken_sunshine_(8674045729).jpg"
+    },
+    {
+      "title": "Early wood reliefs",
+      "kind": "sculpture",
+      "year": "1990s",
+      "medium": "Tropical hardwood, cut and burned",
+      "note": "Shown in Nigerian Modernism at Tate Modern, London.",
+      "dimensions": null,
+      "collection": null,
+      "file": "08-early-wood-reliefs.jpg",
+      "credit": "© El Anatsui. Photo: GualdimG, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:El_Anatsui,_Room_8,_Signs_of_Life_-_The_Nsukka_School,_Nigerian_Modernism,_Tate_Modern,_London_12.jpg"
+    }
+  ]
+}

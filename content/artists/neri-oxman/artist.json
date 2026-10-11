@@ -1,0 +1,169 @@
+{
+  "name": "Neri Oxman",
+  "nativeName": null,
+  "born": 1976,
+  "died": null,
+  "birthplace": "Haifa, Israel",
+  "basedIn": "New York",
+  "nationality": "Israeli-American",
+  "categories": [
+    "bio-science",
+    "code"
+  ],
+  "mediums": [
+    "Architecture",
+    "Design",
+    "Biomaterials",
+    "3D printing",
+    "Computational design"
+  ],
+  "tags": [
+    "Material ecology",
+    "Silk Pavilion",
+    "Biomaterials",
+    "Digital fabrication",
+    "Mediated Matter",
+    "Nature-inspired design"
+  ],
+  "bio": "Neri Oxman (born 1976) is an architect, designer and researcher who coined the term 'Material Ecology' for design that is grown, computed and fabricated together with natural systems. She studied medicine and architecture in Israel and London before a PhD at MIT, where she founded the Mediated Matter group at the MIT Media Lab. Her work moves between the lab and the gallery: 3D-printed objects whose material properties vary across their surface (Raycounting, Monocoque, Beast), wearable pieces made with Iris van Herpen, printed glass, and structures made with living organisms, most famously the Silk Pavilion (2013), whose silk was spun by thousands of silkworms on a robotically woven frame. MoMA gave her a solo exhibition, 'Material Ecology', in 2020. That year she left MIT and founded the design company OXMAN in New York.",
+  "studyNotes": [
+    "The organism is a collaborator. In the Silk Pavilion a robot lays down a scaffold and the silkworms finish it, so the final form is negotiated between a program and an animal's behaviour.",
+    "Variation across one material. Instead of assembling parts, she grades stiffness, colour or opacity continuously through a single printed object. Look at Monocoque and Beast and ask where the 'joints' have gone.",
+    "Computation as a way of reading nature. Many works start from a simulation of light, heat or force, then use that data to decide where material goes.",
+    "The lab and the museum are one practice. Prototypes, diagrams and research photos are shown alongside finished objects; the process is part of the work."
+  ],
+  "myNotes": [],
+  "recommendedBy": null,
+  "seenAt": null,
+  "status": "to-study",
+  "addedOn": "2026-10-11",
+  "links": [
+    {
+      "label": "MoMA: Neri Oxman: Material Ecology (2020)",
+      "url": "https://www.moma.org/calendar/exhibitions/5090"
+    },
+    {
+      "label": "OXMAN",
+      "url": "https://oxman.com"
+    },
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Neri_Oxman"
+    }
+  ],
+  "portrait": {
+    "file": "portrait.jpg",
+    "credit": "Photo: Noah Kalina, CC BY-SA 4.0, via Wikimedia Commons"
+  },
+  "videos": [],
+  "works": [
+    {
+      "title": "Silk Pavilion",
+      "kind": "installation",
+      "year": "2013",
+      "medium": "Silk spun by about 6,500 silkworms over a CNC-woven silk scaffold",
+      "note": "A robot wove a base frame of silk threads, then the silkworms were released onto it and filled in the gaps, guided by light and heat.",
+      "dimensions": null,
+      "collection": "MIT Media Lab",
+      "file": "01-silk-pavilion.jpg",
+      "credit": "© Neri Oxman, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oxman-Silk_pavilion_installation.png"
+    },
+    {
+      "title": "Silk Pavilion (silkworms at work)",
+      "kind": "installation",
+      "year": "2013",
+      "medium": "Live silkworms on the woven scaffold",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "02-silk-pavilion-silkworms-at-work.jpg",
+      "credit": "© Neri Oxman, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oxman-Silk_pavilion_silkworms.png"
+    },
+    {
+      "title": "Silkworm spinning on a flat surface",
+      "kind": "photograph",
+      "year": "c. 2013",
+      "medium": "Research photograph",
+      "note": "Studies of how silkworms respond to flat and curved surfaces informed the pavilion's design.",
+      "dimensions": null,
+      "collection": null,
+      "file": "03-silkworm-spinning-on-a-flat-surface.jpg",
+      "credit": "© Neri Oxman, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Silkworm_spinning_a_flat_surface.tif"
+    },
+    {
+      "title": "Raycounting",
+      "kind": "sculpture",
+      "year": "2007",
+      "medium": "Silk-coated nylon, 3D printed",
+      "note": "Form generated from how light falls across a surface.",
+      "dimensions": null,
+      "collection": "Museum of Modern Art, New York",
+      "file": "04-raycounting.jpg",
+      "credit": "© Neri Oxman, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nerioxman_raycounting_01.jpg"
+    },
+    {
+      "title": "Monocoque",
+      "kind": "sculpture",
+      "year": "2007",
+      "medium": "3D-printed resin",
+      "note": "A skin that is also its own structure, with thickness varying where it carries load.",
+      "dimensions": null,
+      "collection": null,
+      "file": "05-monocoque.jpg",
+      "credit": "© Neri Oxman. Photo: Michael Siegel, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Neri_Oxman_MoMA_Monocoque_04.tif"
+    },
+    {
+      "title": "Cartesian Wax",
+      "kind": "sculpture",
+      "year": "2007",
+      "medium": "Resin tiles",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "06-cartesian-wax.jpg",
+      "credit": "© Neri Oxman. Photo: Michael Siegel, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Neri_Oxman_CartesianWax_03.tif"
+    },
+    {
+      "title": "Beast (prototype chaise longue)",
+      "kind": "sculpture",
+      "year": "2010",
+      "medium": "Multi-material 3D print",
+      "note": "Material stiffness varies across the surface in response to the pressure of a seated body.",
+      "dimensions": null,
+      "collection": null,
+      "file": "07-beast-prototype-chaise-longue.jpg",
+      "credit": "© Neri Oxman, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oxman_Beast_prototype.tif"
+    },
+    {
+      "title": "Anthozoa (with Iris van Herpen and Craig Carter)",
+      "kind": "sculpture",
+      "year": "2013",
+      "medium": "Multi-material 3D-printed garment",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "08-anthozoa-with-iris-van-herpen-and-craig-carter.jpg",
+      "credit": "© Neri Oxman, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NeriOxman-VanHerpenShow.jpg"
+    },
+    {
+      "title": "Glass bowl from G3DP (Glass 3D printing)",
+      "kind": "sculpture",
+      "year": "2015",
+      "medium": "Additively manufactured optically transparent glass",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "09-glass-bowl-from-g3dp-glass-3d-printing.jpg",
+      "credit": "© Neri Oxman. Photo: Mediated Matter, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:G3DP_glass_bowl-sm.png"
+    }
+  ]
+}

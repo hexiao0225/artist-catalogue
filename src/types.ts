@@ -49,6 +49,8 @@ export interface ArtistFile {
   birthplace?: string | null
   basedIn?: string | null
   nationality: string
+  /** Category ids from CATEGORIES in config.ts. The first one is the primary category. */
+  categories: string[]
   mediums: string[]
   tags: string[]
   bio: string

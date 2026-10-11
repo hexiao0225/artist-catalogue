@@ -1,0 +1,107 @@
+{
+  "name": "Eduardo Kac",
+  "nativeName": null,
+  "born": 1962,
+  "died": null,
+  "birthplace": "Rio de Janeiro, Brazil",
+  "basedIn": "Chicago",
+  "nationality": "Brazilian-American",
+  "categories": [
+    "bio-science"
+  ],
+  "mediums": [
+    "Transgenic art",
+    "Installation",
+    "Telepresence",
+    "Holopoetry",
+    "Space art",
+    "Mosaic"
+  ],
+  "tags": [
+    "Bio art",
+    "Transgenic art",
+    "GFP Bunny",
+    "Alba",
+    "Genetic code",
+    "Telepresence art",
+    "Poetry"
+  ],
+  "bio": "Eduardo Kac (born 1962) began as a poet and performance artist in Rio de Janeiro in the early 1980s, making holographic poems and early telecommunications and telepresence works before turning to living systems. He coined the term 'transgenic art' in 1998. In Genesis (1999) he translated a sentence from the Book of Genesis into Morse code and then into a synthetic gene, inserted it into bacteria, and let gallery visitors trigger mutations by switching on ultraviolet light over the internet. GFP Bunny (2000) centred on Alba, a rabbit bred with a fluorescent protein from a jellyfish, and on the public debate and the campaign to bring her home. Later works include Natural History of the Enigma (2003–08), a flower carrying his own DNA, and Inner Telescope (2017), made in orbit with the astronaut Thomas Pesquet. He teaches at the School of the Art Institute of Chicago.",
+  "studyNotes": [
+    "The artwork extends beyond the object. GFP Bunny is a rabbit, a set of images, a debate in the press and a campaign; the discussion is part of the piece.",
+    "Code as a bridge. Genesis moves a sentence through Morse code and genetic code, asking what happens to meaning when language becomes biology.",
+    "Audience participation over a network. Visitors and remote users could change the bacteria in Genesis, which makes them responsible for the mutations.",
+    "Ethics as material. Kac treats the responsibility of creating life, and caring for it afterwards, as a central question of the work."
+  ],
+  "myNotes": [],
+  "recommendedBy": null,
+  "seenAt": null,
+  "status": "to-study",
+  "addedOn": "2026-10-11",
+  "links": [
+    {
+      "label": "Artist website",
+      "url": "https://www.ekac.org"
+    },
+    {
+      "label": "GFP Bunny",
+      "url": "https://www.ekac.org/gfpbunny.html"
+    },
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eduardo_Kac"
+    }
+  ],
+  "portrait": null,
+  "videos": [],
+  "works": [
+    {
+      "title": "Genesis",
+      "kind": "installation",
+      "year": "1999",
+      "medium": "Transgenic installation: synthetic gene, bacteria, UV light, video, internet",
+      "note": "Shown at Ars Electronica, Linz. Online visitors could switch on UV light over the bacteria, causing mutations in the \"Genesis gene\".",
+      "dimensions": null,
+      "collection": null,
+      "file": "01-genesis.jpg",
+      "credit": "© Eduardo Kac. Photo: Dave Pape, public domain, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eduardo_Kac_-_Genesis_-_Ars_Electronica_99.jpg"
+    },
+    {
+      "title": "GFP Bunny (Alba)",
+      "kind": "performance",
+      "year": "2000",
+      "medium": "Transgenic artwork: a rabbit expressing green fluorescent protein, with the public dialogue around her",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "02-gfp-bunny-alba.jpg",
+      "credit": "© Eduardo Kac",
+      "sourceUrl": "https://www.ekac.org/gfpbunny.html"
+    },
+    {
+      "title": "Lagoogleglyph V",
+      "kind": "installation",
+      "year": "2022",
+      "medium": "Mosaic of coloured tiles, 6 × 15 m",
+      "note": "A huge pixelated rabbit, meant to be seen from the sky and by satellite imaging.",
+      "dimensions": null,
+      "collection": null,
+      "file": "03-lagoogleglyph-v.jpg",
+      "credit": "© Eduardo Kac. Photo: MHM55, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:OpenEnd-2022-8-Eduardo_Kac-Lagoogleglyph_-5-02.jpg"
+    },
+    {
+      "title": "Lagoogleglyph V (detail)",
+      "kind": "installation",
+      "year": "2022",
+      "medium": "Mosaic of coloured tiles",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "04-lagoogleglyph-v-detail.jpg",
+      "credit": "© Eduardo Kac. Photo: MHM55, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:OpenEnd-2022-8-Eduardo_Kac-Lagoogleglyph_-5-01.jpg"
+    }
+  ]
+}
