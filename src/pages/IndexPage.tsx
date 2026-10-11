@@ -1,6 +1,7 @@
 import { useMemo, useState } from 'react'
 import { Link, useSearchParams } from 'react-router-dom'
 import ArtistCard from '../components/ArtistCard'
+import { CATEGORIES, categoryTitle } from '../config'
 import { artists, lifeDates, sortName, statusLabel } from '../data'
 import type { Artist, StudyStatus } from '../types'
 
@@ -13,6 +14,7 @@ function matches(artist: Artist, query: string): boolean {
     artist.name,
     artist.nativeName,
     artist.nationality,
+    ...artist.categories.map(categoryTitle),
     ...artist.tags,
     ...artist.mediums,
     ...artist.works.map((w) => w.title),
@@ -30,6 +32,7 @@ export default function IndexPage() {
   const [query, setQuery] = useState('')
   const view: View = params.get('view') === 'index' ? 'index' : 'grid'
   const filter = (params.get('status') as StudyStatus | null) ?? 'all'
+  const category = params.get('category') ?? 'all'
 
   const update = (key: string, value: string, fallback: string) => {
     const next = new URLSearchParams(params)
@@ -39,9 +42,20 @@ export default function IndexPage() {
   }
 
   const visible = useMemo(
-    () => artists.filter((a) => (filter === 'all' || a.status === filter) && matches(a, query)),
-    [filter, query],
+    () =>
+      artists.filter(
+        (a) =>
+          (filter === 'all' || a.status === filter) &&
+          (category === 'all' || a.categories.includes(category)) &&
+          matches(a, query),
+      ),
+    [filter, category, query],
   )
+  // Group by primary category when browsing everything; a single category gets a flat grid.
+  const sections =
+    category === 'all'
+      ? CATEGORIES.map((c) => ({ ...c, list: visible.filter((a) => a.categories[0] === c.id) }))
+      : [{ ...CATEGORIES.find((c) => c.id === category)!, list: visible }]
   const workCount = artists.reduce((n, a) => n + a.works.length, 0)
 
   return (
@@ -52,7 +66,7 @@ export default function IndexPage() {
         </h1>
         <p className="lede">
           {artists.length} artists and {workCount} works, collected as a reference to learn from:
-          how they handle surface, colour, composition and subject.
+          painting, living systems, code, fibre, light, and ideas carried across many media.
         </p>
       </section>
 
@@ -90,15 +104,44 @@ export default function IndexPage() {
           ))}
         </div>
       </div>
+      <div className="segmented segmented--categories" aria-label="Filter by category">
+        {[{ id: 'all', title: 'All categories' }, ...CATEGORIES].map((c) => (
+          <button
+            key={c.id}
+            type="button"
+            aria-pressed={category === c.id}
+            onClick={() => update('category', c.id, 'all')}
+          >
+            {c.title}
+            {c.id !== 'all' && (
+              <span className="segmented__count">
+                {artists.filter((a) => a.categories.includes(c.id)).length}
+              </span>
+            )}
+          </button>
+        ))}
+      </div>
 
       {visible.length === 0 && <p className="empty">No artists match that search.</p>}
 
       {view === 'grid' ? (
-        <div className="grid">
-          {visible.map((a) => (
-            <ArtistCard key={a.slug} artist={a} />
-          ))}
-        </div>
+        sections
+          .filter((s) => s.list.length > 0)
+          .map((s) => (
+            <section key={s.id} className="category" aria-labelledby={`category-${s.id}`}>
+              <header className="category__head">
+                <h2 id={`category-${s.id}`} className="category__title">
+                  {s.title} <span className="count">{s.list.length}</span>
+                </h2>
+                <p className="category__blurb">{s.blurb}</p>
+              </header>
+              <div className="grid">
+                {s.list.map((a) => (
+                  <ArtistCard key={a.slug} artist={a} />
+                ))}
+              </div>
+            </section>
+          ))
       ) : (
         <AlphaIndex artists={visible} />
       )}

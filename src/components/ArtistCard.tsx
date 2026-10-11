@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import { categoryTitle } from '../config'
 import { lifeDates, statusLabel } from '../data'
 import type { Artist } from '../types'
 
@@ -13,6 +14,7 @@ export default function ArtistCard({ artist }: { artist: Artist }) {
       <p className="card__meta">
         {artist.nationality}, {lifeDates(artist)}
       </p>
+      <p className="card__categories">{artist.categories.map(categoryTitle).join(' · ')}</p>
       <p className="card__foot">
         <span>
           {artist.works.length} works

@@ -1,0 +1,104 @@
+{
+  "name": "Vera Molnar",
+  "nativeName": null,
+  "born": 1924,
+  "died": 2023,
+  "birthplace": "Budapest, Hungary",
+  "basedIn": "Paris",
+  "nationality": "Hungarian-French",
+  "categories": [
+    "code"
+  ],
+  "mediums": [
+    "Computer drawing",
+    "Plotter drawing",
+    "Painting",
+    "Sculpture",
+    "Notebooks"
+  ],
+  "tags": [
+    "Algorithmic art",
+    "Machine imaginaire",
+    "Rule-based work",
+    "Generative art",
+    "Geometric abstraction",
+    "Disorder"
+  ],
+  "bio": "Vera Molnar (1924–2023) was one of the first artists to make work with a computer. Trained in Budapest, she moved to Paris in 1947 and was a co-founder of the Groupe de Recherche d'Art Visuel in 1960. Before she had access to a machine she worked with what she called a 'machine imaginaire': she wrote simple rules and executed them by hand, systematically varying squares, lines and grids. In 1968 she began working on a computer at a university research centre in Paris, writing programs in Fortran and Basic and drawing the results with a plotter. Series such as Interruptions (1968–69), (Des)Ordres (1974) and Lettres de ma mère (1981–90) explore how a small dose of randomness, '1% disorder', brings an ordered system to life. She worked until her death in 2023, a few months before her centenary; the Centre Pompidou opened a major exhibition of her work in 2024.",
+  "studyNotes": [
+    "Rules first, machine second. Her 'machine imaginaire' shows that algorithmic thinking does not need a computer; write the rule, then run it by hand.",
+    "One per cent disorder. Introduce a small amount of randomness into a strict system and watch where it breaks; that tension is the work.",
+    "Series, not single images. She explored a rule across hundreds of variations; the meaning is in comparing them.",
+    "Sixty years of the same questions. From the 1950s to the 2020s she kept working with squares and lines; the depth comes from long, patient iteration."
+  ],
+  "myNotes": [],
+  "recommendedBy": null,
+  "seenAt": null,
+  "status": "to-study",
+  "addedOn": "2026-10-11",
+  "links": [
+    {
+      "label": "Centre Pompidou: Vera Molnar, Parler à l'œil (2024)",
+      "url": "https://www.centrepompidou.fr/"
+    },
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vera_Moln%C3%A1r"
+    }
+  ],
+  "portrait": {
+    "file": "portrait.jpg",
+    "credit": "Photo: Pantalaskas, CC BY-SA 3.0, via Wikimedia Commons"
+  },
+  "videos": [],
+  "works": [
+    {
+      "title": "Interruptions à recouvrements",
+      "kind": "drawing",
+      "year": "1969",
+      "medium": "Computer-generated plotter drawing",
+      "note": "Short lines rotate at random within a grid; areas left blank interrupt the pattern.",
+      "dimensions": null,
+      "collection": null,
+      "file": "01-interruptions-recouvrements.jpg",
+      "credit": "© Vera Molnar, public domain, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vera_Molnar._Interruptions_%C3%A0_recouvrements%E2%80%9D_from_1969.jpg"
+    },
+    {
+      "title": "Metal relief in the exhibition \"Parler à l'œil\", Centre Pompidou",
+      "kind": "sculpture",
+      "year": "Photo 2024",
+      "medium": "Metal",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "02-metal-relief-in-the-exhibition-parler-l-il-centr.jpg",
+      "credit": "© Estate of Vera Molnar. Photo: Jean-no, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vernissage_molnar_centre_Pompidou_metal.jpg"
+    },
+    {
+      "title": "Notebooks, shown at the Centre Pompidou",
+      "kind": "drawing",
+      "year": "Photo 2024",
+      "medium": "Artist's notebooks",
+      "note": "Her working notebooks record rules, variations and calculations.",
+      "dimensions": null,
+      "collection": null,
+      "file": "03-notebooks-shown-at-the-centre-pompidou.jpg",
+      "credit": "© Estate of Vera Molnar. Photo: Jean-no, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vernissage_molnar_centre_Pompidou_cahiers.jpg"
+    },
+    {
+      "title": "Geometric work in red",
+      "kind": "painting",
+      "year": "Photo 2013",
+      "medium": "Paint",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "04-geometric-work-in-red.jpg",
+      "credit": "© Estate of Vera Molnar. Photo: Laure Jaumouillé, CC BY-SA 3.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clairedorn_W6W0172_copie.jpg"
+    }
+  ]
+}

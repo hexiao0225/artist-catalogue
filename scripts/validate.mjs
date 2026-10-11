@@ -5,6 +5,7 @@ import { join } from 'node:path'
 
 const root = new URL('../content/artists/', import.meta.url).pathname
 const STATUSES = ['to-study', 'studying', 'studied']
+const CATEGORIES = ['painting', 'bio-science', 'code', 'fibre', 'light', 'concept']
 const KINDS = ['painting', 'sculpture', 'drawing', 'photograph', 'performance', 'film', 'installation']
 const errors = []
 
@@ -30,6 +31,10 @@ for (const slug of readdirSync(root)) {
   need(a.died == null || Number.isInteger(a.died), '"died" must be a year number or null')
   need(typeof a.nationality === 'string', '"nationality" is required')
   need(typeof a.bio === 'string', '"bio" is required')
+  need(
+    Array.isArray(a.categories) && a.categories.length > 0 && a.categories.every((c) => CATEGORIES.includes(c)),
+    `"categories" must be a non-empty list from ${CATEGORIES.join(', ')}`,
+  )
   need(STATUSES.includes(a.status), `"status" must be one of ${STATUSES.join(', ')}`)
   need(/^\d{4}-\d{2}-\d{2}$/.test(a.addedOn ?? ''), '"addedOn" must be YYYY-MM-DD')
   for (const key of ['mediums', 'tags', 'studyNotes', 'links', 'works']) {

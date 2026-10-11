@@ -1042,6 +1042,81 @@ code {
 
 /* ——— Small screens ——— */
 
+
+/* ——— Categories ——— */
+
+.toolbar {
+  margin-bottom: 0;
+}
+
+.segmented--categories {
+  padding: 14px 0 0;
+  margin-bottom: 48px;
+}
+
+.segmented__count {
+  margin-left: 6px;
+  opacity: 0.55;
+  font-variant-numeric: tabular-nums;
+}
+
+.category + .category {
+  margin-top: clamp(72px, 9vw, 120px);
+}
+
+.category__head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px 24px;
+  padding-top: 12px;
+  margin-bottom: 32px;
+  border-top: 1px solid var(--ink);
+}
+
+.category__title {
+  margin: 0;
+  font-size: clamp(24px, 3vw, 34px);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.category__blurb {
+  margin: 0;
+  max-width: 52ch;
+  color: var(--muted);
+  font-family: var(--serif);
+  font-size: 18px;
+}
+
+.card__categories {
+  margin: 4px 0 0;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  color: var(--muted);
+}
+
+.artist-head__categories {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 16px 0 0;
+}
+
+.artist-head__categories a {
+  padding: 4px 12px;
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  font-size: 14px;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.artist-head__categories a:hover {
+  border-color: var(--ink);
+}
+
 @media (max-width: 800px) {
   .wordmark__sub {
     display: none;

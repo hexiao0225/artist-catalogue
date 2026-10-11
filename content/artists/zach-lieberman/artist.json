@@ -1,0 +1,123 @@
+{
+  "name": "Zach Lieberman",
+  "nativeName": null,
+  "born": 1977,
+  "died": null,
+  "birthplace": null,
+  "basedIn": "New York",
+  "nationality": "American",
+  "categories": [
+    "code"
+  ],
+  "mediums": [
+    "Software",
+    "Interactive installation",
+    "Generative art",
+    "Teaching"
+  ],
+  "tags": [
+    "openFrameworks",
+    "Creative coding",
+    "Daily sketches",
+    "EyeWriter",
+    "School for Poetic Computation",
+    "Poetic computation"
+  ],
+  "bio": "Zach Lieberman (born 1977) is an artist, researcher and educator who uses code to make poetic, playful, often interactive work. He co-created openFrameworks, an open-source C++ toolkit for creative coding, with Theo Watson and Arturo Castro. In 2009 he worked with the Graffiti Research Lab, Free Art and Technology and others on the EyeWriter, a low-cost eye-tracking system that let the graffiti artist TEMPT1, paralysed by ALS, draw again with his eyes. In 2013 he co-founded the School for Poetic Computation in New York, an artist-run school about art, code and hardware. He has posted a new generative sketch almost every day since 2016, and leads the Future Sketches group at the MIT Media Lab, which looks at the history of computational art and drawing.",
+  "studyNotes": [
+    "Sketch every day. A daily practice of small experiments in code builds a personal visual language and a huge archive of ideas.",
+    "Build tools and share them. openFrameworks and the EyeWriter are open-source; making tools others can use is part of the art.",
+    "Code with care. The EyeWriter shows technology made with and for a specific person, with a clear human purpose.",
+    "Teaching as practice. The School for Poetic Computation treats education itself as a creative work."
+  ],
+  "myNotes": [],
+  "recommendedBy": null,
+  "seenAt": null,
+  "status": "to-study",
+  "addedOn": "2026-10-11",
+  "links": [
+    {
+      "label": "Artist website",
+      "url": "https://zach.li"
+    },
+    {
+      "label": "EyeWriter",
+      "url": "https://eyewriter.org"
+    },
+    {
+      "label": "School for Poetic Computation",
+      "url": "https://sfpc.study"
+    },
+    {
+      "label": "openFrameworks",
+      "url": "https://openframeworks.cc"
+    }
+  ],
+  "portrait": {
+    "file": "portrait.jpg",
+    "credit": "Photo: Zach Lieberman, CC BY-SA 3.0, via Wikimedia Commons"
+  },
+  "videos": [],
+  "works": [
+    {
+      "title": "Sketch",
+      "kind": "drawing",
+      "year": "c. 2019",
+      "medium": "Real-time generative software",
+      "note": "One of his daily code sketches of colour, form and movement.",
+      "dimensions": null,
+      "collection": null,
+      "file": "01-sketch.jpg",
+      "credit": "Courtesy Zach Lieberman / MIT Media Lab",
+      "sourceUrl": "https://www.media.mit.edu/groups/future-sketches/overview/"
+    },
+    {
+      "title": "EyeWriter (with TEMPT1, Free Art and Technology, openFrameworks, Graffiti Research Lab)",
+      "kind": "installation",
+      "year": "2009",
+      "medium": "Low-cost eye-tracking glasses and open-source drawing software",
+      "note": "Built so that TEMPT1, paralysed by ALS, could draw graffiti with his eyes.",
+      "dimensions": null,
+      "collection": null,
+      "file": "02-eyewriter-with-tempt1-free-art-and-technology-op.jpg",
+      "credit": "EyeWriter project (eyewriter.org)",
+      "sourceUrl": "https://eyewriter.org"
+    },
+    {
+      "title": "EyeWriter: TEMPT1 tag shown in a gallery",
+      "kind": "installation",
+      "year": "2009",
+      "medium": "Projection of a tag drawn with eye movements",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "03-eyewriter-tempt1-tag-shown-in-a-gallery.jpg",
+      "credit": "EyeWriter project (eyewriter.org)",
+      "sourceUrl": "https://eyewriter.org"
+    },
+    {
+      "title": "EyeWriter: TEMPT1 tag projected onto a building",
+      "kind": "installation",
+      "year": "2009",
+      "medium": "Projected tag drawn with eye movements",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "04-eyewriter-tempt1-tag-projected-onto-a-building.jpg",
+      "credit": "EyeWriter project (eyewriter.org)",
+      "sourceUrl": "https://eyewriter.org"
+    },
+    {
+      "title": "EyeWriter: tag drawn by TEMPT1",
+      "kind": "drawing",
+      "year": "2009",
+      "medium": "Digital drawing made with eye-tracking software",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "05-eyewriter-tag-drawn-by-tempt1.jpg",
+      "credit": "EyeWriter project (eyewriter.org)",
+      "sourceUrl": "https://eyewriter.org"
+    }
+  ]
+}

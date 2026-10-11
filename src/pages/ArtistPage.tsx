@@ -1,6 +1,7 @@
 import { Link, useParams } from 'react-router-dom'
 import VideoPlayer from '../components/VideoPlayer'
 import WorkLabel from '../components/WorkLabel'
+import { categoryTitle } from '../config'
 import { artists, findArtist, lifeDates, statusLabel } from '../data'
 import NotFound from './NotFound'
 
@@ -27,6 +28,13 @@ export default function ArtistPage() {
           <p className="artist-head__meta">
             {artist.nationality}, {lifeDates(artist)}
             {artist.birthplace && <> · Born {artist.birthplace}</>}
+          </p>
+          <p className="artist-head__categories">
+            {artist.categories.map((c) => (
+              <Link key={c} to={`/?category=${c}`}>
+                {categoryTitle(c)}
+              </Link>
+            ))}
           </p>
           <div className="artist-head__actions">
             <Link to={`/slides/${artist.slug}`} className="button">

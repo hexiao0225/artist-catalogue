@@ -1,0 +1,154 @@
+{
+  "name": "James Turrell",
+  "nativeName": null,
+  "born": 1943,
+  "died": null,
+  "birthplace": "Los Angeles, California",
+  "basedIn": "Flagstaff, Arizona",
+  "nationality": "American",
+  "categories": [
+    "light"
+  ],
+  "mediums": [
+    "Light installation",
+    "Architecture",
+    "Land art"
+  ],
+  "tags": [
+    "Light and Space",
+    "Skyspace",
+    "Ganzfeld",
+    "Perception",
+    "Roden Crater",
+    "Projection pieces"
+  ],
+  "bio": "James Turrell (born 1943) studied perceptual psychology at Pomona College before turning to art in Los Angeles, where he became a central figure in the Light and Space movement. His first works, from 1966, were projection pieces in which a beam of light seems to become a solid shape in the corner of a dark room. He went on to make Skyspaces, chambers with an opening in the roof that frame the sky as a flat field of colour, Ganzfelds that dissolve all sense of depth, and works that use the architecture of whole buildings. Since 1979 he has been transforming Roden Crater, an extinct volcano in Arizona, into a naked-eye observatory. Aten Reign (2013) filled the rotunda of the Guggenheim with changing coloured light. He received the National Medal of Arts in 2013.",
+  "studyNotes": [
+    "Light is the material, perception is the subject. There is often no object at all; what you see is your own eye adjusting.",
+    "Frame the sky. A Skyspace is an aperture with a carefully shaped edge, so the sky reads as a painted surface on the ceiling. Watch how dusk changes it.",
+    "Time is part of the work. Many pieces need several minutes of looking before they change; the duration is designed.",
+    "Architecture as instrument. Rooms are built to remove edges, shadows and reference points, and that precise construction is what makes the light seem to float."
+  ],
+  "myNotes": [],
+  "recommendedBy": null,
+  "seenAt": null,
+  "status": "to-study",
+  "addedOn": "2026-10-11",
+  "links": [
+    {
+      "label": "Artist website",
+      "url": "https://jamesturrell.com"
+    },
+    {
+      "label": "Roden Crater",
+      "url": "https://rodencrater.com"
+    },
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/James_Turrell"
+    }
+  ],
+  "portrait": {
+    "file": "portrait.jpg",
+    "credit": "Photo: Jocelyn Augustino, public domain, via Wikimedia Commons"
+  },
+  "videos": [],
+  "works": [
+    {
+      "title": "Aten Reign",
+      "kind": "installation",
+      "year": "2013",
+      "medium": "Daylight and LED light, Solomon R. Guggenheim Museum",
+      "note": "Two views of the rotunda, transformed into nested rings of shifting colour.",
+      "dimensions": null,
+      "collection": null,
+      "file": "01-aten-reign.jpg",
+      "credit": "© James Turrell. Photo: David Shankbone, CC BY 3.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:James_Turrell_At_the_Guggenheim_2013_NYC_Shankbone.jpg"
+    },
+    {
+      "title": "Dividing the Light",
+      "kind": "installation",
+      "year": "2007",
+      "medium": "Skyspace with LED lighting",
+      "note": "A canopy over a pool frames the sky; at dusk, lights shift the colour around the opening.",
+      "dimensions": null,
+      "collection": "Pomona College, Claremont",
+      "file": "02-dividing-the-light.jpg",
+      "credit": "© James Turrell. Photo: Hannah Christenson, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pomona_College_Skyspace_01.jpg"
+    },
+    {
+      "title": "Alta Pink",
+      "kind": "installation",
+      "year": "1968",
+      "medium": "Projected light (projection piece)",
+      "note": "A beam of light projected into a corner reads as a solid, glowing pyramid.",
+      "dimensions": null,
+      "collection": null,
+      "file": "03-alta-pink.jpg",
+      "credit": "© James Turrell. Photo: Darbui, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alta_Pink_James_Turrell.jpg"
+    },
+    {
+      "title": "Raemar Magenta",
+      "kind": "installation",
+      "year": "Raemar series, from 1968",
+      "medium": "Light installation (shallow space construction)",
+      "note": "Shown in the stables at Houghton Hall, Norfolk.",
+      "dimensions": null,
+      "collection": null,
+      "file": "04-raemar-magenta.jpg",
+      "credit": "© James Turrell. Photo: Mikenorton, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raemar_Magenta.JPG"
+    },
+    {
+      "title": "Three Gems",
+      "kind": "installation",
+      "year": "2005",
+      "medium": "Skyspace, stucco and concrete",
+      "note": null,
+      "dimensions": null,
+      "collection": "de Young Museum, San Francisco",
+      "file": "05-three-gems.jpg",
+      "credit": "© James Turrell. Photo: Otheralex01, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Three_Gems,_James_Turrell_Skyspace,_interior.jpg"
+    },
+    {
+      "title": "Skyspace, Piz Uter (interior)",
+      "kind": "installation",
+      "year": "2005",
+      "medium": "Skyspace",
+      "note": null,
+      "dimensions": null,
+      "collection": "Zuoz, Switzerland",
+      "file": "06-skyspace-piz-uter-interior.jpg",
+      "credit": "© James Turrell. Photo: Kamahele, CC BY-SA 3.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:James_Turrell-Zuoz-056.jpg"
+    },
+    {
+      "title": "Cat Cairn: The Kielder Skyspace",
+      "kind": "installation",
+      "year": "2000",
+      "medium": "Skyspace, stone",
+      "note": null,
+      "dimensions": null,
+      "collection": "Kielder Water & Forest Park, Northumberland",
+      "file": "07-cat-cairn-the-kielder-skyspace.jpg",
+      "credit": "© James Turrell. Photo: Peter McDermott, CC BY-SA 2.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skyspace_-_geograph.org.uk_-_743321.jpg"
+    },
+    {
+      "title": "Roden Crater",
+      "kind": "installation",
+      "year": "1979–ongoing",
+      "medium": "Extinct volcanic crater, Painted Desert, Arizona",
+      "note": "An extinct volcano being turned into a sequence of chambers and tunnels for viewing the sky.",
+      "dimensions": null,
+      "collection": null,
+      "file": "08-roden-crater.jpg",
+      "credit": "© James Turrell. Photo: Unknown photographer, public domain, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roden.jpg"
+    }
+  ]
+}

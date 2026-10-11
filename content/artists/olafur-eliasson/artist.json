@@ -1,0 +1,144 @@
+{
+  "name": "Olafur Eliasson",
+  "nativeName": null,
+  "born": 1967,
+  "died": null,
+  "birthplace": "Copenhagen, Denmark",
+  "basedIn": "Berlin and Copenhagen",
+  "nationality": "Danish-Icelandic",
+  "categories": [
+    "light"
+  ],
+  "mediums": [
+    "Installation",
+    "Sculpture",
+    "Architecture",
+    "Photography",
+    "Public art"
+  ],
+  "tags": [
+    "Perception",
+    "Weather",
+    "Climate",
+    "Light",
+    "Colour",
+    "Studio practice"
+  ],
+  "bio": "Olafur Eliasson (born 1967) grew up between Denmark and Iceland and studied at the Royal Danish Academy of Fine Arts. He runs a large studio in Berlin of craftspeople, architects, technicians and researchers. His work uses light, water, fog, mirrors, colour and temperature to make people aware of how they perceive. The weather project (2003) filled Tate Modern's Turbine Hall with a huge artificial sun in a haze, and visitors lay on the floor to watch themselves in the mirrored ceiling. He has made artificial waterfalls in New York (2008), a ring-shaped rainbow walkway on the roof of ARoS in Aarhus (Your rainbow panorama, 2011), blocks of Greenland ice left to melt in city squares (Ice Watch, from 2014), and the solar-powered lamp Little Sun (2012). He has increasingly turned his studio towards climate and social questions.",
+  "studyNotes": [
+    "Show the mechanism. He often leaves the machinery (lamps, pumps, scaffolding) visible, so you see both the effect and how it is made.",
+    "Viewers as the subject. Mirrors, coloured light and fog turn the audience into part of the picture; the work is about seeing yourself seeing.",
+    "Phenomena over objects. Weather, colour and reflection are the material; he builds conditions rather than things.",
+    "A studio as a lab. Look at the range of research, models and collaborations; the large works rest on years of small experiments with light and geometry."
+  ],
+  "myNotes": [],
+  "recommendedBy": null,
+  "seenAt": null,
+  "status": "to-study",
+  "addedOn": "2026-10-11",
+  "links": [
+    {
+      "label": "Studio Olafur Eliasson",
+      "url": "https://olafureliasson.net"
+    },
+    {
+      "label": "Tate: The weather project",
+      "url": "https://www.tate.org.uk/whats-on/tate-modern/unilever-series/unilever-series-olafur-eliasson-weather-project"
+    },
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Olafur_Eliasson"
+    }
+  ],
+  "portrait": {
+    "file": "portrait.jpg",
+    "credit": "Photo: Maximilian Bühn, CC BY-SA 4.0, via Wikimedia Commons"
+  },
+  "videos": [],
+  "works": [
+    {
+      "title": "The weather project",
+      "kind": "installation",
+      "year": "2003",
+      "medium": "Monofrequency lamps, projection foil, haze machines, mirror foil, aluminium and scaffolding",
+      "note": "A semicircle of yellow lamps, doubled by a mirrored ceiling into a sun, in Tate Modern's Turbine Hall.",
+      "dimensions": null,
+      "collection": null,
+      "file": "01-the-weather-project.jpg",
+      "credit": "© Olafur Eliasson. Photo: Michael Reeve, CC BY-SA 3.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tate.modern.weather.project.jpg"
+    },
+    {
+      "title": "Your rainbow panorama",
+      "kind": "installation",
+      "year": "2006–2011",
+      "medium": "Circular walkway of coloured glass on the museum roof",
+      "note": "Walking the ring, the city outside changes colour step by step.",
+      "dimensions": null,
+      "collection": "ARoS Aarhus Kunstmuseum",
+      "file": "02-your-rainbow-panorama.jpg",
+      "credit": "© Olafur Eliasson. Photo: Ssjensby, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Your_rainbow_panorama_p%C3%A5_taget_af_ARoS_Aarhus_Kunstmuseum.jpg"
+    },
+    {
+      "title": "The New York City Waterfalls",
+      "kind": "installation",
+      "year": "2008",
+      "medium": "Four temporary waterfalls on scaffolding",
+      "note": "Water pumped from the East River and dropped from scaffolding towers, one under the Brooklyn Bridge.",
+      "dimensions": null,
+      "collection": null,
+      "file": "03-the-new-york-city-waterfalls.jpg",
+      "credit": "© Olafur Eliasson. Photo: Americasroof, CC BY-SA 3.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nyc-waterfalls.jpg"
+    },
+    {
+      "title": "Cold Wind Sphere",
+      "kind": "sculpture",
+      "year": "2012",
+      "medium": "Stainless steel, colour-effect filter glass, mirror, lamp",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "04-cold-wind-sphere.jpg",
+      "credit": "© Olafur Eliasson. Photo: Hyun-seon, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cold_Wind_Sphere_-_Olafur_Eliasson.jpg"
+    },
+    {
+      "title": "No future is possible without a past",
+      "kind": "sculpture",
+      "year": "2017",
+      "medium": "Polished metal ceiling sculpture",
+      "note": null,
+      "dimensions": null,
+      "collection": "Bloomberg, London",
+      "file": "05-no-future-is-possible-without-a-past.jpg",
+      "credit": "© Olafur Eliasson. Photo: The wub, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bloomberg_London_lobby_-_1.jpg"
+    },
+    {
+      "title": "East window, Greifswald Cathedral",
+      "kind": "installation",
+      "year": "2024",
+      "medium": "Coloured glass",
+      "note": "A window made as a homage to Caspar David Friedrich, in his home town.",
+      "dimensions": null,
+      "collection": "Greifswald Cathedral, Germany",
+      "file": "06-east-window-greifswald-cathedral.jpg",
+      "credit": "© Olafur Eliasson. Photo: Geolina163, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Greifswald_Dom_Ostfassade_mit_dem_Glasfenster_von_Olafur_Eliasson_03.jpg"
+    },
+    {
+      "title": "East window, Greifswald Cathedral (reflection)",
+      "kind": "installation",
+      "year": "2024",
+      "medium": "Coloured light reflected in the west window",
+      "note": null,
+      "dimensions": null,
+      "collection": "Greifswald Cathedral, Germany",
+      "file": "07-east-window-greifswald-cathedral-reflection.jpg",
+      "credit": "© Olafur Eliasson. Photo: Geolina163, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Greifswald_Dom_Spiegelung_des_Ostfenster_im_Westfenster_02.jpg"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "name": "Sheila Hicks",
+  "nativeName": null,
+  "born": 1934,
+  "died": null,
+  "birthplace": "Hastings, Nebraska",
+  "basedIn": "Paris",
+  "nationality": "American",
+  "categories": [
+    "fibre"
+  ],
+  "mediums": [
+    "Weaving",
+    "Fibre sculpture",
+    "Installation",
+    "Textile"
+  ],
+  "tags": [
+    "Fibre art",
+    "Colour",
+    "Minimes",
+    "Wrapped bundles",
+    "Soft sculpture",
+    "Architecture"
+  ],
+  "bio": "Sheila Hicks (born 1934) studied painting at Yale under Josef Albers before turning to thread. Travels in South America, where she studied pre-Columbian textiles, set the direction of her work, and she has lived in Paris since 1964. She works at two extremes: 'minimes', small weavings made on a portable frame loom that she treats like sketchbook pages, and monumental works for architecture, from wall hangings for corporate lobbies to cascades of wrapped and bundled fibre that spill across floors and walls. Linen, wool, silk, cotton and synthetic fibres are wrapped, knotted, stacked and piled in saturated colour. Major works include The Principal Wife (1964–68, MoMA), Escalade Beyond Chromatic Lands at the 2017 Venice Biennale, and the 2018 retrospective 'Lignes de vie' at the Centre Pompidou.",
+  "studyNotes": [
+    "Keep a small format going. The minimes are a daily practice; ideas are tested at palm size before they reach architectural scale.",
+    "Colour is physical. Pigment sits inside the fibre, so a colour changes with how tightly a bundle is wrapped and how the light falls across it.",
+    "Gravity does the composing. Many pieces are piled, hung or let fall, so their final shape is partly decided by weight and the site.",
+    "Think architecture. Her large works are made for specific rooms, and she often lets them flow over thresholds and corners."
+  ],
+  "myNotes": [],
+  "recommendedBy": null,
+  "seenAt": null,
+  "status": "to-study",
+  "addedOn": "2026-10-11",
+  "links": [
+    {
+      "label": "Centre Pompidou: Sheila Hicks, Lignes de vie (2018)",
+      "url": "https://www.centrepompidou.fr/en/program/calendar/event/c9EKaEn"
+    },
+    {
+      "label": "MoMA collection",
+      "url": "https://www.moma.org/artists/2640"
+    },
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sheila_Hicks"
+    }
+  ],
+  "portrait": {
+    "file": "portrait.jpg",
+    "credit": "Photo: RebeccaRosebud, CC BY-SA 4.0, via Wikimedia Commons"
+  },
+  "videos": [],
+  "works": [
+    {
+      "title": "Wrapped columns (exhibition view, Textile Museum of Canada)",
+      "kind": "installation",
+      "year": "Photo 2016",
+      "medium": "Wrapped fibre",
+      "note": "Bundles of thread tightly wrapped in bands of colour.",
+      "dimensions": null,
+      "collection": null,
+      "file": "01-wrapped-columns-exhibition-view-textile-museum-o.jpg",
+      "credit": "© Sheila Hicks. Photo: U.S. Embassy and Consulates in Canada, public domain, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sheila_Hicks_Exhibition_at_Toronto_Textile_Museum_(29758940454).jpg"
+    },
+    {
+      "title": "Coiled bundle (exhibition view, Textile Museum of Canada)",
+      "kind": "sculpture",
+      "year": "Photo 2016",
+      "medium": "Linen and wool fibre",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "02-coiled-bundle-exhibition-view-textile-museum-of.jpg",
+      "credit": "© Sheila Hicks. Photo: U.S. Embassy and Consulates in Canada, public domain, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sheila_Hicks_Exhibition_at_Toronto_Textile_Museum_(29758946624).jpg"
+    },
+    {
+      "title": "Wrapped fibre hanging (exhibition view, Textile Museum of Canada)",
+      "kind": "installation",
+      "year": "Photo 2016",
+      "medium": "Wrapped fibre",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "03-wrapped-fibre-hanging-exhibition-view-textile-mu.jpg",
+      "credit": "© Sheila Hicks. Photo: U.S. Embassy and Consulates in Canada, public domain, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sheila_Hicks_Exhibition_at_Toronto_Textile_Museum_(30272932782).jpg"
+    },
+    {
+      "title": "Fibre cascade at the Château de Chaumont-sur-Loire",
+      "kind": "installation",
+      "year": "Photo 2018",
+      "medium": "Fibre installation",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "04-fibre-cascade-at-the-ch-teau-de-chaumont-sur-loi.jpg",
+      "credit": "© Sheila Hicks. Photo: stephane333, CC BY-SA 2.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chaumont_sur_Loire_(29893535608).jpg"
+    },
+    {
+      "title": "Hanging at the Château de Chaumont-sur-Loire",
+      "kind": "installation",
+      "year": "Photo 2018",
+      "medium": "Fibre installation",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "05-hanging-at-the-ch-teau-de-chaumont-sur-loire.jpg",
+      "credit": "© Sheila Hicks. Photo: stephane333, CC BY-SA 2.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chaumont_sur_Loire_(42860111025).jpg"
+    },
+    {
+      "title": "Exhibition at Demisch Danant, New York",
+      "kind": "sculpture",
+      "year": "Photo 2019",
+      "medium": "Fibre",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "06-exhibition-at-demisch-danant-new-york.jpg",
+      "credit": "© Sheila Hicks. Photo: Igarbani, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:SheilaHicks-Demisch01.jpg"
+    },
+    {
+      "title": "Wall hanging at the Stedelijk Museum, Amsterdam",
+      "kind": "sculpture",
+      "year": "Photo 1974",
+      "medium": "Woven and wrapped fibre",
+      "note": "From her 1974 exhibition of wall hangings and textile sculptures at the Stedelijk.",
+      "dimensions": null,
+      "collection": null,
+      "file": "07-wall-hanging-at-the-stedelijk-museum-amsterdam.jpg",
+      "credit": "© Sheila Hicks. Photo: Fotograaf Onbekend / Anefo, public domain, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Een_van_de_wandtapijten,_Bestanddeelnr_926-9905.jpg"
+    }
+  ]
+}

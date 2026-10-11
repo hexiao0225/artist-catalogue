@@ -29,6 +29,7 @@ const template = {
   basedIn: '',
   nationality: '',
   mediums: ['Painting'],
+  categories: ['painting'],
   tags: [],
   bio: '',
   studyNotes: [],

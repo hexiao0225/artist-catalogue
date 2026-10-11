@@ -1,0 +1,180 @@
+{
+  "name": "Lenore Tawney",
+  "nativeName": null,
+  "born": 1907,
+  "died": 2007,
+  "birthplace": "Lorain, Ohio",
+  "basedIn": "New York",
+  "nationality": "American",
+  "categories": [
+    "fibre"
+  ],
+  "mediums": [
+    "Weaving",
+    "Fibre sculpture",
+    "Collage",
+    "Assemblage",
+    "Drawing"
+  ],
+  "tags": [
+    "Woven forms",
+    "Open-warp weaving",
+    "Cloud series",
+    "Linen",
+    "Coenties Slip",
+    "Spirituality"
+  ],
+  "bio": "Lenore Tawney (1907–2007) helped turn weaving into sculpture. She studied sculpture with Alexander Archipenko and tapestry with the Finnish weaver Martta Taipale, and in 1957 moved from Chicago to a loft at Coenties Slip in lower Manhattan, where her neighbours included Agnes Martin, Ellsworth Kelly and Robert Indiana. There she developed open-warp weaving, leaving areas of bare warp so light and air pass through the cloth, and built tall, narrow, freestanding 'woven forms' in linen that hang like columns or figures. Dark River (1962) is over four metres tall. From the late 1970s she made 'Clouds', installations of thousands of linen threads hanging from a ceiling grid, and in parallel produced collages, assemblages, drawings on graph paper and artist's books full of feathers, eggs, bones and text.",
+  "studyNotes": [
+    "Weave space, not just cloth. Open warps let light and the wall show through; what is left unwoven matters as much as the woven parts.",
+    "Vertical scale. The woven forms are much taller than a person and hang free of the wall, so they read as sculpture.",
+    "Thread as line and volume. In the Cloud works, thousands of single threads make a volume you can walk under; each thread is a drawn line.",
+    "Small and large practices feed each other. The intimate collages and books sit alongside monumental weavings; compare their materials and rhythms."
+  ],
+  "myNotes": [],
+  "recommendedBy": null,
+  "seenAt": null,
+  "status": "to-study",
+  "addedOn": "2026-10-11",
+  "links": [
+    {
+      "label": "Lenore G. Tawney Foundation",
+      "url": "https://lenoretawney.org"
+    },
+    {
+      "label": "MoMA: Dark River on view",
+      "url": "https://lenoretawney.org/lenore-tawneys-dark-river-on-view-for-the-first-time-at-moma/"
+    },
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lenore_Tawney"
+    }
+  ],
+  "portrait": {
+    "file": "portrait.jpg",
+    "credit": "Lenore Tawney weaving. Courtesy Lenore G. Tawney Foundation"
+  },
+  "videos": [],
+  "works": [
+    {
+      "title": "Cloud Labyrinth",
+      "kind": "installation",
+      "year": "1983",
+      "medium": "Linen threads hung from a canvas ceiling grid",
+      "note": "Thousands of threads form a hanging volume you can walk beneath.",
+      "dimensions": null,
+      "collection": null,
+      "file": "01-cloud-labyrinth.jpg",
+      "credit": "Courtesy Lenore G. Tawney Foundation",
+      "sourceUrl": "https://lenoretawney.org/work/fiber/"
+    },
+    {
+      "title": "Dark River",
+      "kind": "sculpture",
+      "year": "1962",
+      "medium": "Linen and wood",
+      "note": "An open-warp woven form more than four metres tall.",
+      "dimensions": null,
+      "collection": "The Museum of Modern Art, New York. Greta Daniel Design Fund",
+      "file": "02-dark-river.jpg",
+      "credit": "© Lenore G. Tawney Foundation. Photo: The Museum of Modern Art",
+      "sourceUrl": "https://lenoretawney.org/lenore-tawneys-dark-river-on-view-for-the-first-time-at-moma/"
+    },
+    {
+      "title": "Inquisition",
+      "kind": "sculpture",
+      "year": "1961",
+      "medium": "Woven fibre",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "03-inquisition.jpg",
+      "credit": "Courtesy Lenore G. Tawney Foundation",
+      "sourceUrl": "https://lenoretawney.org/work/fiber/"
+    },
+    {
+      "title": "Shrouded River",
+      "kind": "sculpture",
+      "year": "1966",
+      "medium": "Woven fibre",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "04-shrouded-river.jpg",
+      "credit": "Courtesy Lenore G. Tawney Foundation",
+      "sourceUrl": "https://lenoretawney.org/work/fiber/"
+    },
+    {
+      "title": "Shield IV",
+      "kind": "sculpture",
+      "year": "1966",
+      "medium": "Woven fibre",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "05-shield-iv.jpg",
+      "credit": "Courtesy Lenore G. Tawney Foundation",
+      "sourceUrl": "https://lenoretawney.org/work/fiber/"
+    },
+    {
+      "title": "Written in Water",
+      "kind": "sculpture",
+      "year": "1979",
+      "medium": "Fibre",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "06-written-in-water.jpg",
+      "credit": "Courtesy Lenore G. Tawney Foundation",
+      "sourceUrl": "https://lenoretawney.org/work/fiber/"
+    },
+    {
+      "title": "Waterfall",
+      "kind": "sculpture",
+      "year": "1974",
+      "medium": "Fibre",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "07-waterfall.jpg",
+      "credit": "Courtesy Lenore G. Tawney Foundation",
+      "sourceUrl": "https://lenoretawney.org/work/fiber/"
+    },
+    {
+      "title": "Labyrinth",
+      "kind": "drawing",
+      "year": "1967",
+      "medium": "Collage and ink on paper",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "08-labyrinth.jpg",
+      "credit": "Courtesy Lenore G. Tawney Foundation",
+      "sourceUrl": "https://lenoretawney.org/work/collage/"
+    },
+    {
+      "title": "Time Roars like a Seashell",
+      "kind": "drawing",
+      "year": "1967",
+      "medium": "Collage",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "09-time-roars-like-a-seashell.jpg",
+      "credit": "Courtesy Lenore G. Tawney Foundation",
+      "sourceUrl": "https://lenoretawney.org/work/collage/"
+    },
+    {
+      "title": "Artist book with rodent skull",
+      "kind": "sculpture",
+      "year": "c. 1985",
+      "medium": "Artist's book, collage and found objects",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "10-artist-book-with-rodent-skull.jpg",
+      "credit": "Courtesy Lenore G. Tawney Foundation",
+      "sourceUrl": "https://lenoretawney.org/work/collage/"
+    }
+  ]
+}

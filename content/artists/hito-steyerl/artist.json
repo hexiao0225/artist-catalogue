@@ -1,0 +1,121 @@
+{
+  "name": "Hito Steyerl",
+  "nativeName": null,
+  "born": 1966,
+  "died": null,
+  "birthplace": "Munich, Germany",
+  "basedIn": "Berlin",
+  "nationality": "German",
+  "categories": [
+    "concept"
+  ],
+  "mediums": [
+    "Video",
+    "Installation",
+    "Essay film",
+    "Writing",
+    "Lecture-performance"
+  ],
+  "tags": [
+    "Essay film",
+    "Poor image",
+    "Digital culture",
+    "Circulation",
+    "Surveillance",
+    "AI",
+    "Art and power"
+  ],
+  "bio": "Hito Steyerl (born 1966) is a filmmaker, artist and writer who studied cinematography in Tokyo and Munich and holds a PhD in philosophy. She began with documentary and essay films and has become one of the most influential artists working on how images are made and circulated in digital culture. Her essays, such as 'In Defense of the Poor Image' (2009), published in e-flux journal and collected in The Wretched of the Screen (2012), are as widely read as her films. Her video installations build whole environments around the screen: How Not to Be Seen: A Fucking Didactic Educational .MOV File (2013) is a deadpan tutorial on disappearing from surveillance; Liquidity Inc. (2014) is shown on a wave-shaped seating structure; Factory of the Sun (2015) filled the German Pavilion in Venice. Later works use game engines and machine learning to look at art markets, militarisation and AI.",
+  "studyNotes": [
+    "One argument, many forms. The same ideas appear as an essay, a lecture, a video and an installation; each version reaches a different audience.",
+    "Design the viewing space. Seating, lighting and grids are part of the work; the installation tells you how to watch.",
+    "Mix registers. Documentary footage, tutorials, video games, jokes and theory sit side by side; humour carries a serious critique.",
+    "Make the circulation visible. Compression, copying and online distribution are not side effects; they are what the work is about."
+  ],
+  "myNotes": [],
+  "recommendedBy": null,
+  "seenAt": null,
+  "status": "to-study",
+  "addedOn": "2026-10-11",
+  "links": [
+    {
+      "label": "Andrew Kreps Gallery",
+      "url": "https://www.andrewkreps.com/artists/hito-steyerl"
+    },
+    {
+      "label": "e-flux journal: 'In Defense of the Poor Image'",
+      "url": "https://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/"
+    },
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hito_Steyerl"
+    }
+  ],
+  "portrait": {
+    "file": "portrait.jpg",
+    "credit": "Photo: Bernhard Holub, CC BY-SA 4.0, via Wikimedia Commons"
+  },
+  "videos": [],
+  "works": [
+    {
+      "title": "How Not to Be Seen: A Fucking Didactic Educational .MOV File",
+      "kind": "installation",
+      "year": "2013",
+      "medium": "Single-channel HD video, installation",
+      "note": "A deadpan tutorial in five lessons on how to become invisible in an age of surveillance.",
+      "dimensions": null,
+      "collection": null,
+      "file": "01-how-not-to-be-seen-a-fucking-didactic-educationa.jpg",
+      "credit": "© Hito Steyerl. Courtesy the artist and Andrew Kreps Gallery, New York",
+      "sourceUrl": "https://www.andrewkreps.com/artists/hito-steyerl"
+    },
+    {
+      "title": "This is the Future",
+      "kind": "installation",
+      "year": "2019",
+      "medium": "Video installation, 58th Venice Biennale",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "02-this-is-the-future.jpg",
+      "credit": "© Hito Steyerl. Courtesy the artist and Andrew Kreps Gallery, New York",
+      "sourceUrl": "https://www.andrewkreps.com/artists/hito-steyerl"
+    },
+    {
+      "title": "Drill",
+      "kind": "installation",
+      "year": "2019",
+      "medium": "Multi-channel video installation, Park Avenue Armory, New York",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "03-drill.jpg",
+      "credit": "© Hito Steyerl. Courtesy the artist and Andrew Kreps Gallery, New York",
+      "sourceUrl": "https://www.andrewkreps.com/artists/hito-steyerl"
+    },
+    {
+      "title": "The City of Broken Windows",
+      "kind": "installation",
+      "year": "2018",
+      "medium": "Video installation, Castello di Rivoli, Turin",
+      "note": null,
+      "dimensions": null,
+      "collection": null,
+      "file": "04-the-city-of-broken-windows.jpg",
+      "credit": "© Hito Steyerl. Courtesy the artist and Andrew Kreps Gallery, New York",
+      "sourceUrl": "https://www.andrewkreps.com/artists/hito-steyerl"
+    },
+    {
+      "title": "HellYeahWeFuckDie",
+      "kind": "installation",
+      "year": "2016",
+      "medium": "Video installation, shown at Skulptur Projekte Münster 2017",
+      "note": "The title combines the most common words in English-language pop song titles of the 2010s.",
+      "dimensions": null,
+      "collection": null,
+      "file": "05-hellyeahwefuckdie.jpg",
+      "credit": "© Hito Steyerl. Photo: Pieter Delicaat, CC BY-SA 4.0, via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hito_Steyerl_-_M%C3%BCnster_Skulptur_Projekte_PM17.jpg"
+    }
+  ]
+}
