@@ -1,0 +1,161 @@
+{
+  "name": "Yuri Yuan",
+  "nativeName": "袁野",
+  "born": 1996,
+  "died": null,
+  "birthplace": "Harbin, China",
+  "basedIn": "New York",
+  "nationality": "Chinese-born, raised in Singapore",
+  "categories": [
+    "painting"
+  ],
+  "mediums": [
+    "Oil on linen",
+    "Oil on canvas",
+    "Oil on panel"
+  ],
+  "tags": [
+    "Figurative painting",
+    "Magical realism",
+    "Solitude",
+    "Figure seen from behind",
+    "Swimmers",
+    "Dusk light",
+    "Longing and loss"
+  ],
+  "bio": "Yuri Yuan (born 1996) was born in Harbin, China, grew up in Singapore and lives and works in the New York area. She studied at the School of the Art Institute of Chicago (BFA) and Columbia University (MFA, 2021), where she held the Helen Frankenthaler Scholarship; she has also received Elizabeth Greenshields Foundation grants. She paints quiet, figurative oils of everyday places, such as a river walk, a swimming pool, a changing room or a bedroom, and on a second look the relation between figure and landscape cannot physically be true. A lone woman, often seen from behind, recurs, and Yuan describes her as a witness, not a self-portrait. The themes are longing, loss and solitude, and she lets the outer landscape stand in for an inner state. She has had solo shows at Alexander Berggruen, New York (River Flows in You, 2021; Dark Dreams, 2022; Hide and Seek, 2025) and Make Room, Los Angeles (A Thousand Ships, 2023). Her work is in the Columbus Museum of Art, the Museum of Contemporary Art San Diego and X Museum, Beijing.",
+  "studyNotes": [
+    "Familiar first, impossible second. A scene reads as an ordinary pool or city view, and only on a longer look do scale, reflection or placement stop making sense; the strangeness is held back, never announced.",
+    "Turn the figure away. Her women are seen from behind or looking off; the viewer stands where the figure stands and shares her view, and the face does not have to carry the feeling.",
+    "Let light and time of day carry the meaning. Sunset, dusk, lamplight and window light do the emotional work; in Nothing New Under the Sun three panels move from sunset to night.",
+    "Thin and wet early on. She has described painting wet-on-wet with thin paint, and early works were often finished in a day to keep them fresh; later, larger works add crosshatching and heavier strokes.",
+    "Blur as motion and memory. In Swim Class the other swimmers are smeared, ghost-like streaks around one sharp, still child; contrasting sharp and soft edges sets up who is present.",
+    "Feed the painting from outside painting. She cites Murakami's stories, BoJack Horseman, Camus and Chinese folktales (the magic brush of Ma Liang) as much as painters such as Hammershøi."
+  ],
+  "myNotes": [],
+  "recommendedBy": null,
+  "seenAt": null,
+  "status": "to-study",
+  "addedOn": "2026-10-11",
+  "links": [
+    {
+      "label": "Artist's website",
+      "url": "http://www.yuriyuan.com/"
+    },
+    {
+      "label": "Alexander Berggruen",
+      "url": "https://alexanderberggruen.com/artists/yuri-yuan/"
+    },
+    {
+      "label": "Make Room, Los Angeles",
+      "url": "https://www.makeroom.la/artists/51-yuri-yuan"
+    },
+    {
+      "label": "Alexander Berggruen: Hide and Seek (2025)",
+      "url": "https://alexanderberggruen.com/exhibitions/yuri-yuan-hide-and-seek/"
+    },
+    {
+      "label": "Hyperallergic: John Yau on River Flows in You",
+      "url": "https://hyperallergic.com/yuri-yuan-asian-artist-isolation-in-new-york-alexander-berggruen"
+    }
+  ],
+  "videos": [],
+  "works": [
+    {
+      "title": "Nothing New Under the Sun",
+      "kind": "painting",
+      "year": "2023",
+      "medium": "Oil on linen, triptych",
+      "note": "Three panels move from sunset over the water, to a view down a river at dusk, to a figure in a long coat at a railing at night.",
+      "dimensions": "182.9 × 91.4 cm, 182.9 × 172.7 cm, 182.9 × 91.4 cm",
+      "collection": null,
+      "file": "01-nothing-new-under-the-sun.jpg",
+      "credit": "© Yuri Yuan. Courtesy Make Room, Los Angeles",
+      "sourceUrl": "https://www.makeroom.la/artists/51-yuri-yuan"
+    },
+    {
+      "title": "September",
+      "kind": "painting",
+      "year": "2024",
+      "medium": "Oil on linen",
+      "note": null,
+      "dimensions": "152.4 × 121.9 cm",
+      "collection": null,
+      "file": "02-september.jpg",
+      "credit": "© Yuri Yuan. Courtesy Make Room, Los Angeles",
+      "sourceUrl": "https://www.makeroom.la/artists/51-yuri-yuan"
+    },
+    {
+      "title": "When the Time Comes",
+      "kind": "painting",
+      "year": "2022",
+      "medium": "Oil on linen",
+      "note": null,
+      "dimensions": "152.4 × 121.9 cm",
+      "collection": null,
+      "file": "03-when-the-time-comes.jpg",
+      "credit": "© Yuri Yuan. Courtesy Make Room, Los Angeles",
+      "sourceUrl": "https://www.makeroom.la/artists/51-yuri-yuan"
+    },
+    {
+      "title": "Swim Class",
+      "kind": "painting",
+      "year": "2021",
+      "medium": "Oil on canvas",
+      "note": "One still, sharply painted child in cap and goggles sits wrapped in a towel while the other swimmers pass as blurred streaks.",
+      "dimensions": "121.9 × 152.4 cm",
+      "collection": null,
+      "file": "04-swim-class.jpg",
+      "credit": "© Yuri Yuan. Courtesy Make Room, Los Angeles",
+      "sourceUrl": "https://www.makeroom.la/artists/51-yuri-yuan"
+    },
+    {
+      "title": "Changing Room",
+      "kind": "painting",
+      "year": "2021",
+      "medium": "Oil on canvas",
+      "note": null,
+      "dimensions": "91.4 × 182.9 cm",
+      "collection": null,
+      "file": "05-changing-room.jpg",
+      "credit": "© Yuri Yuan. Courtesy Make Room, Los Angeles",
+      "sourceUrl": "https://www.makeroom.la/artists/51-yuri-yuan"
+    },
+    {
+      "title": "No Body No Crime",
+      "kind": "painting",
+      "year": "2023",
+      "medium": "Oil on linen",
+      "note": null,
+      "dimensions": "91.4 × 121.9 cm",
+      "collection": null,
+      "file": "06-no-body-no-crime.jpg",
+      "credit": "© Yuri Yuan. Courtesy Make Room, Los Angeles",
+      "sourceUrl": "https://www.makeroom.la/artists/51-yuri-yuan"
+    },
+    {
+      "title": "Diving",
+      "kind": "painting",
+      "year": "2021",
+      "medium": "Oil on canvas",
+      "note": null,
+      "dimensions": "121.9 × 91.4 cm",
+      "collection": null,
+      "file": "07-diving.jpg",
+      "credit": "© Yuri Yuan. Courtesy Make Room, Los Angeles",
+      "sourceUrl": "https://www.makeroom.la/artists/51-yuri-yuan"
+    },
+    {
+      "title": "Clean",
+      "kind": "painting",
+      "year": "2023",
+      "medium": "Oil on linen",
+      "note": null,
+      "dimensions": "76.2 × 101.6 cm",
+      "collection": null,
+      "file": "08-clean.jpg",
+      "credit": "© Yuri Yuan. Courtesy Make Room, Los Angeles",
+      "sourceUrl": "https://www.makeroom.la/artists/51-yuri-yuan"
+    }
+  ]
+}

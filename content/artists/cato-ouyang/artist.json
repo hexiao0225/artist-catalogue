@@ -1,0 +1,183 @@
+{
+  "name": "Cato Ouyang",
+  "nativeName": null,
+  "born": 1993,
+  "died": null,
+  "birthplace": "Chicago, United States",
+  "basedIn": "New York",
+  "nationality": "American",
+  "categories": [
+    "concept"
+  ],
+  "mediums": [
+    "Sculpture",
+    "Installation",
+    "Video",
+    "Carved stone",
+    "Carved wood",
+    "Found objects"
+  ],
+  "tags": [
+    "Assemblage",
+    "Myth retold",
+    "The body",
+    "Trauma and memory",
+    "Found furniture",
+    "Hand carving",
+    "Organic materials"
+  ],
+  "bio": "Cato Ouyang (born 1993; earlier exhibited as Catalina Ouyang) was born in Chicago and lives in New York. They hold an MFA in sculpture from Yale. Their sculptures join hand-carved stone and wood to found furniture, plaster, papier-mâché, animal bone, horse hair, textiles and, in earlier works, living cultures of bacteria and yeast. Many pieces retell stories from classical myth, literature, art history and family history, and deal with trauma, grief, the body and transformation. The Terrarium works (2017) are lotus feet, imagined from the artist's great-grandmother's bound feet, carved from stone. Ouyang has had solo exhibitions at Knockdown Center, New York (2020), Real Art Ways, Hartford (2021), Night Gallery, Los Angeles (forgive everything, 2022) and three at Lyles & King, New York; the last, Trick (2024), was named one of Artforum's top ten shows of that year. Their work is in collections including the Brooklyn Museum, LACMA, the Nasher Sculpture Center and the Museum of Fine Arts, Boston.",
+  "studyNotes": [
+    "Carve some parts, find the rest. A hand-carved limb or head sits on a school desk, a display case or an abandoned chair; the labour of carving is set against objects that arrive already loaded with use.",
+    "Let furniture stand in for bodies. Chairs, drawers and desks are given legs, spines and wounds, so ordinary domestic forms carry the figure without a full figurative sculpture.",
+    "Retell an old story from a different side. Titles name Perseus, Lucretia, Lamia and Thérèse; the work picks up stories in which women are attacked, punished or looked at, and shifts who holds the power in them.",
+    "Mix the stable with the perishable. Marble and soapstone share space with raw egg, kombucha mothers and beeswax, so the sculpture contains both permanence and decay.",
+    "Write the title as part of the work. Long, poetic titles and parentheses, such as crisis management (P[erseus] came for the holes), add a voice the objects alone could not carry.",
+    "Move between sculpture and moving image. Videos such as Syzygy use motors, scrims and directional sound, treating projection as another sculptural material."
+  ],
+  "myNotes": [],
+  "recommendedBy": null,
+  "seenAt": null,
+  "status": "to-study",
+  "addedOn": "2026-10-11",
+  "links": [
+    {
+      "label": "Lyles & King",
+      "url": "https://lylesandking.com/artists/cato-ouyang"
+    },
+    {
+      "label": "Night Gallery",
+      "url": "https://nightgallery.ca/artists/cato-ouyang"
+    },
+    {
+      "label": "Make Room",
+      "url": "https://www.makeroom.la/artists/catalina-ouyang"
+    },
+    {
+      "label": "Henry Art Gallery: Critical Issues lecture",
+      "url": "https://henryart.org/programs/critical-issues-lecture-catalina-ouyang"
+    },
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Catalina_Ouyang"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Intersections of Poetry, Art & Identity with Truong Tran, Catalina Ouyang, and Margaret Rhee",
+      "year": "2022",
+      "source": "Kaya Press",
+      "url": "https://www.youtube.com/watch?v=HpyEKmiuync"
+    }
+  ],
+  "works": [
+    {
+      "title": "Terrarium III",
+      "kind": "sculpture",
+      "year": "2017",
+      "medium": "Imagined lotus foot of the artist's great-grandmother, hand-carved out of soapstone",
+      "note": "One of a series of carved bound feet, each in a different stone.",
+      "dimensions": "25.4 x 25.4 x 25.4 cm",
+      "collection": null,
+      "file": "01-terrarium-iii.jpg",
+      "credit": "© Cato Ouyang. Courtesy Make Room, Los Angeles",
+      "sourceUrl": "https://www.makeroom.la/artists/catalina-ouyang"
+    },
+    {
+      "title": "crisis management (P[erseus] came for the holes)",
+      "kind": "sculpture",
+      "year": "2019",
+      "medium": "Alabaster, plaster, symbiotic colonies of bacteria and yeast, abandoned chair, steel rebar, weaver's cloth",
+      "note": "A chair stands on long cloth-wrapped legs with sharpened points, carrying a carved stone head.",
+      "dimensions": "162.6 x 47 x 48.3 cm",
+      "collection": null,
+      "file": "02-crisis-management-perseus-came-for-the-holes.jpg",
+      "credit": "© Cato Ouyang. Courtesy Make Room, Los Angeles",
+      "sourceUrl": "https://www.makeroom.la/artists/catalina-ouyang"
+    },
+    {
+      "title": "risk assessment (fugue state / : h** volant touch.)",
+      "kind": "sculpture",
+      "year": "2020–2021",
+      "medium": "School desk, iron drains, paper pulp, wood, turtle carapace, plaster, epoxy clay, acrylic paint, beeswax, horse hair, fabric, resin, gauze, carpet, light, graphite, digital print on paper, document sleeve",
+      "note": null,
+      "dimensions": "190.5 x 177.8 x 76.2 cm",
+      "collection": null,
+      "file": "03-risk-assessment-fugue-state.jpg",
+      "credit": "© Cato Ouyang. Courtesy Night Gallery",
+      "sourceUrl": "https://nightgallery.ca/artists/cato-ouyang/featured-works"
+    },
+    {
+      "title": "reliquary corpus",
+      "kind": "sculpture",
+      "year": "2021",
+      "medium": "Wood, soapstone, hair, gray wolf skull, plaster, paper pulp, epoxy clay, color pigment, resin, beeswax, chiffon, polymer clay, light, book",
+      "note": null,
+      "dimensions": "236.9 x 31.8 x 20.6 cm",
+      "collection": null,
+      "file": "04-reliquary-corpus.jpg",
+      "credit": "© Cato Ouyang. Courtesy Night Gallery",
+      "sourceUrl": "https://nightgallery.ca/artists/cato-ouyang/featured-works"
+    },
+    {
+      "title": "font VII",
+      "kind": "sculpture",
+      "year": "2021",
+      "medium": "Soapstone, raw egg, white vinegar, stop loss trap, horse hair, binder, plaster, pigment, beeswax, epoxy clay, gauze, kombucha mothers, paper",
+      "note": null,
+      "dimensions": "15.2 x 38.1 x 22.9 cm",
+      "collection": null,
+      "file": "05-font-vii.jpg",
+      "credit": "© Cato Ouyang. Courtesy Make Room, Los Angeles",
+      "sourceUrl": "https://www.makeroom.la/artists/catalina-ouyang"
+    },
+    {
+      "title": "Lucretia's Apostrophe",
+      "kind": "sculpture",
+      "year": "2022",
+      "medium": "Found drawers, cement, steel, horse femur, polyester fleece, walnut, light, found fabric, carved soapstone, carved maple, papier mâché, beeswax, acrylic, copper",
+      "note": null,
+      "dimensions": "156.2 x 81.3 x 61 cm",
+      "collection": null,
+      "file": "06-lucretias-apostrophe.jpg",
+      "credit": "© Cato Ouyang. Courtesy Night Gallery",
+      "sourceUrl": "https://nightgallery.ca/artists/cato-ouyang/featured-works"
+    },
+    {
+      "title": "Syzygy (video still)",
+      "kind": "film",
+      "year": "2022",
+      "medium": "3-channel video with sound, scrim, 3 projectors, motors, directional speakers, 45 min",
+      "note": "Shown in forgive everything at Night Gallery, Los Angeles (2022).",
+      "dimensions": null,
+      "collection": null,
+      "file": "07-syzygy.jpg",
+      "credit": "© Cato Ouyang. Courtesy Night Gallery",
+      "sourceUrl": "https://nightgallery.ca/artists/cato-ouyang/featured-works"
+    },
+    {
+      "title": "Heads",
+      "kind": "sculpture",
+      "year": "2024",
+      "medium": "Mid-century display case, plywood, concrete, deconstructed scythes, papier-mâché, plaster, handmade eye, found textiles, artist's skirt, shaving mirror",
+      "note": null,
+      "dimensions": "193 x 180.3 x 81.3 cm",
+      "collection": null,
+      "file": "08-heads.jpg",
+      "credit": "© Cato Ouyang. Courtesy Night Gallery",
+      "sourceUrl": "https://nightgallery.ca/artists/cato-ouyang/featured-works"
+    },
+    {
+      "title": "carrier / the seeking soul",
+      "kind": "sculpture",
+      "year": "2026",
+      "medium": "Wood, cyanotype on cotton, plaster, extruded polystyrene, steel, soapstone, found textile",
+      "note": null,
+      "dimensions": "190.5 x 104.1 x 43.2 cm",
+      "collection": null,
+      "file": "09-carrier-the-seeking-soul.jpg",
+      "credit": "© Cato Ouyang. Courtesy Night Gallery",
+      "sourceUrl": "https://nightgallery.ca/artists/cato-ouyang/featured-works"
+    }
+  ]
+}
