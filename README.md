@@ -1,1 +1,1 @@
-Temporary branch: image discovery for Chuqian's catalogue.
+Temporary branch: image discovery .
