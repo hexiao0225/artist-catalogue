@@ -1,0 +1,125 @@
+{
+  "name": "EJ Hauser",
+  "nativeName": null,
+  "born": 1967,
+  "died": null,
+  "birthplace": "Peru, Illinois, USA",
+  "basedIn": "Brooklyn and Upstate New York",
+  "nationality": "American",
+  "categories": [
+    "painting"
+  ],
+  "mediums": [
+    "Painting",
+    "Drawing",
+    "Printmaking"
+  ],
+  "tags": [
+    "Drawing-based painting",
+    "Repetition",
+    "Symbols",
+    "Nature",
+    "Pattern"
+  ],
+  "bio": "EJ Hauser (they/them) was born in 1967 in Peru, Illinois, and lives and works in Brooklyn and Upstate New York. They received a BFA from the University of Pennsylvania (1991), a certificate in sculpture from the Pennsylvania Academy of the Fine Arts, and an MFA from the University of North Carolina at Chapel Hill (1998). Hauser's paintings begin as drawings that are revisited and reworked many times. Animals, trees, waves, weather and night skies become a personal vocabulary of recurring signs, layered so that earlier marks show through and the surface seems to vibrate. They have shown at Regina Rex (2017), Anton Kern (2022), Parrasch Heijnen, Los Angeles (2023), and Haverkampf Leistenschneider, Berlin (2023), and with Derek Eller Gallery, New York, since 2019, including Grow Room (2024) and Sun Water Sky (2026). Hauser has taught at Columbia, Yale, Hunter and MICA, was the Teiger Mentor in the Arts at Cornell (2023), and was a visiting artist at Island Press, Washington University in St. Louis (2025).",
+  "studyNotes": [
+    "Let drawing lead. Hauser calls their drawing practice a 'drawing lab': compositions start as drawings that are redrawn several times before they become paintings. The Brooklyn Rail paired the drawing Untitled (Grow Room Series #7) (2023) with the painting Golden Ticket (2023–24): the drawing feels quick and the painting built and slow. Try one image as a fast drawing and then as a slow painting.",
+    "Build a private set of signs. Comb, cone and dot shapes, waves, wings and star charts recur from picture to picture. They read halfway between icon and abstraction, with what Derek Eller calls a 'totemic' presence. Invent five marks for things you see every day and reuse them.",
+    "Repeat to find variation. Reviewers note that repeating the same image produces 'minute, almost indescribable variation', and that the icons progress 'with version notes'. Compare Light + Wave and Shadow + Wave (both 2022) side by side.",
+    "Keep the earlier layers visible. Layered colour leaves traces of earlier marks, so the surface shimmers rather than sitting flat. Paint a pattern, then repaint it slightly shifted in a new colour without covering the first one.",
+    "Plan carefully, then mark with energy. The Grow Room review observes that the marks look spontaneous despite the planning behind them. Fix the structure first, then put the marks down quickly and decisively."
+  ],
+  "myNotes": [],
+  "recommendedBy": null,
+  "seenAt": null,
+  "status": "to-study",
+  "addedOn": "2026-11-06",
+  "links": [
+    {
+      "label": "Derek Eller Gallery",
+      "url": "https://derekeller.com/artists/ej-hauser"
+    },
+    {
+      "label": "Brooklyn Rail: Grow Room (2024)",
+      "url": "https://brooklynrail.org/2024/02/artseen/EJ-Hauser-Grow-Room/"
+    },
+    {
+      "label": "Brooklyn Rail: Barn Spirits (2019)",
+      "url": "https://brooklynrail.org/2019/02/artseen/EJ-Hauser-Barn-Spirits"
+    },
+    {
+      "label": "Parrasch Heijnen: Mountains and Peaks",
+      "url": "https://www.parraschheijnen.com/exhibitions/ejhauser-mountainspeaks"
+    }
+  ],
+  "portrait": null,
+  "videos": [],
+  "works": [
+    {
+      "title": "blue wing blue starchart",
+      "kind": "painting",
+      "year": "2018",
+      "medium": "Oil on canvas",
+      "dimensions": "59 × 39 in.",
+      "collection": null,
+      "file": "01-blue-wing-blue-starchart.jpg",
+      "credit": "© EJ Hauser. Courtesy the artist and Derek Eller Gallery, New York",
+      "sourceUrl": "https://derekeller.com/artists/ej-hauser"
+    },
+    {
+      "title": "Big Early Summer",
+      "kind": "painting",
+      "year": "2022",
+      "medium": "Oil on canvas",
+      "dimensions": "80 × 72 in.",
+      "collection": null,
+      "file": "02-big-early-summer.jpg",
+      "credit": "© EJ Hauser. Courtesy the artist and Derek Eller Gallery, New York",
+      "sourceUrl": "https://derekeller.com/artists/ej-hauser"
+    },
+    {
+      "title": "Light + Wave",
+      "kind": "painting",
+      "year": "2022",
+      "medium": "Oil on canvas",
+      "dimensions": "52 × 39 in.",
+      "collection": null,
+      "file": "03-light-wave.jpg",
+      "credit": "© EJ Hauser. Courtesy the artist and Derek Eller Gallery, New York",
+      "sourceUrl": "https://derekeller.com/artists/ej-hauser"
+    },
+    {
+      "title": "Dream Weaver",
+      "kind": "painting",
+      "year": "2023–2024",
+      "medium": "Acrylic on canvas",
+      "dimensions": "70 × 55 in.",
+      "collection": null,
+      "file": "04-dream-weaver.jpg",
+      "credit": "© EJ Hauser. Courtesy the artist and Derek Eller Gallery, New York",
+      "sourceUrl": "https://derekeller.com/artists/ej-hauser"
+    },
+    {
+      "title": "Northern Lights",
+      "kind": "painting",
+      "year": "2023–2024",
+      "medium": "Acrylic on canvas",
+      "dimensions": "70 × 55 in.",
+      "collection": null,
+      "file": "05-northern-lights.jpg",
+      "credit": "© EJ Hauser. Courtesy the artist and Derek Eller Gallery, New York",
+      "sourceUrl": "https://derekeller.com/artists/ej-hauser"
+    },
+    {
+      "title": "Sky-Iron",
+      "kind": "painting",
+      "year": "2025",
+      "medium": "Acrylic and oil on canvas",
+      "dimensions": "20 × 16 in.",
+      "collection": null,
+      "file": "06-sky-iron.jpg",
+      "credit": "© EJ Hauser. Courtesy the artist and Derek Eller Gallery, New York",
+      "sourceUrl": "https://derekeller.com/artists/ej-hauser"
+    }
+  ]
+}
