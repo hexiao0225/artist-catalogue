@@ -1,0 +1,125 @@
+{
+  "name": "Shara Hughes",
+  "nativeName": null,
+  "born": 1981,
+  "died": null,
+  "birthplace": "Atlanta, Georgia, USA",
+  "basedIn": "Brooklyn, New York",
+  "nationality": "American",
+  "categories": [
+    "painting"
+  ],
+  "mediums": [
+    "Painting",
+    "Ceramics",
+    "Printmaking"
+  ],
+  "tags": [
+    "Invented landscape",
+    "Colour",
+    "Psychological space",
+    "Mixed paint and dye",
+    "Art history"
+  ],
+  "bio": "Shara Hughes was born in 1981 in Atlanta, Georgia, and lives and works in Brooklyn. She graduated from the Rhode Island School of Design in 2004 and attended the Skowhegan School of Painting and Sculpture. She paints invented landscapes, made from imagination rather than observation, with floating moons, gnarled trees, blazing suns and flowers in dense, high-key colour. She mixes oil, acrylic and dye on the same canvas and shifts perspective within a single picture. A room of her paintings in the 2017 Whitney Biennial brought her wide attention. Museum exhibitions followed at the Contemporary Art Museum St. Louis (On Edge, 2021), Yuz Museum, Shanghai (2021), Kunstmuseum Luzern (Time Lapsed, 2022), Kunsten, Aalborg (2023), the Norton Museum of Art (Inside Outside, 2025) and the Albertina, Vienna (Sink In, 2026–27). Her work is in the collections of the Whitney, the Metropolitan Museum of Art, the Denver Art Museum and the Smithsonian American Art Museum. She works with Galerie Eva Presenhuber, Pilar Corrias and David Kordansky Gallery.",
+  "studyNotes": [
+    "Paint the landscape from the inside. Hughes says her paintings are made 'purely from the inside', with no photograph or view in front of her, but that inside is full of art history and the work of her peers. Try a landscape with no reference, then look for whose painting crept in.",
+    "Mix materials for different surfaces. One canvas can hold stained dye, thin acrylic and thick oil, so soaked-in passages sit next to opaque, worked ones. Look for where the dye bleeds into raw canvas in Naked Lady (2019) or The Gleaming (2021).",
+    "Let the landscape carry a mood. Trees, suns and paths stand in for states of mind. Artnet calls them 'twisted landscapes of her inner psyche'. Titles such as The Delicate Gloom, A Turbulent Year and Be Bold name the feeling. Choose the emotion first, then the weather and colour.",
+    "Break the single viewpoint. Frames inside the picture, tunnels of trees and paths that rise up the canvas flatten and tilt the space, so you look through and at the painting at the same time. Compare The Great Divide (2020) with a conventional receding landscape.",
+    "Be comfortable failing. In a 2024 interview she said, 'I am comfortable with failing'. Pictures change course as they go rather than following a plan. Give yourself permission to repaint a whole area when the painting asks for it."
+  ],
+  "myNotes": [],
+  "recommendedBy": null,
+  "seenAt": null,
+  "status": "to-study",
+  "addedOn": "2026-11-06",
+  "links": [
+    {
+      "label": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shara_Hughes"
+    },
+    {
+      "label": "Galerie Eva Presenhuber",
+      "url": "https://presenhuber.com/artists/shara-hughes"
+    },
+    {
+      "label": "Pilar Corrias (CV)",
+      "url": "https://www.pilarcorrias.com/artists/42-shara-hughes/cv/"
+    },
+    {
+      "label": "David Kordansky Gallery",
+      "url": "https://davidkordanskygallery.com/"
+    }
+  ],
+  "portrait": null,
+  "videos": [],
+  "works": [
+    {
+      "title": "The Delicate Gloom",
+      "kind": "painting",
+      "year": "2018",
+      "medium": "Oil, dye and acrylic on canvas",
+      "dimensions": "198 × 167.5 cm",
+      "collection": null,
+      "file": "01-the-delicate-gloom.jpg",
+      "credit": "© Shara Hughes. Courtesy the artist and Galerie Eva Presenhuber, Zurich / Vienna",
+      "sourceUrl": "https://presenhuber.com/artists/shara-hughes"
+    },
+    {
+      "title": "Naked Lady",
+      "kind": "painting",
+      "year": "2019",
+      "medium": "Oil and dye on canvas",
+      "dimensions": "198 × 167.5 cm",
+      "collection": null,
+      "file": "02-naked-lady.jpg",
+      "credit": "© Shara Hughes. Courtesy the artist and Galerie Eva Presenhuber, Zurich / Vienna",
+      "sourceUrl": "https://presenhuber.com/artists/shara-hughes"
+    },
+    {
+      "title": "The Great Divide",
+      "kind": "painting",
+      "year": "2020",
+      "medium": "Oil and acrylic on canvas",
+      "dimensions": "198 × 167.5 cm",
+      "collection": null,
+      "file": "03-the-great-divide.jpg",
+      "credit": "© Shara Hughes. Courtesy the artist and Galerie Eva Presenhuber, Zurich / Vienna",
+      "sourceUrl": "https://presenhuber.com/artists/shara-hughes"
+    },
+    {
+      "title": "A Turbulent Year",
+      "kind": "painting",
+      "year": "2020",
+      "medium": "Oil and acrylic on canvas",
+      "dimensions": "172.5 × 152.5 cm",
+      "collection": null,
+      "file": "04-a-turbulent-year.jpg",
+      "credit": "© Shara Hughes. Courtesy the artist and Galerie Eva Presenhuber, Zurich / Vienna",
+      "sourceUrl": "https://presenhuber.com/artists/shara-hughes"
+    },
+    {
+      "title": "Be Bold",
+      "kind": "painting",
+      "year": "2021",
+      "medium": "Oil, acrylic and dye on canvas",
+      "dimensions": "244 × 183 cm",
+      "collection": null,
+      "file": "05-be-bold.jpg",
+      "credit": "© Shara Hughes. Courtesy the artist and Galerie Eva Presenhuber, Zurich / Vienna",
+      "sourceUrl": "https://presenhuber.com/artists/shara-hughes"
+    },
+    {
+      "title": "The Gleaming",
+      "kind": "painting",
+      "year": "2021",
+      "medium": "Oil, acrylic and dye on canvas",
+      "dimensions": "244 × 183 cm",
+      "collection": null,
+      "file": "06-the-gleaming.jpg",
+      "credit": "© Shara Hughes. Courtesy the artist and Galerie Eva Presenhuber, Zurich / Vienna",
+      "sourceUrl": "https://presenhuber.com/artists/shara-hughes"
+    }
+  ]
+}

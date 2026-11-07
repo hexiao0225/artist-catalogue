@@ -1,0 +1,119 @@
+{
+  "name": "Michael Berryhill",
+  "nativeName": null,
+  "born": 1972,
+  "died": null,
+  "birthplace": "El Paso, Texas, USA",
+  "basedIn": "New York",
+  "nationality": "American",
+  "categories": [
+    "painting"
+  ],
+  "mediums": [
+    "Painting"
+  ],
+  "tags": [
+    "Abstraction and figuration",
+    "Luminous colour",
+    "Texas",
+    "Memory",
+    "Additive and reductive process"
+  ],
+  "bio": "Michael Berryhill was born in El Paso, Texas, in 1972 and lives and works in New York. He earned a BFA at the University of Texas at Austin, where he studied with Peter Saul, and an MFA at Columbia University. His oil paintings on linen sit between abstraction and figuration: shapes and colour fields that resolve, slowly, into horses, figures, mountains and sunsets, or stay unnamed. He has had solo exhibitions at CTRL, Houston (2010), KANSAS, New York (2012, 2014, 2016), Night Gallery, Los Angeles (2016), Kate Werble Gallery, New York (2017), and Galería Marta Cervera, Madrid (2017). El Paso (Derek Eller Gallery, New York, 2022), his first show with the gallery, drew on his childhood in West Texas: the sculptor Luis Jiménez, riding bareback in Chaparral, Catholic school, Friday-night football and trips across the border to Juárez.",
+  "studyNotes": [
+    "Build up and dig down. Derek Eller describes his method as both additive and reductive, like a prospector who excavates a surface and records what he finds in form and colour, letting some findings surface and burying others. Try scraping or sanding back a layer and keeping what shows through.",
+    "Decide, painting by painting, how nameable it will be. Berryhill says he chooses between a 'nameable' and an 'unnameable' direction. Compare a picture that resolves into a scene, like Wading (2022), with one that holds as pure arrangement.",
+    "Make the image hard to read at first. In Wading a cowboy-hatted figure seems to ride a purple horse but is actually walking ahead of it toward the sunset, seen from behind. A delayed reading keeps the viewer looking longer.",
+    "Use colour as light. His 'distinctive luminous palette' puts saturated, unexpected hues (purple horses, pink skies) next to each other so that the whole field glows. Study how warm and cool pairs set up the sense of desert light.",
+    "Paint memory, not observation. The El Paso works come from childhood places and people rather than from life or photographs. Pick one place you knew as a child and paint it from memory in simplified shapes."
+  ],
+  "myNotes": [],
+  "recommendedBy": null,
+  "seenAt": null,
+  "status": "to-study",
+  "addedOn": "2026-11-06",
+  "links": [
+    {
+      "label": "Derek Eller Gallery",
+      "url": "https://derekeller.com/artists/michael-berryhill"
+    },
+    {
+      "label": "Derek Eller: El Paso (2022)",
+      "url": "https://derekeller.com/exhibitions/michael-berryhill/press-release"
+    },
+    {
+      "label": "Night Gallery",
+      "url": "https://nightgallery.ca/"
+    }
+  ],
+  "portrait": null,
+  "videos": [],
+  "works": [
+    {
+      "title": "Wading",
+      "kind": "painting",
+      "year": "2022",
+      "medium": "Oil on linen",
+      "dimensions": "62 × 48 in.",
+      "collection": null,
+      "file": "01-wading.jpg",
+      "credit": "© Michael Berryhill. Courtesy the artist and Derek Eller Gallery, New York",
+      "sourceUrl": "https://derekeller.com/artists/michael-berryhill"
+    },
+    {
+      "title": "Pink Mustang",
+      "kind": "painting",
+      "year": "2022",
+      "medium": "Oil on linen",
+      "dimensions": "84 × 64 in.",
+      "collection": null,
+      "file": "02-pink-mustang.jpg",
+      "credit": "© Michael Berryhill. Courtesy the artist and Derek Eller Gallery, New York",
+      "sourceUrl": "https://derekeller.com/artists/michael-berryhill"
+    },
+    {
+      "title": "Taconeta",
+      "kind": "painting",
+      "year": "2022",
+      "medium": "Oil on linen",
+      "dimensions": "62 × 48 in.",
+      "collection": null,
+      "file": "03-taconeta.jpg",
+      "credit": "© Michael Berryhill. Courtesy the artist and Derek Eller Gallery, New York",
+      "sourceUrl": "https://derekeller.com/artists/michael-berryhill"
+    },
+    {
+      "title": "Hueco Tanks",
+      "kind": "painting",
+      "year": "2022",
+      "medium": "Oil on linen",
+      "dimensions": "20 × 16 in.",
+      "collection": null,
+      "file": "04-hueco-tanks.jpg",
+      "credit": "© Michael Berryhill. Courtesy the artist and Derek Eller Gallery, New York",
+      "sourceUrl": "https://derekeller.com/artists/michael-berryhill"
+    },
+    {
+      "title": "Self-Portrait",
+      "kind": "painting",
+      "year": "2022",
+      "medium": "Oil on linen",
+      "dimensions": "63 × 60 in.",
+      "collection": null,
+      "file": "05-self-portrait.jpg",
+      "credit": "© Michael Berryhill. Courtesy the artist and Derek Eller Gallery, New York",
+      "sourceUrl": "https://derekeller.com/artists/michael-berryhill"
+    },
+    {
+      "title": "WALL",
+      "kind": "painting",
+      "year": "2024",
+      "medium": "Oil on linen",
+      "dimensions": "20 × 24 in.",
+      "collection": null,
+      "file": "06-wall.jpg",
+      "credit": "© Michael Berryhill. Courtesy the artist and Derek Eller Gallery, New York",
+      "sourceUrl": "https://derekeller.com/artists/michael-berryhill"
+    }
+  ]
+}
